@@ -1,0 +1,58 @@
+name: Update picks & deploy
+
+on:
+  schedule:
+    - cron: "5 10 * * 1-5"      # long-term: daily after IST close (10:00 UTC)
+    - cron: "*/30 4-9 * * 1-5"  # intraday watchlist: every 30 min, market hours
+  workflow_dispatch:            # manual "Run now" button
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r backend/requirements.txt
+      - name: Pick mode by time of day
+        id: mode
+        run: |
+          H=$(date -u +%H)
+          if [ "$H" -ge 10 ]; then echo "m=long" >> $GITHUB_OUTPUT
+          else echo "m=intra" >> $GITHUB_OUTPUT; fi
+      - name: Run engine + record + alerts
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: cd backend && python pipeline.py ${{ steps.mode.outputs.m }}
+      - name: Commit data + picks
+        run: |
+          git config user.name "signal-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add app/picks.json data/ || true
+          git commit -m "update $(date -u +%FT%TZ)" || echo "no change"
+          git push || echo "nothing to push"
+      - name: Upload Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: app
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.dep.outputs.page_url }}
+    steps:
+      - id: dep
+        uses: actions/deploy-pages@v4

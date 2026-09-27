@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1117">
+<title>Signal</title>
+<link rel="manifest" href="manifest.json">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{--bg:#0d1117;--panel:#161b22;--panel-2:#1c232c;--line:#2a323d;
+    --ink:#e8edf3;--ink-dim:#8b98a8;--ink-faint:#5b6775;
+    --up:#2ec26b;--down:#f0553f;--amber:#f5b544;--accent:#4a9df0;--intra:#f5b544;--long:#4a9df0;
+    box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{background:var(--bg);color:var(--ink);font-family:'Sora',system-ui,sans-serif;font-size:15px;line-height:1.4;-webkit-font-smoothing:antialiased}
+  .mono{font-family:'IBM Plex Mono',monospace;font-variant-numeric:tabular-nums}
+  header{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:linear-gradient(180deg,var(--bg) 72%,transparent);padding:16px 18px 6px}
+  .brand{display:flex;align-items:baseline;gap:8px}
+  .brand h1{font-size:22px;font-weight:700;letter-spacing:-.5px}
+  .brand .dot{width:9px;height:9px;border-radius:50%;background:var(--up);box-shadow:0 0 10px var(--up);align-self:center}
+  .brand .dot.err{background:var(--down);box-shadow:0 0 10px var(--down)}
+  .brand span{color:var(--ink-faint);font-size:12px}
+  .asof{color:var(--ink-dim);font-size:12px;margin-top:2px;display:flex;justify-content:space-between;align-items:center}
+  .refresh{background:var(--panel);border:1px solid var(--line);color:var(--accent);font-size:12px;font-weight:600;padding:5px 12px;border-radius:8px;cursor:pointer}
+  .refresh:active{transform:scale(.96)}
+  .health-warn{background:rgba(240,85,63,.1);border:1px solid rgba(240,85,63,.3);color:var(--down);font-size:11.5px;padding:8px 11px;border-radius:9px;margin:6px 18px 0;display:none}
+  .health-warn.show{display:block}
+  .tabs{display:flex;gap:6px;padding:10px 18px 4px;position:sticky;top:calc(env(safe-area-inset-top,0px) + 66px);z-index:19;background:var(--bg)}
+  .tab{flex:1;text-align:center;padding:9px 4px;border-radius:10px;background:var(--panel);color:var(--ink-dim);font-weight:600;font-size:13px;border:1px solid var(--line);cursor:pointer;transition:.15s}
+  .tab .sub{display:block;font-size:10px;font-weight:400;margin-top:2px;color:var(--ink-faint)}
+  .tab.active[data-t="intra"]{background:var(--panel-2);color:var(--intra);border-color:var(--intra)}
+  .tab.active[data-t="long"]{background:var(--panel-2);color:var(--long);border-color:var(--long)}
+  .tab.active[data-t="saved"]{background:var(--panel-2);color:var(--up);border-color:var(--up)}
+  .tab.active[data-t="perf"]{background:var(--panel-2);color:var(--accent);border-color:var(--accent)}
+  main{padding:8px 14px 40px}
+  .notice{background:rgba(245,181,68,.08);border:1px solid rgba(245,181,68,.25);color:var(--amber);font-size:11px;line-height:1.45;padding:9px 11px;border-radius:9px;margin:6px 4px 12px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;margin-bottom:11px;overflow:hidden}
+  .card-head{display:flex;align-items:center;gap:11px;padding:12px 13px;cursor:pointer}
+  .rank{width:28px;height:28px;flex:none;border-radius:8px;display:grid;place-items:center;font-weight:700;font-size:13px;font-family:'IBM Plex Mono',monospace}
+  .rank.r1{background:var(--amber);color:#1a1200}.rank.r2{background:#c9d1d9;color:#0d1117}.rank.r3{background:#b06b3a;color:#fff}
+  .rank.rn{background:var(--panel-2);color:var(--ink-dim);border:1px solid var(--line)}
+  .tick{flex:1;min-width:0}
+  .tick .sym{font-weight:700;font-size:15px;letter-spacing:-.2px;display:flex;align-items:center;gap:6px}
+  .vmark{font-size:11px;font-weight:600;padding:0 5px;border-radius:4px}
+  .vmark.verified{background:rgba(46,194,107,.15);color:var(--up)}
+  .vmark.flag{background:rgba(240,85,63,.15);color:var(--down)}
+  .vmark.unverified{background:rgba(139,152,168,.12);color:var(--ink-faint)}
+  .tick .name{color:var(--ink-faint);font-size:11px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .score-badge{text-align:right;flex:none}
+  .score-badge .n{font-size:19px;font-weight:700;font-family:'IBM Plex Mono',monospace;line-height:1}
+  .score-badge .g{font-size:9.5px;font-weight:600;padding:2px 6px;border-radius:5px;display:inline-block;margin-top:3px}
+  .g.buy{background:rgba(46,194,107,.15);color:var(--up)}.g.acc{background:rgba(74,157,240,.15);color:var(--accent)}
+  .g.hold{background:rgba(245,181,68,.15);color:var(--amber)}.g.a{background:rgba(46,194,107,.15);color:var(--up)}.g.b{background:rgba(74,157,240,.15);color:var(--accent)}
+  .star{flex:none;font-size:19px;color:var(--ink-faint);cursor:pointer;padding:0 2px}.star.on{color:var(--amber)}
+  .chev{color:var(--ink-faint);transition:.2s;flex:none;font-size:12px}.card.open .chev{transform:rotate(90deg)}
+  .levels{display:flex;border-top:1px solid var(--line);background:var(--panel-2)}
+  .lv{flex:1;padding:8px 5px;text-align:center;border-right:1px solid var(--line)}.lv:last-child{border-right:none}
+  .lv .k{font-size:9px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.4px}
+  .lv .v{font-size:13.5px;font-weight:600;font-family:'IBM Plex Mono',monospace;margin-top:2px}
+  .lv .v.exit{color:var(--up)}.lv .v.stop{color:var(--down)}
+  .detail{max-height:0;overflow:hidden;transition:max-height .28s ease}.card.open .detail{max-height:400px}
+  .detail-in{padding:12px 13px;border-top:1px solid var(--line)}
+  .hold{display:flex;align-items:center;gap:8px;margin-bottom:11px;font-size:12px;color:var(--ink-dim);flex-wrap:wrap}
+  .pill{background:var(--panel-2);border:1px solid var(--line);border-radius:20px;padding:3px 10px;font-size:11px;color:var(--ink)}
+  .sub-title{font-size:10px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.5px;margin:0 0 7px}
+  .bars{display:flex;flex-direction:column;gap:6px}
+  .bar-row{display:grid;grid-template-columns:74px 1fr 24px;align-items:center;gap:8px;font-size:11px}
+  .bar-row .lab{color:var(--ink-dim)}
+  .track{height:6px;background:var(--panel-2);border-radius:4px;overflow:hidden}.fill{height:100%;border-radius:4px}
+  .bar-row .sc{text-align:right;font-family:'IBM Plex Mono',monospace;color:var(--ink)}
+  .empty{text-align:center;color:var(--ink-faint);padding:40px 20px;font-size:13px;line-height:1.6}
+  .statgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-bottom:14px}
+  .statbox{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:13px}
+  .statbox .k{font-size:11px;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.4px}
+  .statbox .v{font-size:22px;font-weight:700;font-family:'IBM Plex Mono',monospace;margin-top:4px}
+  .statbox .v.pos{color:var(--up)}.statbox .v.neg{color:var(--down)}
+  .posrow{display:flex;align-items:center;gap:10px;background:var(--panel);border:1px solid var(--line);border-radius:11px;padding:11px 13px;margin-bottom:8px}
+  .posrow .s{flex:1}.posrow .s .sym{font-weight:600;font-size:14px}.posrow .s .meta{font-size:11px;color:var(--ink-faint)}
+  .posrow .r{font-family:'IBM Plex Mono',monospace;font-weight:700;font-size:15px}
+  .posrow .r.pos{color:var(--up)}.posrow .r.neg{color:var(--down)}
+  footer{text-align:center;color:var(--ink-faint);font-size:10px;line-height:1.5;padding:16px 24px 8px}
+  .install{position:fixed;bottom:calc(env(safe-area-inset-bottom,0px) + 14px);left:50%;transform:translateX(-50%);
+    background:var(--accent);color:#04213f;font-weight:600;font-size:13px;padding:10px 18px;border-radius:24px;
+    border:none;cursor:pointer;box-shadow:0 4px 16px rgba(0,0,0,.4);display:none;z-index:30}
+  .install.show{display:block}
+</style>
+</head>
+<body>
+<header>
+  <div class="brand"><h1>Signal</h1><span class="dot" id="dot"></span><span id="lbl">live</span></div>
+  <div class="asof"><span class="mono" id="asof">loading…</span>
+    <button class="refresh" onclick="load()">↻ Refresh</button></div>
+</header>
+<div class="health-warn" id="healthWarn"></div>
+
+<div class="tabs">
+  <div class="tab active" data-t="intra" onclick="setTab('intra')">Intraday<span class="sub">momentum</span></div>
+  <div class="tab" data-t="long" onclick="setTab('long')">Long-term<span class="sub">value</span></div>
+  <div class="tab" data-t="saved" onclick="setTab('saved')">Saved<span class="sub">watchlist</span></div>
+  <div class="tab" data-t="perf" onclick="setTab('perf')">Record<span class="sub">history</span></div>
+</div>
+
+<main>
+  <div class="notice" id="notice"></div>
+  <div id="list"><div class="empty">Loading picks…</div></div>
+</main>
+
+<button class="install" id="installBtn">Install app</button>
+
+<footer>
+  Delayed (~15 min) data. Check = price cross-verified, warning = data mismatch, verify manually. Rankings and the record track signal quality, not predictions or real P&L. Not investment advice.
+</footer>
+
+<script>
+const DATA_URL="picks.json";
+let DATA={}, tab="intra";
+let SAVED=JSON.parse(localStorage.getItem("signal_saved")||"[]");
+const NOTICE={
+  intra:"Momentum tilt - buy strength. Delayed watchlist + levels, not live tick execution. Best during market hours.",
+  long:"Value tilt - quality on weakness. Fundamentals gate + entry timing. Refreshes daily.",
+  saved:"Your starred picks. Tap the star on any pick to add or remove.",
+  perf:"Auto-tracked signal performance - how past top picks moved from when first shown. Paper record, not real P&L."
+};
+async function load(){
+  const dot=document.getElementById('dot');
+  try{
+    const r=await fetch(DATA_URL+"?ts="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error(r.status);
+    DATA=await r.json();
+    document.getElementById('asof').textContent="Updated "+(DATA.asof||"-");
+    const hw=document.getElementById('healthWarn');
+    if(DATA.health&&DATA.health.ok===false){hw.classList.add('show');
+      hw.textContent="Last run degraded - data may be incomplete. Verify before acting.";dot.className='dot err';}
+    else{hw.classList.remove('show');dot.className='dot';}
+  }catch(e){document.getElementById('asof').textContent="offline - tap refresh";dot.className='dot err';}
+  render();
+}
+const CMAP=v=>v>=8?"var(--up)":v>=5?"var(--amber)":"var(--down)";
+const fmt=n=>Number(n).toLocaleString('en-IN',{minimumFractionDigits:2,maximumFractionDigits:2});
+const rankClass=i=>i===0?"r1":i===1?"r2":i===2?"r3":"rn";
+const isSaved=s=>SAVED.includes(s);
+function toggleSave(sym,ev){ev.stopPropagation();
+  SAVED=isSaved(sym)?SAVED.filter(x=>x!==sym):[...SAVED,sym];
+  localStorage.setItem("signal_saved",JSON.stringify(SAVED));render();}
+function vsym(vm){return vm==='verified'?'\u2713':vm==='flag'?'\u26a0':'?';}
+function pickCard(d,i,showRank){
+  const vm=d.verify||"unverified";
+  return '<div class="card" onclick="toggle(this)"><div class="card-head">'+
+    (showRank?'<div class="rank '+rankClass(i)+'">'+(i+1)+'</div>':'')+
+    '<div class="tick"><div class="sym">'+d.sym+' <span class="vmark '+vm+'">'+vsym(vm)+'</span></div>'+
+    '<div class="name">'+(d.name||d.sym)+'</div></div>'+
+    '<div class="score-badge"><div class="n">'+d.score+'</div><span class="g '+d.grade[1]+'">'+d.grade[0]+'</span></div>'+
+    '<div class="star '+(isSaved(d.sym)?'on':'')+'" onclick="toggleSave(\''+d.sym+'\',event)">'+(isSaved(d.sym)?'\u2605':'\u2606')+'</div>'+
+    '<div class="chev">\u25b6</div></div>'+
+    '<div class="levels">'+
+    '<div class="lv"><div class="k">Entry</div><div class="v mono">\u20b9'+fmt(d.entry)+'</div></div>'+
+    '<div class="lv"><div class="k">Target</div><div class="v exit mono">\u20b9'+fmt(d.exit)+'</div></div>'+
+    '<div class="lv"><div class="k">Stop</div><div class="v stop mono">\u20b9'+fmt(d.stop)+'</div></div></div>'+
+    '<div class="detail"><div class="detail-in"><div class="hold">Holding <span class="pill">'+d.hold+'</span>'+
+    (vm==='flag'?'<span class="pill" style="color:var(--down)">\u26a0 verify data</span>':'')+'</div>'+
+    '<p class="sub-title">Score breakdown</p><div class="bars">'+
+    (d.factors||[]).map(f=>'<div class="bar-row"><span class="lab">'+f[0]+'</span>'+
+      '<div class="track"><div class="fill" style="width:'+(f[1]*10)+'%;background:'+CMAP(f[1])+'"></div></div>'+
+      '<span class="sc">'+f[1]+'</span></div>').join('')+'</div></div></div></div>';
+}
+function render(){
+  const el=document.getElementById('list');
+  document.getElementById('notice').textContent=NOTICE[tab];
+  if(tab==='perf') return renderPerf(el);
+  if(tab==='saved') return renderSaved(el);
+  const rows=(DATA[tab]||[]);
+  if(!rows.length){el.innerHTML='<div class="empty">No picks here right now.<br>Intraday needs market hours (9:15-15:30 IST) and qualifying setups.</div>';return;}
+  el.innerHTML=rows.map((d,i)=>pickCard(d,i,true)).join('');
+}
+function renderSaved(el){
+  const all=[...(DATA.intra||[]),...(DATA.long||[])];
+  const seen=new Set(),rows=[];
+  for(const d of all){if(isSaved(d.sym)&&!seen.has(d.sym)){seen.add(d.sym);rows.push(d);}}
+  if(!rows.length){el.innerHTML='<div class="empty">No saved picks yet.<br>Tap the star on any pick to add it to your watchlist.</div>';return;}
+  el.innerHTML=rows.map(d=>pickCard(d,0,false)).join('');
+}
+function renderPerf(el){
+  const s=DATA.stats;
+  if(!s){el.innerHTML='<div class="empty">No performance record yet.<br>It builds automatically as picks are tracked and closed.</div>';return;}
+  const open=DATA.track_open||[];
+  el.innerHTML='<div class="statgrid">'+
+    '<div class="statbox"><div class="k">Win rate</div><div class="v '+(s.win_rate>=50?'pos':'neg')+'">'+(s.win_rate!=null?s.win_rate+'%':'-')+'</div></div>'+
+    '<div class="statbox"><div class="k">Avg return</div><div class="v '+(s.avg_return>=0?'pos':'neg')+'">'+(s.avg_return>0?'+':'')+s.avg_return+'%</div></div>'+
+    '<div class="statbox"><div class="k">Closed trades</div><div class="v">'+s.closed_count+'</div></div>'+
+    '<div class="statbox"><div class="k">Open now</div><div class="v">'+s.open_count+'</div></div>'+
+    '<div class="statbox"><div class="k">Avg win</div><div class="v pos">+'+s.avg_win+'%</div></div>'+
+    '<div class="statbox"><div class="k">Avg loss</div><div class="v neg">'+s.avg_loss+'%</div></div></div>'+
+    '<p class="sub-title">Closed by outcome</p><div class="statgrid" style="grid-template-columns:repeat(3,1fr)">'+
+    '<div class="statbox"><div class="k">Target</div><div class="v pos">'+s.by_reason.target+'</div></div>'+
+    '<div class="statbox"><div class="k">Stop</div><div class="v neg">'+s.by_reason.stop+'</div></div>'+
+    '<div class="statbox"><div class="k">Max-hold</div><div class="v">'+s.by_reason['max-hold']+'</div></div></div>'+
+    (open.length?'<p class="sub-title">Open positions</p>'+open.map(p=>
+      '<div class="posrow"><div class="s"><div class="sym">'+p.sym+'</div>'+
+      '<div class="meta">'+p.kind+' \u00b7 since '+p.opened+' \u00b7 entry \u20b9'+fmt(p.entry)+'</div></div>'+
+      '<div class="r '+(p.ret_pct>=0?'pos':'neg')+'">'+(p.ret_pct>=0?'+':'')+p.ret_pct+'%</div></div>').join(''):'');
+}
+function toggle(el){el.classList.toggle('open')}
+function setTab(t){tab=t;document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x.dataset.t===t));render();}
+let deferredPrompt;
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;
+  document.getElementById('installBtn').classList.add('show');});
+document.getElementById('installBtn').addEventListener('click',async()=>{
+  if(!deferredPrompt)return;deferredPrompt.prompt();await deferredPrompt.userChoice;
+  deferredPrompt=null;document.getElementById('installBtn').classList.remove('show');});
+if('serviceWorker' in navigator){navigator.serviceWorker.register('sw.js').catch(()=>{});}
+load();
+setInterval(load,5*60*1000);
+</script>
+</body>
+</html>

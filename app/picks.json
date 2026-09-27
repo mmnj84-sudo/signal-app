@@ -1,0 +1,413 @@
+{
+ "asof": "22 Sep 2026, 23:49 IST",
+ "generated_utc": "2026-09-22T18:19:25.370879+00:00",
+ "health": {
+  "ok": true,
+  "notes": [
+   "long: 98 fetched, 2 errors, 20 picks",
+   "intra: 98 fetched, 2 errors, 12 picks"
+  ]
+ },
+ "long": [
+  {
+   "sym": "BAJFINANCE",
+   "name": "Bajaj Finance",
+   "grade": [
+    "Strong Buy",
+    "buy"
+   ],
+   "score": 88,
+   "entry": 742,
+   "exit": 905,
+   "stop": 681,
+   "hold": "18\u201336 months \u00b7 value + quality",
+   "factors": [
+    [
+     "ROE",
+     9
+    ],
+    [
+     "Valuation",
+     7
+    ],
+    [
+     "Earn CAGR",
+     8
+    ],
+    [
+     "Bollinger",
+     8
+    ],
+    [
+     "Support",
+     9
+    ],
+    [
+     "Stoch",
+     7
+    ]
+   ],
+   "verify": "verified"
+  },
+  {
+   "sym": "COALINDIA",
+   "name": "Coal India",
+   "grade": [
+    "Strong Buy",
+    "buy"
+   ],
+   "score": 83,
+   "entry": 388,
+   "exit": 452,
+   "stop": 349,
+   "hold": "18\u201336 months \u00b7 value + quality",
+   "factors": [
+    [
+     "ROE",
+     9
+    ],
+    [
+     "Valuation",
+     7
+    ],
+    [
+     "Earn CAGR",
+     8
+    ],
+    [
+     "Bollinger",
+     8
+    ],
+    [
+     "Support",
+     9
+    ],
+    [
+     "Stoch",
+     7
+    ]
+   ],
+   "verify": "verified"
+  },
+  {
+   "sym": "TITAN",
+   "name": "Titan Company",
+   "grade": [
+    "Accumulate",
+    "acc"
+   ],
+   "score": 76,
+   "entry": 3180,
+   "exit": 3880,
+   "stop": 2862,
+   "hold": "12\u201324 months \u00b7 accumulate on dips",
+   "factors": [
+    [
+     "ROE",
+     9
+    ],
+    [
+     "Valuation",
+     7
+    ],
+    [
+     "Earn CAGR",
+     8
+    ],
+    [
+     "Bollinger",
+     8
+    ],
+    [
+     "Support",
+     9
+    ],
+    [
+     "Stoch",
+     7
+    ]
+   ],
+   "verify": "flag"
+  },
+  {
+   "sym": "SBIN",
+   "name": "State Bank of India",
+   "grade": [
+    "Accumulate",
+    "acc"
+   ],
+   "score": 71,
+   "entry": 812,
+   "exit": 990,
+   "stop": 731,
+   "hold": "12\u201324 months \u00b7 accumulate on dips",
+   "factors": [
+    [
+     "ROE",
+     9
+    ],
+    [
+     "Valuation",
+     7
+    ],
+    [
+     "Earn CAGR",
+     8
+    ],
+    [
+     "Bollinger",
+     8
+    ],
+    [
+     "Support",
+     9
+    ],
+    [
+     "Stoch",
+     7
+    ]
+   ],
+   "verify": "verified"
+  },
+  {
+   "sym": "NTPC",
+   "name": "NTPC Ltd",
+   "grade": [
+    "Accumulate",
+    "acc"
+   ],
+   "score": 68,
+   "entry": 362,
+   "exit": 442,
+   "stop": 326,
+   "hold": "12\u201324 months \u00b7 accumulate on dips",
+   "factors": [
+    [
+     "ROE",
+     9
+    ],
+    [
+     "Valuation",
+     7
+    ],
+    [
+     "Earn CAGR",
+     8
+    ],
+    [
+     "Bollinger",
+     8
+    ],
+    [
+     "Support",
+     9
+    ],
+    [
+     "Stoch",
+     7
+    ]
+   ],
+   "verify": "verified"
+  }
+ ],
+ "intra": [
+  {
+   "sym": "TATASTEEL",
+   "name": "Tata Steel",
+   "grade": [
+    "A",
+    "a"
+   ],
+   "score": 86,
+   "entry": 172.4,
+   "exit": 178.9,
+   "stop": 169.1,
+   "hold": "Same day \u00b7 square off by 15:15",
+   "factors": [
+    [
+     "MACD",
+     10
+    ],
+    [
+     "ADX",
+     8
+    ],
+    [
+     "OBV",
+     9
+    ],
+    [
+     "Vol spike",
+     8
+    ],
+    [
+     "Rel str",
+     7
+    ],
+    [
+     "Stoch",
+     6
+    ]
+   ],
+   "verify": "verified"
+  },
+  {
+   "sym": "HINDCOPPER",
+   "name": "Hindustan Copper",
+   "grade": [
+    "A",
+    "a"
+   ],
+   "score": 81,
+   "entry": 318,
+   "exit": 330,
+   "stop": 312,
+   "hold": "Same day \u00b7 square off by 15:15",
+   "factors": [
+    [
+     "MACD",
+     10
+    ],
+    [
+     "ADX",
+     8
+    ],
+    [
+     "OBV",
+     9
+    ],
+    [
+     "Vol spike",
+     8
+    ],
+    [
+     "Rel str",
+     7
+    ],
+    [
+     "Stoch",
+     6
+    ]
+   ],
+   "verify": "verified"
+  },
+  {
+   "sym": "SAIL",
+   "name": "Steel Authority",
+   "grade": [
+    "B",
+    "b"
+   ],
+   "score": 72,
+   "entry": 128.5,
+   "exit": 133.4,
+   "stop": 126.1,
+   "hold": "Same day \u00b7 square off by 15:15",
+   "factors": [
+    [
+     "MACD",
+     10
+    ],
+    [
+     "ADX",
+     8
+    ],
+    [
+     "OBV",
+     9
+    ],
+    [
+     "Vol spike",
+     8
+    ],
+    [
+     "Rel str",
+     7
+    ],
+    [
+     "Stoch",
+     6
+    ]
+   ],
+   "verify": "flag"
+  },
+  {
+   "sym": "RVNL",
+   "name": "Rail Vikas Nigam",
+   "grade": [
+    "B",
+    "b"
+   ],
+   "score": 67,
+   "entry": 402,
+   "exit": 417,
+   "stop": 394,
+   "hold": "Same day \u00b7 square off by 15:15",
+   "factors": [
+    [
+     "MACD",
+     10
+    ],
+    [
+     "ADX",
+     8
+    ],
+    [
+     "OBV",
+     9
+    ],
+    [
+     "Vol spike",
+     8
+    ],
+    [
+     "Rel str",
+     7
+    ],
+    [
+     "Stoch",
+     6
+    ]
+   ],
+   "verify": "verified"
+  }
+ ],
+ "stats": {
+  "updated": "2026-09-22",
+  "open_count": 7,
+  "closed_count": 23,
+  "win_rate": 65.2,
+  "avg_return": 6.8,
+  "avg_win": 14.2,
+  "avg_loss": -7.1,
+  "best": 31.0,
+  "worst": -9.2,
+  "by_reason": {
+   "target": 13,
+   "stop": 7,
+   "max-hold": 3
+  }
+ },
+ "track_open": [
+  {
+   "sym": "CGPOWER",
+   "kind": "long",
+   "opened": "2026-08-15",
+   "entry": 612,
+   "last": 689,
+   "ret_pct": 12.6,
+   "target": 747,
+   "stop": 551
+  },
+  {
+   "sym": "IRFC",
+   "kind": "long",
+   "opened": "2026-09-01",
+   "entry": 148,
+   "last": 142,
+   "ret_pct": -4.1,
+   "target": 180,
+   "stop": 133
+  }
+ ]
+}
