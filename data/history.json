@@ -1,1 +1,222 @@
-[]
+[
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "MUTHOOTFIN",
+    "score": 74.0,
+    "grade": "Accumulate",
+    "entry": 2835.0,
+    "target": 3458.7,
+    "stop": 2551.5,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "BHARTIARTL",
+    "score": 72.4,
+    "grade": "Accumulate",
+    "entry": 1785.4,
+    "target": 2178.19,
+    "stop": 1606.86,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "WIPRO",
+    "score": 72.3,
+    "grade": "Accumulate",
+    "entry": 164.02,
+    "target": 200.1,
+    "stop": 147.62,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "TCS",
+    "score": 71.9,
+    "grade": "Accumulate",
+    "entry": 2082.0,
+    "target": 2540.04,
+    "stop": 1873.8,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "INFY",
+    "score": 71.0,
+    "grade": "Accumulate",
+    "entry": 1000.2,
+    "target": 1220.24,
+    "stop": 900.18,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "BANKINDIA",
+    "score": 70.9,
+    "grade": "Accumulate",
+    "entry": 137.94,
+    "target": 168.29,
+    "stop": 124.15,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "EICHERMOT",
+    "score": 70.7,
+    "grade": "Accumulate",
+    "entry": 7360.0,
+    "target": 8979.2,
+    "stop": 6624.0,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "ONGC",
+    "score": 70.6,
+    "grade": "Accumulate",
+    "entry": 235.86,
+    "target": 287.75,
+    "stop": 212.27,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "GAIL",
+    "score": 70.6,
+    "grade": "Accumulate",
+    "entry": 172.7,
+    "target": 210.69,
+    "stop": 155.43,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "VEDL",
+    "score": 70.6,
+    "grade": "Accumulate",
+    "entry": 266.35,
+    "target": 324.95,
+    "stop": 239.72,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "SUNPHARMA",
+    "score": 69.2,
+    "grade": "Accumulate",
+    "entry": 1852.2,
+    "target": 2259.68,
+    "stop": 1666.98,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "NMDC",
+    "score": 67.9,
+    "grade": "Accumulate",
+    "entry": 79.9,
+    "target": 97.48,
+    "stop": 71.91,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "INDUSTOWER",
+    "score": 67.4,
+    "grade": "Accumulate",
+    "entry": 374.65,
+    "target": 457.07,
+    "stop": 337.18,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "CANBK",
+    "score": 67.1,
+    "grade": "Accumulate",
+    "entry": 124.99,
+    "target": 152.49,
+    "stop": 112.49,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "ASIANPAINT",
+    "score": 65.8,
+    "grade": "Accumulate",
+    "entry": 2444.0,
+    "target": 2981.68,
+    "stop": 2199.6,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "PIDILITIND",
+    "score": 65.6,
+    "grade": "Accumulate",
+    "entry": 1517.2,
+    "target": 1850.98,
+    "stop": 1365.48,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "HCLTECH",
+    "score": 64.5,
+    "grade": "Hold",
+    "entry": 1258.0,
+    "target": 1534.76,
+    "stop": 1132.2,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "DABUR",
+    "score": 64.2,
+    "grade": "Hold",
+    "entry": 385.6,
+    "target": 470.43,
+    "stop": 347.04,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "CHOLAFIN",
+    "score": 64.2,
+    "grade": "Hold",
+    "entry": 1662.7,
+    "target": 2028.49,
+    "stop": 1496.43,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-27",
+    "kind": "long",
+    "sym": "SBIN",
+    "score": 64.1,
+    "grade": "Hold",
+    "entry": 983.0,
+    "target": 1199.26,
+    "stop": 884.7,
+    "verify": "verified"
+  }
+]

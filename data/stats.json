@@ -1,0 +1,16 @@
+{
+  "updated": "2026-09-27",
+  "open_count": 16,
+  "closed_count": 0,
+  "win_rate": null,
+  "avg_return": 0.0,
+  "avg_win": 0.0,
+  "avg_loss": 0.0,
+  "best": 0,
+  "worst": 0,
+  "by_reason": {
+    "target": 0,
+    "stop": 0,
+    "max-hold": 0
+  }
+}
