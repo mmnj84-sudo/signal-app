@@ -1,6 +1,6 @@
 {
-  "asof": "28 Sep 2026, 12:18 IST",
-  "generated_utc": "2026-09-28T06:49:23.347139+00:00",
+  "asof": "28 Sep 2026, 12:42 IST",
+  "generated_utc": "2026-09-28T07:13:34.736931+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1219.9,
-      "exit": 1266.26,
-      "stop": 1196.72,
+      "entry": 1217.3,
+      "exit": 1263.56,
+      "stop": 1194.17,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 426.0,
-      "exit": 442.19,
-      "stop": 417.91,
+      "entry": 426.05,
+      "exit": 442.24,
+      "stop": 417.96,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1226.7,
-      "exit": 1273.31,
-      "stop": 1203.39,
+      "entry": 1224.2,
+      "exit": 1270.72,
+      "stop": 1200.94,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -130,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "ONGC",
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 231.7,
-      "exit": 240.5,
-      "stop": 227.3,
+      "entry": 231.79,
+      "exit": 240.6,
+      "stop": 227.39,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1740.6,
-      "exit": 1806.74,
-      "stop": 1707.53,
+      "entry": 1741.1,
+      "exit": 1807.26,
+      "stop": 1708.02,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -212,7 +212,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
@@ -333,8 +333,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 231.7,
-      "ret_pct": -1.76
+      "last": 231.79,
+      "ret_pct": -1.73
     },
     {
       "sym": "GAIL",

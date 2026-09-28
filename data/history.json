@@ -559,5 +559,60 @@
     "target": 1806.74,
     "stop": 1707.53,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 75.2,
+    "grade": "B",
+    "entry": 1217.3,
+    "target": 1263.56,
+    "stop": 1194.17,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "COALINDIA",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 426.05,
+    "target": 442.24,
+    "stop": 417.96,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 1224.2,
+    "target": 1270.72,
+    "stop": 1200.94,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "ONGC",
+    "score": 63.0,
+    "grade": "B",
+    "entry": 231.79,
+    "target": 240.6,
+    "stop": 227.39,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "ADANIPORTS",
+    "score": 62.8,
+    "grade": "B",
+    "entry": 1741.1,
+    "target": 1807.26,
+    "stop": 1708.02,
+    "verify": "verified"
   }
 ]
