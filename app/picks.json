@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 11:44 IST",
-  "generated_utc": "2026-09-28T06:15:37.332389+00:00",
+  "asof": "28 Sep 2026, 12:18 IST",
+  "generated_utc": "2026-09-28T06:49:23.347139+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 5 picks"
     ]
   },
   "long": [],
@@ -12,14 +12,14 @@
     {
       "sym": "ZYDUSLIFE",
       "name": "ZYDUSLIFE",
-      "score": 71.6,
+      "score": 75.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1223.7,
-      "exit": 1270.2,
-      "stop": 1200.45,
+      "entry": 1219.9,
+      "exit": 1266.26,
+      "stop": 1196.72,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          5
+          8
         ],
         [
           "Rel str",
@@ -45,6 +45,170 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "COALINDIA",
+      "name": "COALINDIA",
+      "score": 63.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 426.0,
+      "exit": 442.19,
+      "stop": 417.91,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 63.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1226.7,
+      "exit": 1273.31,
+      "stop": 1203.39,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "ONGC",
+      "name": "ONGC",
+      "score": 63.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 231.7,
+      "exit": 240.5,
+      "stop": 227.3,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIPORTS",
+      "name": "ADANIPORTS",
+      "score": 62.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1740.6,
+      "exit": 1806.74,
+      "stop": 1707.53,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
         ]
       ],
       "verify": "verified",
@@ -169,8 +333,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 235.86,
-      "ret_pct": 0.0
+      "last": 231.7,
+      "ret_pct": -1.76
     },
     {
       "sym": "GAIL",
