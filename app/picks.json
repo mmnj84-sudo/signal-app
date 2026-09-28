@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 13:43 IST",
-  "generated_utc": "2026-09-28T08:14:18.083892+00:00",
+  "asof": "28 Sep 2026, 14:13 IST",
+  "generated_utc": "2026-09-28T08:44:01.429557+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 4 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1215.0,
-      "exit": 1261.17,
-      "stop": 1191.91,
+      "entry": 1211.4,
+      "exit": 1257.43,
+      "stop": 1188.38,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1224.0,
-      "exit": 1270.51,
-      "stop": 1200.74,
+      "entry": 1223.4,
+      "exit": 1269.89,
+      "stop": 1200.16,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 232.0,
-      "exit": 240.82,
-      "stop": 227.59,
+      "entry": 231.85,
+      "exit": 240.66,
+      "stop": 227.44,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -111,47 +111,6 @@
         [
           "ADX",
           10
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          4
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "ADANIPORTS",
-      "name": "ADANIPORTS",
-      "score": 62.8,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1741.3,
-      "exit": 1807.47,
-      "stop": 1708.22,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          8
         ],
         [
           "OBV",
@@ -292,8 +251,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 232.0,
-      "ret_pct": -1.64
+      "last": 231.85,
+      "ret_pct": -1.7
     },
     {
       "sym": "GAIL",
