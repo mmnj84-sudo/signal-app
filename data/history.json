@@ -493,5 +493,16 @@
     "target": 443.54,
     "stop": 419.18,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 1223.7,
+    "target": 1270.2,
+    "stop": 1200.45,
+    "verify": "verified"
   }
 ]

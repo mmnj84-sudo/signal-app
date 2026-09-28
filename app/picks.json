@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 11:11 IST",
-  "generated_utc": "2026-09-28T05:42:51.087872+00:00",
+  "asof": "28 Sep 2026, 11:44 IST",
+  "generated_utc": "2026-09-28T06:15:37.332389+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 2 picks"
+      "intra: 97 fetched, 4 errors, 1 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1222.7,
-      "exit": 1269.16,
-      "stop": 1199.47,
+      "entry": 1223.7,
+      "exit": 1270.2,
+      "stop": 1200.45,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -49,47 +49,6 @@
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "COALINDIA",
-      "name": "COALINDIA",
-      "score": 63.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 427.3,
-      "exit": 443.54,
-      "stop": 419.18,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
