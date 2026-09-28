@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 14:13 IST",
-  "generated_utc": "2026-09-28T08:44:01.429557+00:00",
+  "asof": "28 Sep 2026, 14:43 IST",
+  "generated_utc": "2026-09-28T09:14:20.861492+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 4 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1211.4,
-      "exit": 1257.43,
-      "stop": 1188.38,
+      "entry": 1209.5,
+      "exit": 1255.46,
+      "stop": 1186.52,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -53,14 +53,14 @@
     {
       "sym": "DRREDDY",
       "name": "DRREDDY",
-      "score": 66.8,
+      "score": 70.4,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1223.4,
-      "exit": 1269.89,
-      "stop": 1200.16,
+      "entry": 1219.1,
+      "exit": 1265.43,
+      "stop": 1195.94,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -77,7 +77,7 @@
         ],
         [
           "Vol spike",
-          5
+          8
         ],
         [
           "Rel str",
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 231.85,
-      "exit": 240.66,
-      "stop": 227.44,
+      "entry": 230.23,
+      "exit": 238.98,
+      "stop": 225.86,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -111,6 +111,47 @@
         [
           "ADX",
           10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIPORTS",
+      "name": "ADANIPORTS",
+      "score": 62.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1739.5,
+      "exit": 1805.6,
+      "stop": 1706.45,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
         ],
         [
           "OBV",
@@ -251,8 +292,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 231.85,
-      "ret_pct": -1.7
+      "last": 230.23,
+      "ret_pct": -2.39
     },
     {
       "sym": "GAIL",
