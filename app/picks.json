@@ -1,6 +1,6 @@
 {
-  "asof": "28 Sep 2026, 10:40 IST",
-  "generated_utc": "2026-09-28T05:11:45.496521+00:00",
+  "asof": "28 Sep 2026, 11:11 IST",
+  "generated_utc": "2026-09-28T05:42:51.087872+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "ZYDUSLIFE",
       "name": "ZYDUSLIFE",
-      "score": 68.0,
+      "score": 71.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1226.3,
-      "exit": 1272.9,
-      "stop": 1203.0,
+      "entry": 1222.7,
+      "exit": 1269.16,
+      "stop": 1199.47,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 428.85,
-      "exit": 445.15,
-      "stop": 420.7,
+      "entry": 427.3,
+      "exit": 443.54,
+      "stop": 419.18,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [

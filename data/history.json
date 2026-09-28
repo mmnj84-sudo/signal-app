@@ -471,5 +471,27 @@
     "target": 445.15,
     "stop": 420.7,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 1222.7,
+    "target": 1269.16,
+    "stop": 1199.47,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-28",
+    "kind": "intra",
+    "sym": "COALINDIA",
+    "score": 63.6,
+    "grade": "B",
+    "entry": 427.3,
+    "target": 443.54,
+    "stop": 419.18,
+    "verify": "verified"
   }
 ]
