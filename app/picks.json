@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 10:14 IST",
-  "generated_utc": "2026-09-28T04:45:00.173660+00:00",
+  "asof": "28 Sep 2026, 10:40 IST",
+  "generated_utc": "2026-09-28T05:11:45.496521+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
@@ -12,14 +12,14 @@
     {
       "sym": "ZYDUSLIFE",
       "name": "ZYDUSLIFE",
-      "score": 64.4,
+      "score": 68.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1220.3,
-      "exit": 1266.67,
-      "stop": 1197.11,
+      "entry": 1226.3,
+      "exit": 1272.9,
+      "stop": 1203.0,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -49,6 +49,47 @@
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "COALINDIA",
+      "name": "COALINDIA",
+      "score": 63.6,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 428.85,
+      "exit": 445.15,
+      "stop": 420.7,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
