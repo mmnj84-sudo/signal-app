@@ -1,6 +1,6 @@
 {
-  "asof": "28 Sep 2026, 14:43 IST",
-  "generated_utc": "2026-09-28T09:14:20.861492+00:00",
+  "asof": "28 Sep 2026, 15:13 IST",
+  "generated_utc": "2026-09-28T09:44:11.081107+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1209.5,
-      "exit": 1255.46,
-      "stop": 1186.52,
+      "entry": 1211.8,
+      "exit": 1257.85,
+      "stop": 1188.78,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1219.1,
-      "exit": 1265.43,
-      "stop": 1195.94,
+      "entry": 1223.6,
+      "exit": 1270.1,
+      "stop": 1200.35,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -94,14 +94,14 @@
     {
       "sym": "ONGC",
       "name": "ONGC",
-      "score": 63.0,
+      "score": 66.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 230.23,
-      "exit": 238.98,
-      "stop": 225.86,
+      "entry": 230.28,
+      "exit": 239.03,
+      "stop": 225.9,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -135,14 +135,14 @@
     {
       "sym": "ADANIPORTS",
       "name": "ADANIPORTS",
-      "score": 62.8,
+      "score": 64.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1739.5,
-      "exit": 1805.6,
-      "stop": 1706.45,
+      "entry": 1742.0,
+      "exit": 1808.2,
+      "stop": 1708.9,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -167,7 +167,7 @@
         ],
         [
           "Stoch",
-          8
+          5
         ]
       ],
       "verify": "verified",
@@ -292,8 +292,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 230.23,
-      "ret_pct": -2.39
+      "last": 230.28,
+      "ret_pct": -2.37
     },
     {
       "sym": "GAIL",
