@@ -1,10 +1,10 @@
 {
-  "asof": "28 Sep 2026, 13:13 IST",
-  "generated_utc": "2026-09-28T07:44:12.702611+00:00",
+  "asof": "28 Sep 2026, 13:43 IST",
+  "generated_utc": "2026-09-28T08:14:18.083892+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 5 picks"
+      "intra: 97 fetched, 4 errors, 4 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1215.9,
-      "exit": 1262.1,
-      "stop": 1192.8,
+      "entry": 1215.0,
+      "exit": 1261.17,
+      "stop": 1191.91,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1228.7,
-      "exit": 1275.39,
-      "stop": 1205.35,
+      "entry": 1224.0,
+      "exit": 1270.51,
+      "stop": 1200.74,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -86,47 +86,6 @@
         [
           "Stoch",
           2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "COALINDIA",
-      "name": "COALINDIA",
-      "score": 63.2,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 425.85,
-      "exit": 442.03,
-      "stop": 417.76,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          5
         ]
       ],
       "verify": "verified",
@@ -140,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 232.17,
-      "exit": 240.99,
-      "stop": 227.76,
+      "entry": 232.0,
+      "exit": 240.82,
+      "stop": 227.59,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -181,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1739.4,
-      "exit": 1805.5,
-      "stop": 1706.35,
+      "entry": 1741.3,
+      "exit": 1807.47,
+      "stop": 1708.22,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -333,8 +292,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 232.17,
-      "ret_pct": -1.56
+      "last": 232.0,
+      "ret_pct": -1.64
     },
     {
       "sym": "GAIL",
