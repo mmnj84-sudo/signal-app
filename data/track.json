@@ -10,8 +10,8 @@
       "score_at_open": 74.0,
       "peak": 2835.0,
       "status": "open",
-      "last": 2835.0,
-      "ret_pct": 0.0
+      "last": 2760.0,
+      "ret_pct": -2.65
     },
     {
       "sym": "BHARTIARTL",
@@ -23,8 +23,8 @@
       "score_at_open": 72.4,
       "peak": 1785.4,
       "status": "open",
-      "last": 1785.4,
-      "ret_pct": 0.0
+      "last": 1771.4,
+      "ret_pct": -0.78
     },
     {
       "sym": "WIPRO",
@@ -36,8 +36,8 @@
       "score_at_open": 72.3,
       "peak": 164.02,
       "status": "open",
-      "last": 164.02,
-      "ret_pct": 0.0
+      "last": 161.56,
+      "ret_pct": -1.5
     },
     {
       "sym": "TCS",
@@ -49,8 +49,8 @@
       "score_at_open": 71.9,
       "peak": 2082.0,
       "status": "open",
-      "last": 2082.0,
-      "ret_pct": 0.0
+      "last": 2070.7,
+      "ret_pct": -0.54
     },
     {
       "sym": "INFY",
@@ -60,10 +60,10 @@
       "target": 1220.24,
       "stop": 900.18,
       "score_at_open": 71.0,
-      "peak": 1000.2,
+      "peak": 1003.2,
       "status": "open",
-      "last": 1000.2,
-      "ret_pct": 0.0
+      "last": 1003.2,
+      "ret_pct": 0.3
     },
     {
       "sym": "BANKINDIA",
@@ -75,8 +75,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 137.94,
-      "ret_pct": 0.0
+      "last": 129.99,
+      "ret_pct": -5.76
     },
     {
       "sym": "EICHERMOT",
@@ -88,8 +88,8 @@
       "score_at_open": 70.7,
       "peak": 7360.0,
       "status": "open",
-      "last": 7360.0,
-      "ret_pct": 0.0
+      "last": 7213.5,
+      "ret_pct": -1.99
     },
     {
       "sym": "ONGC",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 230.28,
-      "ret_pct": -2.37
+      "last": 230.0,
+      "ret_pct": -2.48
     },
     {
       "sym": "GAIL",
@@ -114,8 +114,8 @@
       "score_at_open": 70.6,
       "peak": 172.7,
       "status": "open",
-      "last": 172.7,
-      "ret_pct": 0.0
+      "last": 172.45,
+      "ret_pct": -0.14
     },
     {
       "sym": "VEDL",
@@ -127,8 +127,8 @@
       "score_at_open": 70.6,
       "peak": 266.35,
       "status": "open",
-      "last": 266.35,
-      "ret_pct": 0.0
+      "last": 259.0,
+      "ret_pct": -2.76
     },
     {
       "sym": "SUNPHARMA",
@@ -140,8 +140,8 @@
       "score_at_open": 69.2,
       "peak": 1852.2,
       "status": "open",
-      "last": 1852.2,
-      "ret_pct": 0.0
+      "last": 1838.0,
+      "ret_pct": -0.77
     },
     {
       "sym": "NMDC",
@@ -153,8 +153,8 @@
       "score_at_open": 67.9,
       "peak": 79.9,
       "status": "open",
-      "last": 79.9,
-      "ret_pct": 0.0
+      "last": 77.43,
+      "ret_pct": -3.09
     },
     {
       "sym": "INDUSTOWER",
@@ -166,8 +166,8 @@
       "score_at_open": 67.4,
       "peak": 374.65,
       "status": "open",
-      "last": 374.65,
-      "ret_pct": 0.0
+      "last": 360.0,
+      "ret_pct": -3.91
     },
     {
       "sym": "CANBK",
@@ -179,8 +179,8 @@
       "score_at_open": 67.1,
       "peak": 124.99,
       "status": "open",
-      "last": 124.99,
-      "ret_pct": 0.0
+      "last": 120.65,
+      "ret_pct": -3.47
     },
     {
       "sym": "ASIANPAINT",
@@ -192,8 +192,8 @@
       "score_at_open": 65.8,
       "peak": 2444.0,
       "status": "open",
-      "last": 2444.0,
-      "ret_pct": 0.0
+      "last": 2420.0,
+      "ret_pct": -0.98
     },
     {
       "sym": "PIDILITIND",
@@ -205,7 +205,59 @@
       "score_at_open": 65.6,
       "peak": 1517.2,
       "status": "open",
-      "last": 1517.2,
+      "last": 1503.0,
+      "ret_pct": -0.94
+    },
+    {
+      "sym": "PNB",
+      "kind": "long",
+      "opened": "2026-09-28",
+      "entry": 112.6,
+      "target": 137.37,
+      "stop": 101.34,
+      "score_at_open": 68.4,
+      "peak": 112.6,
+      "status": "open",
+      "last": 112.6,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "DABUR",
+      "kind": "long",
+      "opened": "2026-09-28",
+      "entry": 385.75,
+      "target": 470.62,
+      "stop": 347.18,
+      "score_at_open": 65.8,
+      "peak": 385.75,
+      "status": "open",
+      "last": 385.75,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "NESTLEIND",
+      "kind": "long",
+      "opened": "2026-09-28",
+      "entry": 1346.0,
+      "target": 1642.12,
+      "stop": 1211.4,
+      "score_at_open": 65.6,
+      "peak": 1346.0,
+      "status": "open",
+      "last": 1346.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "SBIN",
+      "kind": "long",
+      "opened": "2026-09-28",
+      "entry": 962.0,
+      "target": 1173.64,
+      "stop": 865.8,
+      "score_at_open": 65.4,
+      "peak": 962.0,
+      "status": "open",
+      "last": 962.0,
       "ret_pct": 0.0
     }
   ],
