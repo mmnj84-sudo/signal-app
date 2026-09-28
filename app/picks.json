@@ -1,14 +1,56 @@
 {
-  "asof": "28 Sep 2026, 09:41 IST",
-  "generated_utc": "2026-09-28T04:12:29.529952+00:00",
+  "asof": "28 Sep 2026, 10:14 IST",
+  "generated_utc": "2026-09-28T04:45:00.173660+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 0 picks"
+      "intra: 97 fetched, 4 errors, 1 picks"
     ]
   },
   "long": [],
-  "intra": [],
+  "intra": [
+    {
+      "sym": "ZYDUSLIFE",
+      "name": "ZYDUSLIFE",
+      "score": 64.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1220.3,
+      "exit": 1266.67,
+      "stop": 1197.11,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    }
+  ],
   "stats": {
     "updated": "2026-09-28",
     "open_count": 16,
