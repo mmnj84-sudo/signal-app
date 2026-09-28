@@ -1,6 +1,6 @@
 {
-  "asof": "28 Sep 2026, 12:42 IST",
-  "generated_utc": "2026-09-28T07:13:34.736931+00:00",
+  "asof": "28 Sep 2026, 13:13 IST",
+  "generated_utc": "2026-09-28T07:44:12.702611+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1217.3,
-      "exit": 1263.56,
-      "stop": 1194.17,
+      "entry": 1215.9,
+      "exit": 1262.1,
+      "stop": 1192.8,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -41,6 +41,47 @@
         [
           "Rel str",
           10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 66.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1228.7,
+      "exit": 1275.39,
+      "stop": 1205.35,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          6
         ],
         [
           "Stoch",
@@ -58,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 426.05,
-      "exit": 442.24,
-      "stop": 417.96,
+      "entry": 425.85,
+      "exit": 442.03,
+      "stop": 417.76,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,47 +133,6 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "DRREDDY",
-      "name": "DRREDDY",
-      "score": 63.2,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1224.2,
-      "exit": 1270.72,
-      "stop": 1200.94,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "ONGC",
       "name": "ONGC",
       "score": 63.0,
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 231.79,
-      "exit": 240.6,
-      "stop": 227.39,
+      "entry": 232.17,
+      "exit": 240.99,
+      "stop": 227.76,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1741.1,
-      "exit": 1807.26,
-      "stop": 1708.02,
+      "entry": 1739.4,
+      "exit": 1805.5,
+      "stop": 1706.35,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -212,7 +212,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -333,8 +333,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 231.79,
-      "ret_pct": -1.73
+      "last": 232.17,
+      "ret_pct": -1.56
     },
     {
       "sym": "GAIL",
