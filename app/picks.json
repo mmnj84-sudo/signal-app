@@ -1,10 +1,10 @@
 {
-  "asof": "29 Sep 2026, 11:12 IST",
-  "generated_utc": "2026-09-29T05:43:10.947701+00:00",
+  "asof": "29 Sep 2026, 11:43 IST",
+  "generated_utc": "2026-09-29T06:14:48.799174+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1242.5,
-      "exit": 1289.72,
-      "stop": 1218.89,
+      "entry": 1243.5,
+      "exit": 1290.75,
+      "stop": 1219.87,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -41,6 +41,47 @@
         [
           "Rel str",
           6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ZYDUSLIFE",
+      "name": "ZYDUSLIFE",
+      "score": 64.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1211.4,
+      "exit": 1257.43,
+      "stop": 1188.38,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
         ],
         [
           "Stoch",
