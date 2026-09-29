@@ -1296,5 +1296,115 @@
     "target": 1265.84,
     "stop": 1196.33,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "ABBOTINDIA",
+    "score": 75.0,
+    "grade": "B",
+    "entry": 27270.0,
+    "target": 28306.26,
+    "stop": 26751.87,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "TATASTEEL",
+    "score": 73.4,
+    "grade": "B",
+    "entry": 188.36,
+    "target": 195.52,
+    "stop": 184.78,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 72.8,
+    "grade": "B",
+    "entry": 1246.3,
+    "target": 1293.66,
+    "stop": 1222.62,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 1214.1,
+    "target": 1260.24,
+    "stop": 1191.03,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 66.8,
+    "grade": "B",
+    "entry": 371.35,
+    "target": 385.46,
+    "stop": 364.29,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DABUR",
+    "score": 66.2,
+    "grade": "B",
+    "entry": 383.8,
+    "target": 398.38,
+    "stop": 376.51,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "LODHA",
+    "score": 65.0,
+    "grade": "B",
+    "entry": 1120.5,
+    "target": 1163.08,
+    "stop": 1099.21,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "POWERGRID",
+    "score": 64.2,
+    "grade": "B",
+    "entry": 263.6,
+    "target": 273.62,
+    "stop": 258.59,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DMART",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 3808.8,
+    "target": 3953.53,
+    "stop": 3736.43,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "SHREECEM",
+    "score": 62.8,
+    "grade": "B",
+    "entry": 21820.0,
+    "target": 22649.16,
+    "stop": 21405.42,
+    "verify": "verified"
   }
 ]

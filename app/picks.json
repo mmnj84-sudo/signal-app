@@ -1,14 +1,55 @@
 {
-  "asof": "29 Sep 2026, 14:42 IST",
-  "generated_utc": "2026-09-29T09:13:42.027188+00:00",
+  "asof": "29 Sep 2026, 15:13 IST",
+  "generated_utc": "2026-09-29T09:44:26.407620+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 10 picks"
     ]
   },
   "long": [],
   "intra": [
+    {
+      "sym": "ABBOTINDIA",
+      "name": "ABBOTINDIA",
+      "score": 75.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 27270.0,
+      "exit": 28306.26,
+      "stop": 26751.87,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
     {
       "sym": "TATASTEEL",
       "name": "TATASTEEL",
@@ -17,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 188.37,
-      "exit": 195.53,
-      "stop": 184.79,
+      "entry": 188.36,
+      "exit": 195.52,
+      "stop": 184.78,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -53,14 +94,14 @@
     {
       "sym": "DRREDDY",
       "name": "DRREDDY",
-      "score": 70.4,
+      "score": 72.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1245.2,
-      "exit": 1292.52,
-      "stop": 1221.54,
+      "entry": 1246.3,
+      "exit": 1293.66,
+      "stop": 1222.62,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -77,7 +118,7 @@
         ],
         [
           "Vol spike",
-          8
+          10
         ],
         [
           "Rel str",
@@ -94,14 +135,14 @@
     {
       "sym": "ZYDUSLIFE",
       "name": "ZYDUSLIFE",
-      "score": 68.0,
+      "score": 71.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1219.5,
-      "exit": 1265.84,
-      "stop": 1196.33,
+      "entry": 1214.1,
+      "exit": 1260.24,
+      "stop": 1191.03,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -118,7 +159,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
@@ -127,6 +168,252 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "INDUSTOWER",
+      "name": "INDUSTOWER",
+      "score": 66.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 371.35,
+      "exit": 385.46,
+      "stop": 364.29,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          5
+        ],
+        [
+          "ADX",
+          4
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DABUR",
+      "name": "DABUR",
+      "score": 66.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 383.8,
+      "exit": 398.38,
+      "stop": 376.51,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "LODHA",
+      "name": "LODHA",
+      "score": 65.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1120.5,
+      "exit": 1163.08,
+      "stop": 1099.21,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "POWERGRID",
+      "name": "POWERGRID",
+      "score": 64.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 263.6,
+      "exit": 273.62,
+      "stop": 258.59,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          4
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "DMART",
+      "name": "DMART",
+      "score": 63.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 3808.8,
+      "exit": 3953.53,
+      "stop": 3736.43,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "SHREECEM",
+      "name": "SHREECEM",
+      "score": 62.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 21820.0,
+      "exit": 22649.16,
+      "stop": 21405.42,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          10
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
         ]
       ],
       "verify": "verified",
@@ -316,8 +603,8 @@
       "score_at_open": 67.4,
       "peak": 374.65,
       "status": "open",
-      "last": 360.0,
-      "ret_pct": -3.91
+      "last": 371.35,
+      "ret_pct": -0.88
     },
     {
       "sym": "CANBK",
@@ -381,8 +668,8 @@
       "score_at_open": 65.8,
       "peak": 385.75,
       "status": "open",
-      "last": 385.75,
-      "ret_pct": 0.0
+      "last": 383.8,
+      "ret_pct": -0.51
     },
     {
       "sym": "NESTLEIND",
