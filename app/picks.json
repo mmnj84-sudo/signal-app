@@ -1,10 +1,10 @@
 {
-  "asof": "29 Sep 2026, 12:16 IST",
-  "generated_utc": "2026-09-29T06:47:59.885435+00:00",
+  "asof": "29 Sep 2026, 12:42 IST",
+  "generated_utc": "2026-09-29T07:13:35.257029+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 2 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
@@ -12,14 +12,14 @@
     {
       "sym": "DRREDDY",
       "name": "DRREDDY",
-      "score": 66.8,
+      "score": 70.4,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1240.6,
-      "exit": 1287.74,
-      "stop": 1217.03,
+      "entry": 1245.4,
+      "exit": 1292.73,
+      "stop": 1221.74,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          5
+          8
         ],
         [
           "Rel str",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1213.0,
-      "exit": 1259.09,
-      "stop": 1189.95,
+      "entry": 1214.1,
+      "exit": 1260.24,
+      "stop": 1191.03,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -86,6 +86,47 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "TATASTEEL",
+      "name": "TATASTEEL",
+      "score": 62.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 186.44,
+      "exit": 193.52,
+      "stop": 182.9,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
         ]
       ],
       "verify": "verified",
