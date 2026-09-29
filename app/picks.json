@@ -1,6 +1,6 @@
 {
-  "asof": "29 Sep 2026, 14:13 IST",
-  "generated_utc": "2026-09-29T08:44:25.701662+00:00",
+  "asof": "29 Sep 2026, 14:42 IST",
+  "generated_utc": "2026-09-29T09:13:42.027188+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 188.04,
-      "exit": 195.19,
-      "stop": 184.47,
+      "entry": 188.37,
+      "exit": 195.53,
+      "stop": 184.79,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1241.9,
-      "exit": 1289.09,
-      "stop": 1218.3,
+      "entry": 1245.2,
+      "exit": 1292.52,
+      "stop": 1221.54,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,7 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "ZYDUSLIFE",
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1214.8,
-      "exit": 1260.96,
-      "stop": 1191.72,
+      "entry": 1219.5,
+      "exit": 1265.84,
+      "stop": 1196.33,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
