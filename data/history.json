@@ -1109,5 +1109,27 @@
     "target": 1257.43,
     "stop": 1188.38,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 66.8,
+    "grade": "B",
+    "entry": 1240.6,
+    "target": 1287.74,
+    "stop": 1217.03,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 64.4,
+    "grade": "B",
+    "entry": 1213.0,
+    "target": 1259.09,
+    "stop": 1189.95,
+    "verify": "verified"
   }
 ]
