@@ -1,6 +1,6 @@
 {
-  "asof": "29 Sep 2026, 13:12 IST",
-  "generated_utc": "2026-09-29T07:43:23.505309+00:00",
+  "asof": "29 Sep 2026, 13:43 IST",
+  "generated_utc": "2026-09-29T08:14:39.764756+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1238.8,
-      "exit": 1285.87,
-      "stop": 1215.26,
+      "entry": 1240.3,
+      "exit": 1287.43,
+      "stop": 1216.73,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -51,57 +51,16 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "TATASTEEL",
-      "name": "TATASTEEL",
-      "score": 67.0,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 187.53,
-      "exit": 194.66,
-      "stop": 183.97,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          7
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "ZYDUSLIFE",
       "name": "ZYDUSLIFE",
-      "score": 64.4,
+      "score": 68.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1213.0,
-      "exit": 1259.09,
-      "stop": 1189.95,
+      "entry": 1213.1,
+      "exit": 1259.2,
+      "stop": 1190.05,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -127,6 +86,47 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "TATASTEEL",
+      "name": "TATASTEEL",
+      "score": 67.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 187.76,
+      "exit": 194.89,
+      "stop": 184.19,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          7
         ]
       ],
       "verify": "verified",
