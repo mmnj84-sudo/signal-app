@@ -1230,5 +1230,38 @@
     "target": 194.89,
     "stop": 184.19,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "TATASTEEL",
+    "score": 73.4,
+    "grade": "B",
+    "entry": 188.04,
+    "target": 195.19,
+    "stop": 184.47,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 70.4,
+    "grade": "B",
+    "entry": 1241.9,
+    "target": 1289.09,
+    "stop": 1218.3,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 68.0,
+    "grade": "B",
+    "entry": 1214.8,
+    "target": 1260.96,
+    "stop": 1191.72,
+    "verify": "verified"
   }
 ]

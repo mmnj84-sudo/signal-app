@@ -1,6 +1,6 @@
 {
-  "asof": "29 Sep 2026, 13:43 IST",
-  "generated_utc": "2026-09-29T08:14:39.764756+00:00",
+  "asof": "29 Sep 2026, 14:13 IST",
+  "generated_utc": "2026-09-29T08:44:25.701662+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -10,6 +10,47 @@
   "long": [],
   "intra": [
     {
+      "sym": "TATASTEEL",
+      "name": "TATASTEEL",
+      "score": 73.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 188.04,
+      "exit": 195.19,
+      "stop": 184.47,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
       "sym": "DRREDDY",
       "name": "DRREDDY",
       "score": 70.4,
@@ -17,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1240.3,
-      "exit": 1287.43,
-      "stop": 1216.73,
+      "entry": 1241.9,
+      "exit": 1289.09,
+      "stop": 1218.3,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "ZYDUSLIFE",
@@ -58,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1213.1,
-      "exit": 1259.2,
-      "stop": 1190.05,
+      "entry": 1214.8,
+      "exit": 1260.96,
+      "stop": 1191.72,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -86,47 +127,6 @@
         [
           "Stoch",
           2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "TATASTEEL",
-      "name": "TATASTEEL",
-      "score": 67.0,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 187.76,
-      "exit": 194.89,
-      "stop": 184.19,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          7
         ]
       ],
       "verify": "verified",
