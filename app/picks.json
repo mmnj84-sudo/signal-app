@@ -1,6 +1,6 @@
 {
-  "asof": "29 Sep 2026, 10:40 IST",
-  "generated_utc": "2026-09-29T05:11:28.152209+00:00",
+  "asof": "29 Sep 2026, 11:12 IST",
+  "generated_utc": "2026-09-29T05:43:10.947701+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 1244.1,
-      "exit": 1291.38,
-      "stop": 1220.46,
+      "entry": 1242.5,
+      "exit": 1289.72,
+      "stop": 1218.89,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
