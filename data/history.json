@@ -1065,5 +1065,16 @@
     "target": 1283.9,
     "stop": 1213.4,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-29",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 66.8,
+    "grade": "B",
+    "entry": 1244.1,
+    "target": 1291.38,
+    "stop": 1220.46,
+    "verify": "verified"
   }
 ]

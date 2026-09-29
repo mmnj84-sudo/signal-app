@@ -1,6 +1,6 @@
 {
-  "asof": "29 Sep 2026, 10:12 IST",
-  "generated_utc": "2026-09-29T04:43:32.351030+00:00",
+  "asof": "29 Sep 2026, 10:40 IST",
+  "generated_utc": "2026-09-29T05:11:28.152209+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "DRREDDY",
       "name": "DRREDDY",
-      "score": 63.2,
+      "score": 66.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1236.9,
-      "exit": 1283.9,
-      "stop": 1213.4,
+      "entry": 1244.1,
+      "exit": 1291.38,
+      "stop": 1220.46,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
