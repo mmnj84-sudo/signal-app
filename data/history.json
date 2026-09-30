@@ -1637,5 +1637,16 @@
     "target": 1848.16,
     "stop": 1746.67,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-30",
+    "kind": "intra",
+    "sym": "ADANIPORTS",
+    "score": 63.4,
+    "grade": "B",
+    "entry": 1782.4,
+    "target": 1850.13,
+    "stop": 1748.53,
+    "verify": "verified"
   }
 ]
