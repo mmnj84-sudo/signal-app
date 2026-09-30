@@ -1648,5 +1648,27 @@
     "target": 1850.13,
     "stop": 1748.53,
     "verify": "verified"
+  },
+  {
+    "date": "2026-09-30",
+    "kind": "intra",
+    "sym": "TATASTEEL",
+    "score": 65.6,
+    "grade": "B",
+    "entry": 188.77,
+    "target": 195.94,
+    "stop": 185.18,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-09-30",
+    "kind": "intra",
+    "sym": "ADANIPORTS",
+    "score": 63.4,
+    "grade": "B",
+    "entry": 1785.2,
+    "target": 1853.04,
+    "stop": 1751.28,
+    "verify": "verified"
   }
 ]

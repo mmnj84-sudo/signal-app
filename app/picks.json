@@ -1,14 +1,55 @@
 {
-  "asof": "30 Sep 2026, 11:43 IST",
-  "generated_utc": "2026-09-30T06:14:50.118168+00:00",
+  "asof": "30 Sep 2026, 12:17 IST",
+  "generated_utc": "2026-09-30T06:47:57.297510+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
   "intra": [
+    {
+      "sym": "TATASTEEL",
+      "name": "TATASTEEL",
+      "score": 65.6,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 188.77,
+      "exit": 195.94,
+      "stop": 185.18,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
     {
       "sym": "ADANIPORTS",
       "name": "ADANIPORTS",
@@ -17,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1782.4,
-      "exit": 1850.13,
-      "stop": 1748.53,
+      "entry": 1785.2,
+      "exit": 1853.04,
+      "stop": 1751.28,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
