@@ -1,6 +1,6 @@
 {
-  "asof": "30 Sep 2026, 14:41 IST",
-  "generated_utc": "2026-09-30T09:12:51.209199+00:00",
+  "asof": "30 Sep 2026, 15:14 IST",
+  "generated_utc": "2026-09-30T09:45:27.855675+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "ICICIGI",
       "name": "ICICIGI",
-      "score": 68.2,
+      "score": 71.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1570.8,
-      "exit": 1630.49,
-      "stop": 1540.95,
+      "entry": 1575.8,
+      "exit": 1635.68,
+      "stop": 1545.86,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          5
+          8
         ],
         [
           "Rel str",
@@ -53,14 +53,55 @@
     {
       "sym": "DRREDDY",
       "name": "DRREDDY",
-      "score": 65.4,
+      "score": 69.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1236.5,
-      "exit": 1283.49,
-      "stop": 1213.01,
+      "entry": 1230.2,
+      "exit": 1276.95,
+      "stop": 1206.83,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.2%)"
+    },
+    {
+      "sym": "ADANIPORTS",
+      "name": "ADANIPORTS",
+      "score": 67.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1780.0,
+      "exit": 1847.64,
+      "stop": 1746.18,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -78,47 +119,6 @@
         [
           "Vol spike",
           5
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
-    },
-    {
-      "sym": "ADANIPORTS",
-      "name": "ADANIPORTS",
-      "score": 63.4,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1788.3,
-      "exit": 1856.26,
-      "stop": 1754.32,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
         ],
         [
           "Rel str",
@@ -130,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
