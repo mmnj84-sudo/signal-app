@@ -1,14 +1,96 @@
 {
-  "asof": "30 Sep 2026, 13:13 IST",
-  "generated_utc": "2026-09-30T07:44:32.565327+00:00",
+  "asof": "30 Sep 2026, 13:43 IST",
+  "generated_utc": "2026-09-30T08:13:55.361571+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
   "intra": [
+    {
+      "sym": "COALINDIA",
+      "name": "COALINDIA",
+      "score": 66.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 429.05,
+      "exit": 445.35,
+      "stop": 420.9,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 65.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1239.6,
+      "exit": 1286.7,
+      "stop": 1216.05,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
     {
       "sym": "ADANIPORTS",
       "name": "ADANIPORTS",
@@ -17,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1789.0,
-      "exit": 1856.98,
-      "stop": 1755.01,
+      "entry": 1790.9,
+      "exit": 1858.95,
+      "stop": 1756.87,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
