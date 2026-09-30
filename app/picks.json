@@ -1,107 +1,25 @@
 {
-  "asof": "30 Sep 2026, 14:14 IST",
-  "generated_utc": "2026-09-30T08:45:18.131601+00:00",
+  "asof": "30 Sep 2026, 14:41 IST",
+  "generated_utc": "2026-09-30T09:12:51.209199+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 4 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
   "intra": [
     {
-      "sym": "COALINDIA",
-      "name": "COALINDIA",
-      "score": 66.8,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 426.8,
-      "exit": 443.02,
-      "stop": 418.69,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "DRREDDY",
-      "name": "DRREDDY",
-      "score": 65.4,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1238.4,
-      "exit": 1285.46,
-      "stop": 1214.87,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "ICICIGI",
       "name": "ICICIGI",
-      "score": 64.6,
+      "score": 68.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1573.2,
-      "exit": 1632.98,
-      "stop": 1543.31,
+      "entry": 1570.8,
+      "exit": 1630.49,
+      "stop": 1540.95,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -133,6 +51,47 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 65.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1236.5,
+      "exit": 1283.49,
+      "stop": 1213.01,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
       "sym": "ADANIPORTS",
       "name": "ADANIPORTS",
       "score": 63.4,
@@ -140,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1790.5,
-      "exit": 1858.54,
-      "stop": 1756.48,
+      "entry": 1788.3,
+      "exit": 1856.26,
+      "stop": 1754.32,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
