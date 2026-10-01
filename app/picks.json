@@ -1,6 +1,6 @@
 {
-  "asof": "01 Oct 2026, 10:41 IST",
-  "generated_utc": "2026-10-01T05:12:21.650688+00:00",
+  "asof": "01 Oct 2026, 11:12 IST",
+  "generated_utc": "2026-10-01T05:43:41.538394+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,19 +12,19 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 79.6,
+      "score": 74.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 435.0,
-      "exit": 451.53,
-      "stop": 426.74,
+      "entry": 425.55,
+      "exit": 441.72,
+      "stop": 417.46,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          10
+          5
         ],
         [
           "ADX",
@@ -44,11 +44,11 @@
         ],
         [
           "Stoch",
-          2
+          5
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
