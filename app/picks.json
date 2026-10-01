@@ -1,6 +1,6 @@
 {
-  "asof": "01 Oct 2026, 09:41 IST",
-  "generated_utc": "2026-10-01T04:12:34.378459+00:00",
+  "asof": "01 Oct 2026, 10:14 IST",
+  "generated_utc": "2026-10-01T04:45:28.392553+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 429.2,
-      "exit": 445.51,
-      "stop": 421.05,
+      "entry": 430.25,
+      "exit": 446.6,
+      "stop": 422.08,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.3%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
