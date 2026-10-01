@@ -1,6 +1,6 @@
 {
-  "asof": "01 Oct 2026, 12:43 IST",
-  "generated_utc": "2026-10-01T07:14:06.973900+00:00",
+  "asof": "01 Oct 2026, 13:13 IST",
+  "generated_utc": "2026-10-01T07:44:42.459337+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 74.0,
+      "score": 75.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 423.0,
-      "exit": 439.07,
-      "stop": 414.96,
+      "entry": 420.6,
+      "exit": 436.58,
+      "stop": 412.61,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,19 +48,19 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "ADANIGREEN",
       "name": "ADANIGREEN",
-      "score": 67.2,
+      "score": 70.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1286.9,
-      "exit": 1335.8,
-      "stop": 1262.45,
+      "entry": 1286.0,
+      "exit": 1334.87,
+      "stop": 1261.57,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -77,7 +77,7 @@
         ],
         [
           "Vol spike",
-          5
+          8
         ],
         [
           "Rel str",
