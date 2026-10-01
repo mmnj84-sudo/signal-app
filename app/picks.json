@@ -1,6 +1,6 @@
 {
-  "asof": "01 Oct 2026, 10:14 IST",
-  "generated_utc": "2026-10-01T04:45:28.392553+00:00",
+  "asof": "01 Oct 2026, 10:41 IST",
+  "generated_utc": "2026-10-01T05:12:21.650688+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 77.2,
+      "score": 79.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 430.25,
-      "exit": 446.6,
-      "stop": 422.08,
+      "entry": 435.0,
+      "exit": 451.53,
+      "stop": 426.74,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          8
+          10
         ],
         [
           "Rel str",
