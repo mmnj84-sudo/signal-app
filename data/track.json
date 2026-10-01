@@ -307,10 +307,10 @@
       "target": 433.37,
       "stop": 409.57,
       "score_at_open": 80.2,
-      "peak": 417.5,
+      "peak": 418.55,
       "status": "open",
-      "last": 417.5,
-      "ret_pct": 0.0
+      "last": 418.55,
+      "ret_pct": 0.25
     }
   ],
   "closed": []
