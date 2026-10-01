@@ -1,10 +1,10 @@
 {
-  "asof": "01 Oct 2026, 11:49 IST",
-  "generated_utc": "2026-10-01T06:20:03.287254+00:00",
+  "asof": "01 Oct 2026, 12:18 IST",
+  "generated_utc": "2026-10-01T06:49:37.065912+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 1 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 424.35,
-      "exit": 440.48,
-      "stop": 416.29,
+      "entry": 423.6,
+      "exit": 439.7,
+      "stop": 415.55,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -41,6 +41,47 @@
         [
           "Rel str",
           10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 67.2,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1287.9,
+      "exit": 1336.84,
+      "stop": 1263.43,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          4
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          6
         ],
         [
           "Stoch",
