@@ -2220,5 +2220,27 @@
     "target": 1314.73,
     "stop": 1242.53,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-01",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 80.2,
+    "grade": "A",
+    "entry": 417.5,
+    "target": 433.37,
+    "stop": 409.57,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-01",
+    "kind": "intra",
+    "sym": "ADANIGREEN",
+    "score": 65.2,
+    "grade": "B",
+    "entry": 1270.1,
+    "target": 1318.36,
+    "stop": 1245.97,
+    "verify": "verified"
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "asof": "01 Oct 2026, 14:14 IST",
-  "generated_utc": "2026-10-01T08:45:19.614124+00:00",
+  "asof": "01 Oct 2026, 14:43 IST",
+  "generated_utc": "2026-10-01T09:13:59.879376+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 69.0,
+      "score": 80.2,
       "grade": [
-        "B",
-        "b"
+        "A",
+        "a"
       ],
-      "entry": 416.8,
-      "exit": 432.64,
-      "stop": 408.88,
+      "entry": 417.5,
+      "exit": 433.37,
+      "stop": 409.57,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -32,7 +32,7 @@
         ],
         [
           "OBV",
-          3
+          9
         ],
         [
           "Vol spike",
@@ -40,7 +40,7 @@
         ],
         [
           "Rel str",
-          6
+          10
         ],
         [
           "Stoch",
@@ -53,19 +53,19 @@
     {
       "sym": "ADANIGREEN",
       "name": "ADANIGREEN",
-      "score": 62.0,
+      "score": 65.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1266.6,
-      "exit": 1314.73,
-      "stop": 1242.53,
+      "entry": 1270.1,
+      "exit": 1318.36,
+      "stop": 1245.97,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          6
+          8
         ],
         [
           "ADX",
@@ -94,7 +94,7 @@
   ],
   "stats": {
     "updated": "2026-10-01",
-    "open_count": 23,
+    "open_count": 24,
     "closed_count": 0,
     "win_rate": null,
     "avg_return": 0.0,
@@ -406,6 +406,19 @@
       "peak": 1620.0,
       "status": "open",
       "last": 1620.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-01",
+      "entry": 417.5,
+      "target": 433.37,
+      "stop": 409.57,
+      "score_at_open": 80.2,
+      "peak": 417.5,
+      "status": "open",
+      "last": 417.5,
       "ret_pct": 0.0
     }
   ]
