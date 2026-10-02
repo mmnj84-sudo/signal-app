@@ -300,19 +300,6 @@
       "ret_pct": 0.0
     },
     {
-      "sym": "KOTAKBANK",
-      "kind": "intra",
-      "opened": "2026-10-01",
-      "entry": 417.5,
-      "target": 433.37,
-      "stop": 409.57,
-      "score_at_open": 80.2,
-      "peak": 418.55,
-      "status": "open",
-      "last": 418.55,
-      "ret_pct": 0.25
-    },
-    {
       "sym": "JSWSTEEL",
       "kind": "long",
       "opened": "2026-10-01",
@@ -365,5 +352,21 @@
       "ret_pct": 0.0
     }
   ],
-  "closed": []
+  "closed": [
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-01",
+      "entry": 417.5,
+      "target": 433.37,
+      "stop": 409.57,
+      "score_at_open": 80.2,
+      "peak": 418.55,
+      "status": "max-hold",
+      "last": 418.35,
+      "ret_pct": 0.2,
+      "closed": "2026-10-02",
+      "final_ret_pct": 0.2
+    }
+  ]
 }
