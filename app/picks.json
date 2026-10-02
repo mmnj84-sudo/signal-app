@@ -1,6 +1,6 @@
 {
-  "asof": "02 Oct 2026, 09:41 IST",
-  "generated_utc": "2026-10-02T04:12:12.871124+00:00",
+  "asof": "02 Oct 2026, 10:13 IST",
+  "generated_utc": "2026-10-02T04:44:22.156379+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -217,7 +217,7 @@
   ],
   "stats": {
     "updated": "2026-10-02",
-    "open_count": 27,
+    "open_count": 28,
     "closed_count": 1,
     "win_rate": 100.0,
     "avg_return": 0.2,
@@ -581,6 +581,19 @@
       "peak": 10666.0,
       "status": "open",
       "last": 10666.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-02",
+      "entry": 418.35,
+      "target": 434.25,
+      "stop": 410.4,
+      "score_at_open": 80.2,
+      "peak": 418.35,
+      "status": "open",
+      "last": 418.35,
       "ret_pct": 0.0
     }
   ]

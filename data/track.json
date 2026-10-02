@@ -350,6 +350,19 @@
       "status": "open",
       "last": 10666.0,
       "ret_pct": 0.0
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-02",
+      "entry": 418.35,
+      "target": 434.25,
+      "stop": 410.4,
+      "score_at_open": 80.2,
+      "peak": 418.35,
+      "status": "open",
+      "last": 418.35,
+      "ret_pct": 0.0
     }
   ],
   "closed": [
