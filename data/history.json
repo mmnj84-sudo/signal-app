@@ -2990,5 +2990,60 @@
     "target": 1189.24,
     "stop": 1123.93,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-02",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 80.2,
+    "grade": "A",
+    "entry": 418.35,
+    "target": 434.25,
+    "stop": 410.4,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-02",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 67.0,
+    "grade": "B",
+    "entry": 1533.0,
+    "target": 1591.25,
+    "stop": 1503.87,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-02",
+    "kind": "intra",
+    "sym": "ADANIGREEN",
+    "score": 65.2,
+    "grade": "B",
+    "entry": 1276.1,
+    "target": 1324.59,
+    "stop": 1251.85,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-02",
+    "kind": "intra",
+    "sym": "DMART",
+    "score": 63.6,
+    "grade": "B",
+    "entry": 3813.0,
+    "target": 3957.89,
+    "stop": 3740.55,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-02",
+    "kind": "intra",
+    "sym": "ZYDUSLIFE",
+    "score": 63.4,
+    "grade": "B",
+    "entry": 1145.7,
+    "target": 1189.24,
+    "stop": 1123.93,
+    "verify": "verified"
   }
 ]
