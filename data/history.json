@@ -3771,5 +3771,82 @@
     "target": 732.78,
     "stop": 692.54,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 70.6,
+    "grade": "B",
+    "entry": 417.25,
+    "target": 433.11,
+    "stop": 409.32,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "ICICIGI",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 1596.6,
+    "target": 1657.27,
+    "stop": 1566.26,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 65.4,
+    "grade": "B",
+    "entry": 1201.0,
+    "target": 1246.64,
+    "stop": 1178.18,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 65.4,
+    "grade": "B",
+    "entry": 1534.8,
+    "target": 1593.12,
+    "stop": 1505.64,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "AUBANK",
+    "score": 64.8,
+    "grade": "B",
+    "entry": 1030.1,
+    "target": 1069.24,
+    "stop": 1010.53,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 1019.5,
+    "target": 1058.24,
+    "stop": 1000.13,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "HDFCBANK",
+    "score": 62.8,
+    "grade": "B",
+    "entry": 704.65,
+    "target": 731.43,
+    "stop": 691.26,
+    "verify": "verified"
   }
 ]
