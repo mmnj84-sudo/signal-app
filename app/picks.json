@@ -1,10 +1,10 @@
 {
-  "asof": "05 Oct 2026, 11:48 IST",
-  "generated_utc": "2026-10-05T06:19:06.459758+00:00",
+  "asof": "05 Oct 2026, 12:23 IST",
+  "generated_utc": "2026-10-05T06:54:49.850385+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 4 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 415.4,
-      "exit": 431.19,
-      "stop": 407.51,
+      "entry": 415.0,
+      "exit": 430.77,
+      "stop": 407.12,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -45,47 +45,6 @@
         [
           "Stoch",
           5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "ICICIGI",
-      "name": "ICICIGI",
-      "score": 64.0,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1590.1,
-      "exit": 1650.52,
-      "stop": 1559.89,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          2
         ]
       ],
       "verify": "verified",
@@ -94,14 +53,14 @@
     {
       "sym": "INFY",
       "name": "INFY",
-      "score": 63.2,
+      "score": 65.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1016.0,
-      "exit": 1054.61,
-      "stop": 996.7,
+      "entry": 1012.65,
+      "exit": 1051.13,
+      "stop": 993.41,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -123,6 +82,88 @@
         [
           "Rel str",
           6
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ICICIGI",
+      "name": "ICICIGI",
+      "score": 64.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1598.1,
+      "exit": 1658.83,
+      "stop": 1567.74,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 63.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1199.4,
+      "exit": 1244.98,
+      "stop": 1176.61,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
         ],
         [
           "Stoch",
@@ -212,8 +253,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1016.0,
-      "ret_pct": 1.58
+      "last": 1012.65,
+      "ret_pct": 1.24
     },
     {
       "sym": "BANKINDIA",
