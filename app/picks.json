@@ -1,6 +1,6 @@
 {
-  "asof": "05 Oct 2026, 12:46 IST",
-  "generated_utc": "2026-10-05T07:17:38.821192+00:00",
+  "asof": "05 Oct 2026, 13:15 IST",
+  "generated_utc": "2026-10-05T07:46:36.021833+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -10,6 +10,47 @@
   "long": [],
   "intra": [
     {
+      "sym": "ICICIGI",
+      "name": "ICICIGI",
+      "score": 68.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1602.8,
+      "exit": 1663.71,
+      "stop": 1572.35,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
       "score": 67.2,
@@ -17,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 414.8,
-      "exit": 430.56,
-      "stop": 406.92,
+      "entry": 415.6,
+      "exit": 431.39,
+      "stop": 407.7,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -51,47 +92,6 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "INFY",
-      "name": "INFY",
-      "score": 65.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1012.55,
-      "exit": 1051.03,
-      "stop": 993.31,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          3
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "DRREDDY",
       "name": "DRREDDY",
       "score": 64.0,
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1196.4,
-      "exit": 1241.86,
-      "stop": 1173.67,
+      "entry": 1197.4,
+      "exit": 1242.9,
+      "stop": 1174.65,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -130,24 +130,24 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ICICIGI",
-      "name": "ICICIGI",
-      "score": 64.0,
+      "sym": "INFY",
+      "name": "INFY",
+      "score": 63.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1600.0,
-      "exit": 1660.8,
-      "stop": 1569.6,
+      "entry": 1016.0,
+      "exit": 1054.61,
+      "stop": 996.7,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          10
+          8
         ],
         [
           "ADX",
@@ -155,7 +155,7 @@
         ],
         [
           "OBV",
-          9
+          3
         ],
         [
           "Vol spike",
@@ -167,11 +167,11 @@
         ],
         [
           "Stoch",
-          2
+          5
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "HDFCBANK",
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 706.75,
-      "exit": 733.61,
-      "stop": 693.32,
+      "entry": 705.2,
+      "exit": 732.0,
+      "stop": 691.8,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -212,7 +212,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -294,8 +294,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1012.55,
-      "ret_pct": 1.23
+      "last": 1016.0,
+      "ret_pct": 1.58
     },
     {
       "sym": "BANKINDIA",
