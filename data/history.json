@@ -3375,5 +3375,49 @@
     "target": 13012.52,
     "stop": 9599.4,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 67.0,
+    "grade": "B",
+    "entry": 420.3,
+    "target": 436.27,
+    "stop": 412.31,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 66.0,
+    "grade": "B",
+    "entry": 1032.6,
+    "target": 1071.84,
+    "stop": 1012.98,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "HDFCBANK",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 725.65,
+    "target": 753.22,
+    "stop": 711.86,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "DMART",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 3660.0,
+    "target": 3799.08,
+    "stop": 3590.46,
+    "verify": "verified"
   }
 ]

@@ -60,10 +60,10 @@
       "target": 1220.24,
       "stop": 900.18,
       "score_at_open": 71.0,
-      "peak": 1015.4,
+      "peak": 1032.6,
       "status": "open",
-      "last": 994.1,
-      "ret_pct": -0.61
+      "last": 1032.6,
+      "ret_pct": 3.24
     },
     {
       "sym": "BANKINDIA",
@@ -350,19 +350,6 @@
       "status": "open",
       "last": 10666.0,
       "ret_pct": 0.0
-    },
-    {
-      "sym": "KOTAKBANK",
-      "kind": "intra",
-      "opened": "2026-10-02",
-      "entry": 418.35,
-      "target": 434.25,
-      "stop": 410.4,
-      "score_at_open": 80.2,
-      "peak": 418.35,
-      "status": "open",
-      "last": 418.35,
-      "ret_pct": 0.0
     }
   ],
   "closed": [
@@ -380,6 +367,21 @@
       "ret_pct": 0.2,
       "closed": "2026-10-02",
       "final_ret_pct": 0.2
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-02",
+      "entry": 418.35,
+      "target": 434.25,
+      "stop": 410.4,
+      "score_at_open": 80.2,
+      "peak": 420.3,
+      "status": "max-hold",
+      "last": 420.3,
+      "ret_pct": 0.47,
+      "closed": "2026-10-05",
+      "final_ret_pct": 0.47
     }
   ]
 }
