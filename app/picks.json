@@ -1,10 +1,10 @@
 {
-  "asof": "05 Oct 2026, 10:33 IST",
-  "generated_utc": "2026-10-05T05:03:57.893237+00:00",
+  "asof": "05 Oct 2026, 11:16 IST",
+  "generated_utc": "2026-10-05T05:47:46.775536+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 70.6,
+      "score": 67.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 418.05,
-      "exit": 433.94,
-      "stop": 410.11,
+      "entry": 415.75,
+      "exit": 431.55,
+      "stop": 407.85,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -40,7 +40,7 @@
         ],
         [
           "Rel str",
-          10
+          6
         ],
         [
           "Stoch",
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "INFY",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1022.85,
-      "exit": 1061.72,
-      "stop": 1003.42,
+      "entry": 1018.0,
+      "exit": 1056.68,
+      "stop": 998.66,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -86,47 +86,6 @@
         [
           "Stoch",
           5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
-    },
-    {
-      "sym": "DMART",
-      "name": "DMART",
-      "score": 62.0,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 3633.5,
-      "exit": 3771.57,
-      "stop": 3564.46,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          6
-        ],
-        [
-          "ADX",
-          2
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          2
-        ],
-        [
-          "Stoch",
-          8
         ]
       ],
       "verify": "verified",
@@ -212,8 +171,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1022.85,
-      "ret_pct": 2.26
+      "last": 1018.0,
+      "ret_pct": 1.78
     },
     {
       "sym": "BANKINDIA",
