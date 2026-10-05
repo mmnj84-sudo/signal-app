@@ -1,14 +1,55 @@
 {
-  "asof": "05 Oct 2026, 14:43 IST",
-  "generated_utc": "2026-10-05T09:14:21.979762+00:00",
+  "asof": "05 Oct 2026, 15:15 IST",
+  "generated_utc": "2026-10-05T09:46:34.927922+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 7 picks"
+      "intra: 97 fetched, 4 errors, 6 picks"
     ]
   },
   "long": [],
   "intra": [
+    {
+      "sym": "ICICIGI",
+      "name": "ICICIGI",
+      "score": 71.6,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1605.0,
+      "exit": 1665.99,
+      "stop": 1574.5,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
@@ -17,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 417.25,
-      "exit": 433.11,
-      "stop": 409.32,
+      "entry": 416.5,
+      "exit": 432.33,
+      "stop": 408.59,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -51,21 +92,21 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ICICIGI",
-      "name": "ICICIGI",
-      "score": 67.6,
+      "sym": "HDFCBANK",
+      "name": "HDFCBANK",
+      "score": 66.4,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1596.6,
-      "exit": 1657.27,
-      "stop": 1566.26,
+      "entry": 704.55,
+      "exit": 731.32,
+      "stop": 691.16,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          10
+          2
         ],
         [
           "ADX",
@@ -77,15 +118,15 @@
         ],
         [
           "Vol spike",
-          2
+          8
         ],
         [
           "Rel str",
-          6
+          2
         ],
         [
           "Stoch",
-          2
+          8
         ]
       ],
       "verify": "verified",
@@ -99,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1201.0,
-      "exit": 1246.64,
-      "stop": 1178.18,
+      "entry": 1204.8,
+      "exit": 1250.58,
+      "stop": 1181.91,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -133,47 +174,6 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "TECHM",
-      "name": "TECHM",
-      "score": 65.4,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1534.8,
-      "exit": 1593.12,
-      "stop": 1505.64,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          5
-        ],
-        [
-          "ADX",
-          5
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          4
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "AUBANK",
       "name": "AUBANK",
       "score": 64.8,
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1030.1,
-      "exit": 1069.24,
-      "stop": 1010.53,
+      "entry": 1031.4,
+      "exit": 1070.59,
+      "stop": 1011.8,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -222,9 +222,9 @@
         "B",
         "b"
       ],
-      "entry": 1019.5,
-      "exit": 1058.24,
-      "stop": 1000.13,
+      "entry": 1019.0,
+      "exit": 1057.72,
+      "stop": 999.64,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -250,47 +250,6 @@
         [
           "Stoch",
           5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "HDFCBANK",
-      "name": "HDFCBANK",
-      "score": 62.8,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 704.65,
-      "exit": 731.43,
-      "stop": 691.26,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          2
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          2
-        ],
-        [
-          "Stoch",
-          8
         ]
       ],
       "verify": "verified",
@@ -376,8 +335,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1019.5,
-      "ret_pct": 1.93
+      "last": 1019.0,
+      "ret_pct": 1.88
     },
     {
       "sym": "BANKINDIA",
