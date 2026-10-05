@@ -3419,5 +3419,38 @@
     "target": 3799.08,
     "stop": 3590.46,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 70.6,
+    "grade": "B",
+    "entry": 418.05,
+    "target": 433.94,
+    "stop": 410.11,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 63.2,
+    "grade": "B",
+    "entry": 1022.85,
+    "target": 1061.72,
+    "stop": 1003.42,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-05",
+    "kind": "intra",
+    "sym": "DMART",
+    "score": 62.0,
+    "grade": "B",
+    "entry": 3633.5,
+    "target": 3771.57,
+    "stop": 3564.46,
+    "verify": "verified"
   }
 ]

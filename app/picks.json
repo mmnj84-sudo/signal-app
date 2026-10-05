@@ -1,10 +1,10 @@
 {
-  "asof": "05 Oct 2026, 09:43 IST",
-  "generated_utc": "2026-10-05T04:14:34.208823+00:00",
+  "asof": "05 Oct 2026, 10:33 IST",
+  "generated_utc": "2026-10-05T05:03:57.893237+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 4 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 67.0,
+      "score": 70.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 420.3,
-      "exit": 436.27,
-      "stop": 412.31,
+      "entry": 418.05,
+      "exit": 433.94,
+      "stop": 410.11,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,19 +48,19 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "INFY",
       "name": "INFY",
-      "score": 66.0,
+      "score": 63.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1032.6,
-      "exit": 1071.84,
-      "stop": 1012.98,
+      "entry": 1022.85,
+      "exit": 1061.72,
+      "stop": 1003.42,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -81,7 +81,7 @@
         ],
         [
           "Rel str",
-          10
+          6
         ],
         [
           "Stoch",
@@ -92,57 +92,16 @@
       "verify_note": "price agrees (\u00b10.1%)"
     },
     {
-      "sym": "HDFCBANK",
-      "name": "HDFCBANK",
-      "score": 63.2,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 725.65,
-      "exit": 753.22,
-      "stop": 711.86,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          4
-        ],
-        [
-          "Stoch",
-          7
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "DMART",
       "name": "DMART",
-      "score": 63.2,
+      "score": 62.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 3660.0,
-      "exit": 3799.08,
-      "stop": 3590.46,
+      "entry": 3633.5,
+      "exit": 3771.57,
+      "stop": 3564.46,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -151,7 +110,7 @@
         ],
         [
           "ADX",
-          8
+          2
         ],
         [
           "OBV",
@@ -159,7 +118,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
@@ -171,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -253,8 +212,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1032.6,
-      "ret_pct": 3.24
+      "last": 1022.85,
+      "ret_pct": 2.26
     },
     {
       "sym": "BANKINDIA",
