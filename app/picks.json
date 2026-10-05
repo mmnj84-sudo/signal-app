@@ -1,10 +1,10 @@
 {
-  "asof": "05 Oct 2026, 12:23 IST",
-  "generated_utc": "2026-10-05T06:54:49.850385+00:00",
+  "asof": "05 Oct 2026, 12:46 IST",
+  "generated_utc": "2026-10-05T07:17:38.821192+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 4 picks"
+      "intra: 97 fetched, 4 errors, 5 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 415.0,
-      "exit": 430.77,
-      "stop": 407.12,
+      "entry": 414.8,
+      "exit": 430.56,
+      "stop": 406.92,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1012.65,
-      "exit": 1051.13,
-      "stop": 993.41,
+      "entry": 1012.55,
+      "exit": 1051.03,
+      "stop": 993.31,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,6 +92,47 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 64.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1196.4,
+      "exit": 1241.86,
+      "stop": 1173.67,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
       "sym": "ICICIGI",
       "name": "ICICIGI",
       "score": 64.0,
@@ -99,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1598.1,
-      "exit": 1658.83,
-      "stop": 1567.74,
+      "entry": 1600.0,
+      "exit": 1660.8,
+      "stop": 1569.6,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -133,21 +174,21 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "DRREDDY",
-      "name": "DRREDDY",
-      "score": 63.4,
+      "sym": "HDFCBANK",
+      "name": "HDFCBANK",
+      "score": 62.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1199.4,
-      "exit": 1244.98,
-      "stop": 1176.61,
+      "entry": 706.75,
+      "exit": 733.61,
+      "stop": 693.32,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          6
+          2
         ],
         [
           "ADX",
@@ -159,19 +200,19 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
-          4
+          2
         ],
         [
           "Stoch",
-          5
+          8
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
@@ -253,8 +294,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1012.65,
-      "ret_pct": 1.24
+      "last": 1012.55,
+      "ret_pct": 1.23
     },
     {
       "sym": "BANKINDIA",
