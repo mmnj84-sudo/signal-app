@@ -36,8 +36,8 @@
       "score_at_open": 72.3,
       "peak": 164.02,
       "status": "open",
-      "last": 162.14,
-      "ret_pct": -1.15
+      "last": 161.84,
+      "ret_pct": -1.33
     },
     {
       "sym": "TCS",
@@ -49,8 +49,8 @@
       "score_at_open": 71.9,
       "peak": 2114.4,
       "status": "open",
-      "last": 2114.4,
-      "ret_pct": 1.56
+      "last": 2100.0,
+      "ret_pct": 0.86
     },
     {
       "sym": "INFY",
@@ -62,8 +62,8 @@
       "score_at_open": 71.0,
       "peak": 1032.6,
       "status": "open",
-      "last": 1020.5,
-      "ret_pct": 2.03
+      "last": 1013.85,
+      "ret_pct": 1.36
     },
     {
       "sym": "BANKINDIA",
@@ -75,8 +75,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 129.48,
-      "ret_pct": -6.13
+      "last": 132.16,
+      "ret_pct": -4.19
     },
     {
       "sym": "EICHERMOT",
@@ -88,8 +88,8 @@
       "score_at_open": 70.7,
       "peak": 7360.0,
       "status": "open",
-      "last": 7021.5,
-      "ret_pct": -4.6
+      "last": 7051.0,
+      "ret_pct": -4.2
     },
     {
       "sym": "ONGC",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 224.9,
-      "ret_pct": -4.65
+      "last": 224.2,
+      "ret_pct": -4.94
     },
     {
       "sym": "GAIL",
@@ -114,8 +114,8 @@
       "score_at_open": 70.6,
       "peak": 172.7,
       "status": "open",
-      "last": 167.5,
-      "ret_pct": -3.01
+      "last": 172.08,
+      "ret_pct": -0.36
     },
     {
       "sym": "VEDL",
@@ -127,8 +127,8 @@
       "score_at_open": 70.6,
       "peak": 266.35,
       "status": "open",
-      "last": 266.25,
-      "ret_pct": -0.04
+      "last": 265.6,
+      "ret_pct": -0.28
     },
     {
       "sym": "SUNPHARMA",
@@ -140,8 +140,8 @@
       "score_at_open": 69.2,
       "peak": 1865.0,
       "status": "open",
-      "last": 1779.7,
-      "ret_pct": -3.91
+      "last": 1804.1,
+      "ret_pct": -2.6
     },
     {
       "sym": "NMDC",
@@ -153,8 +153,8 @@
       "score_at_open": 67.9,
       "peak": 79.9,
       "status": "open",
-      "last": 73.74,
-      "ret_pct": -7.71
+      "last": 74.38,
+      "ret_pct": -6.91
     },
     {
       "sym": "INDUSTOWER",
@@ -179,8 +179,8 @@
       "score_at_open": 67.1,
       "peak": 124.99,
       "status": "open",
-      "last": 118.5,
-      "ret_pct": -5.19
+      "last": 117.82,
+      "ret_pct": -5.74
     },
     {
       "sym": "ASIANPAINT",
@@ -218,8 +218,8 @@
       "score_at_open": 68.4,
       "peak": 113.06,
       "status": "open",
-      "last": 112.35,
-      "ret_pct": -0.22
+      "last": 111.92,
+      "ret_pct": -0.6
     },
     {
       "sym": "DABUR",
@@ -296,8 +296,8 @@
       "score_at_open": 65.7,
       "peak": 1620.0,
       "status": "open",
-      "last": 1605.4,
-      "ret_pct": -0.9
+      "last": 1611.0,
+      "ret_pct": -0.56
     },
     {
       "sym": "JSWSTEEL",
@@ -307,10 +307,10 @@
       "target": 1504.26,
       "stop": 1109.7,
       "score_at_open": 71.4,
-      "peak": 1235.3,
+      "peak": 1259.6,
       "status": "open",
-      "last": 1235.3,
-      "ret_pct": 0.19
+      "last": 1259.6,
+      "ret_pct": 2.16
     },
     {
       "sym": "HCLTECH",
@@ -322,8 +322,8 @@
       "score_at_open": 66.6,
       "peak": 1243.1,
       "status": "open",
-      "last": 1201.9,
-      "ret_pct": -3.31
+      "last": 1204.4,
+      "ret_pct": -3.11
     },
     {
       "sym": "ULTRACEMCO",
@@ -348,8 +348,8 @@
       "score_at_open": 66.2,
       "peak": 10666.0,
       "status": "open",
-      "last": 10666.0,
-      "ret_pct": 0.0
+      "last": 10600.0,
+      "ret_pct": -0.62
     },
     {
       "sym": "TRENT",
@@ -375,6 +375,58 @@
       "peak": 430.9,
       "status": "open",
       "last": 430.9,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "ABBOTINDIA",
+      "kind": "long",
+      "opened": "2026-10-06",
+      "entry": 26115.0,
+      "target": 31860.3,
+      "stop": 23503.5,
+      "score_at_open": 67.2,
+      "peak": 26115.0,
+      "status": "open",
+      "last": 26115.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "BAJAJ-AUTO",
+      "kind": "long",
+      "opened": "2026-10-06",
+      "entry": 10017.0,
+      "target": 12220.74,
+      "stop": 9015.3,
+      "score_at_open": 65.6,
+      "peak": 10017.0,
+      "status": "open",
+      "last": 10017.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "COALINDIA",
+      "kind": "long",
+      "opened": "2026-10-06",
+      "entry": 411.65,
+      "target": 502.21,
+      "stop": 370.48,
+      "score_at_open": 65.3,
+      "peak": 411.65,
+      "status": "open",
+      "last": 411.65,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "LODHA",
+      "kind": "long",
+      "opened": "2026-10-06",
+      "entry": 1135.6,
+      "target": 1385.43,
+      "stop": 1022.04,
+      "score_at_open": 65.2,
+      "peak": 1135.6,
+      "status": "open",
+      "last": 1135.6,
       "ret_pct": 0.0
     }
   ],
