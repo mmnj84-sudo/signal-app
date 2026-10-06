@@ -4706,5 +4706,115 @@
     "target": 1848.99,
     "stop": 1747.46,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 82.2,
+    "grade": "A",
+    "entry": 430.9,
+    "target": 447.27,
+    "stop": 422.71,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "TRENT",
+    "score": 81.4,
+    "grade": "A",
+    "entry": 2900.0,
+    "target": 3010.2,
+    "stop": 2844.9,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "DLF",
+    "score": 71.8,
+    "grade": "B",
+    "entry": 670.0,
+    "target": 695.46,
+    "stop": 657.27,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "AUBANK",
+    "score": 68.4,
+    "grade": "B",
+    "entry": 1025.4,
+    "target": 1064.37,
+    "stop": 1005.92,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 68.0,
+    "grade": "B",
+    "entry": 389.0,
+    "target": 403.78,
+    "stop": 381.61,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "INDIGO",
+    "score": 64.0,
+    "grade": "B",
+    "entry": 5048.0,
+    "target": 5239.82,
+    "stop": 4952.09,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "ICICIBANK",
+    "score": 63.8,
+    "grade": "B",
+    "entry": 1339.5,
+    "target": 1390.4,
+    "stop": 1314.05,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "VEDL",
+    "score": 63.8,
+    "grade": "B",
+    "entry": 266.25,
+    "target": 276.37,
+    "stop": 261.19,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "ADANIGREEN",
+    "score": 63.6,
+    "grade": "B",
+    "entry": 1313.7,
+    "target": 1363.62,
+    "stop": 1288.74,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "ADANIPORTS",
+    "score": 62.4,
+    "grade": "B",
+    "entry": 1782.0,
+    "target": 1849.72,
+    "stop": 1748.14,
+    "verify": "verified"
   }
 ]

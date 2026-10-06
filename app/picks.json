@@ -1,14 +1,55 @@
 {
-  "asof": "06 Oct 2026, 14:42 IST",
-  "generated_utc": "2026-10-06T09:13:09.700160+00:00",
+  "asof": "06 Oct 2026, 15:14 IST",
+  "generated_utc": "2026-10-06T09:45:26.272502+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 9 picks"
+      "intra: 97 fetched, 4 errors, 10 picks"
     ]
   },
   "long": [],
   "intra": [
+    {
+      "sym": "KOTAKBANK",
+      "name": "KOTAKBANK",
+      "score": 82.2,
+      "grade": [
+        "A",
+        "a"
+      ],
+      "entry": 430.9,
+      "exit": 447.27,
+      "stop": 422.71,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
     {
       "sym": "TRENT",
       "name": "TRENT",
@@ -17,9 +58,9 @@
         "A",
         "a"
       ],
-      "entry": 2905.9,
-      "exit": 3016.32,
-      "stop": 2850.69,
+      "entry": 2900.0,
+      "exit": 3010.2,
+      "stop": 2844.9,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -51,47 +92,6 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "KOTAKBANK",
-      "name": "KOTAKBANK",
-      "score": 78.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 432.35,
-      "exit": 448.78,
-      "stop": 424.14,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          10
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
-    },
-    {
       "sym": "DLF",
       "name": "DLF",
       "score": 71.8,
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 668.75,
-      "exit": 694.16,
-      "stop": 656.04,
+      "entry": 670.0,
+      "exit": 695.46,
+      "stop": 657.27,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1026.1,
-      "exit": 1065.09,
-      "stop": 1006.6,
+      "entry": 1025.4,
+      "exit": 1064.37,
+      "stop": 1005.92,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -174,57 +174,16 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ADANIGREEN",
-      "name": "ADANIGREEN",
-      "score": 64.8,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1305.3,
-      "exit": 1354.9,
-      "stop": 1280.5,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          5
-        ],
-        [
-          "OBV",
-          3
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
       "sym": "INDUSTOWER",
       "name": "INDUSTOWER",
-      "score": 64.4,
+      "score": 68.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 390.1,
-      "exit": 404.92,
-      "stop": 382.69,
+      "entry": 389.0,
+      "exit": 403.78,
+      "stop": 381.61,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -263,9 +222,9 @@
         "B",
         "b"
       ],
-      "entry": 5031.9,
-      "exit": 5223.11,
-      "stop": 4936.29,
+      "entry": 5048.0,
+      "exit": 5239.82,
+      "stop": 4952.09,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -304,9 +263,9 @@
         "B",
         "b"
       ],
-      "entry": 1341.9,
-      "exit": 1392.89,
-      "stop": 1316.4,
+      "entry": 1339.5,
+      "exit": 1390.4,
+      "stop": 1314.05,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -335,6 +294,88 @@
         ]
       ],
       "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "VEDL",
+      "name": "VEDL",
+      "score": 63.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 266.25,
+      "exit": 276.37,
+      "stop": 261.19,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          5
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 63.6,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1313.7,
+      "exit": 1363.62,
+      "stop": 1288.74,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
@@ -345,9 +386,9 @@
         "B",
         "b"
       ],
-      "entry": 1781.3,
-      "exit": 1848.99,
-      "stop": 1747.46,
+      "entry": 1782.0,
+      "exit": 1849.72,
+      "stop": 1748.14,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -381,7 +422,7 @@
   ],
   "stats": {
     "updated": "2026-10-06",
-    "open_count": 28,
+    "open_count": 29,
     "closed_count": 2,
     "win_rate": 100.0,
     "avg_return": 0.33,
@@ -523,8 +564,8 @@
       "score_at_open": 70.6,
       "peak": 266.35,
       "status": "open",
-      "last": 255.05,
-      "ret_pct": -4.24
+      "last": 266.25,
+      "ret_pct": -0.04
     },
     {
       "sym": "SUNPHARMA",
@@ -562,8 +603,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 390.1,
-      "ret_pct": 4.12
+      "last": 389.0,
+      "ret_pct": 3.83
     },
     {
       "sym": "CANBK",
@@ -757,8 +798,21 @@
       "score_at_open": 81.4,
       "peak": 2905.9,
       "status": "open",
-      "last": 2905.9,
-      "ret_pct": 1.47
+      "last": 2900.0,
+      "ret_pct": 1.27
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-06",
+      "entry": 430.9,
+      "target": 447.27,
+      "stop": 422.71,
+      "score_at_open": 82.2,
+      "peak": 430.9,
+      "status": "open",
+      "last": 430.9,
+      "ret_pct": 0.0
     }
   ]
 }

@@ -127,8 +127,8 @@
       "score_at_open": 70.6,
       "peak": 266.35,
       "status": "open",
-      "last": 255.05,
-      "ret_pct": -4.24
+      "last": 266.25,
+      "ret_pct": -0.04
     },
     {
       "sym": "SUNPHARMA",
@@ -166,8 +166,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 390.1,
-      "ret_pct": 4.12
+      "last": 389.0,
+      "ret_pct": 3.83
     },
     {
       "sym": "CANBK",
@@ -361,8 +361,21 @@
       "score_at_open": 81.4,
       "peak": 2905.9,
       "status": "open",
-      "last": 2905.9,
-      "ret_pct": 1.47
+      "last": 2900.0,
+      "ret_pct": 1.27
+    },
+    {
+      "sym": "KOTAKBANK",
+      "kind": "intra",
+      "opened": "2026-10-06",
+      "entry": 430.9,
+      "target": 447.27,
+      "stop": 422.71,
+      "score_at_open": 82.2,
+      "peak": 430.9,
+      "status": "open",
+      "last": 430.9,
+      "ret_pct": 0.0
     }
   ],
   "closed": [
