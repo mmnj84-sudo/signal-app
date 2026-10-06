@@ -1,10 +1,10 @@
 {
-  "asof": "06 Oct 2026, 10:41 IST",
-  "generated_utc": "2026-10-06T05:12:07.770631+00:00",
+  "asof": "06 Oct 2026, 11:12 IST",
+  "generated_utc": "2026-10-06T05:43:54.122680+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 2 picks"
+      "intra: 97 fetched, 4 errors, 3 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 431.1,
-      "exit": 447.48,
-      "stop": 422.91,
+      "entry": 431.25,
+      "exit": 447.64,
+      "stop": 423.06,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2875.1,
-      "exit": 2984.35,
-      "stop": 2820.47,
+      "entry": 2873.1,
+      "exit": 2982.28,
+      "stop": 2818.51,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,7 +89,48 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ICICIBANK",
+      "name": "ICICIBANK",
+      "score": 63.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1332.7,
+      "exit": 1383.34,
+      "stop": 1307.38,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
