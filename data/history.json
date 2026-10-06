@@ -4409,5 +4409,60 @@
     "target": 1389.88,
     "stop": 1313.56,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "TRENT",
+    "score": 81.4,
+    "grade": "A",
+    "entry": 2881.2,
+    "target": 2990.69,
+    "stop": 2826.46,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 78.6,
+    "grade": "B",
+    "entry": 433.95,
+    "target": 450.44,
+    "stop": 425.7,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "AUBANK",
+    "score": 64.8,
+    "grade": "B",
+    "entry": 1032.0,
+    "target": 1071.22,
+    "stop": 1012.39,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 64.4,
+    "grade": "B",
+    "entry": 389.85,
+    "target": 404.66,
+    "stop": 382.44,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "ICICIBANK",
+    "score": 63.8,
+    "grade": "B",
+    "entry": 1340.3,
+    "target": 1391.23,
+    "stop": 1314.83,
+    "verify": "verified"
   }
 ]

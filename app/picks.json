@@ -1,6 +1,6 @@
 {
-  "asof": "06 Oct 2026, 12:42 IST",
-  "generated_utc": "2026-10-06T07:13:29.444857+00:00",
+  "asof": "06 Oct 2026, 13:13 IST",
+  "generated_utc": "2026-10-06T07:45:06.533284+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "A",
         "a"
       ],
-      "entry": 2862.5,
-      "exit": 2971.28,
-      "stop": 2808.11,
+      "entry": 2881.2,
+      "exit": 2990.69,
+      "stop": 2826.46,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "KOTAKBANK",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 432.55,
-      "exit": 448.99,
-      "stop": 424.33,
+      "entry": 433.95,
+      "exit": 450.44,
+      "stop": 425.7,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -94,14 +94,14 @@
     {
       "sym": "AUBANK",
       "name": "AUBANK",
-      "score": 68.8,
+      "score": 64.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1036.0,
-      "exit": 1075.37,
-      "stop": 1016.32,
+      "entry": 1032.0,
+      "exit": 1071.22,
+      "stop": 1012.39,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -122,7 +122,7 @@
         ],
         [
           "Rel str",
-          10
+          6
         ],
         [
           "Stoch",
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 390.15,
-      "exit": 404.98,
-      "stop": 382.74,
+      "entry": 389.85,
+      "exit": 404.66,
+      "stop": 382.44,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1339.0,
-      "exit": 1389.88,
-      "stop": 1313.56,
+      "entry": 1340.3,
+      "exit": 1391.23,
+      "stop": 1314.83,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -398,8 +398,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 390.15,
-      "ret_pct": 4.14
+      "last": 389.85,
+      "ret_pct": 4.06
     },
     {
       "sym": "CANBK",
@@ -591,10 +591,10 @@
       "target": 2972.52,
       "stop": 2809.29,
       "score_at_open": 81.4,
-      "peak": 2863.7,
+      "peak": 2881.2,
       "status": "open",
-      "last": 2862.5,
-      "ret_pct": -0.04
+      "last": 2881.2,
+      "ret_pct": 0.61
     }
   ]
 }
