@@ -1,10 +1,10 @@
 {
-  "asof": "06 Oct 2026, 10:14 IST",
-  "generated_utc": "2026-10-06T04:45:35.540146+00:00",
+  "asof": "06 Oct 2026, 10:41 IST",
+  "generated_utc": "2026-10-06T05:12:07.770631+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 2 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 430.35,
-      "exit": 446.7,
-      "stop": 422.17,
+      "entry": 431.1,
+      "exit": 447.48,
+      "stop": 422.91,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2848.5,
-      "exit": 2956.74,
-      "stop": 2794.38,
+      "entry": 2875.1,
+      "exit": 2984.35,
+      "stop": 2820.47,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,48 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "DLF",
-      "name": "DLF",
-      "score": 64.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 668.7,
-      "exit": 694.11,
-      "stop": 655.99,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
