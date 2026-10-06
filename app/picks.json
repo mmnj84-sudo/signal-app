@@ -1,10 +1,10 @@
 {
-  "asof": "06 Oct 2026, 11:12 IST",
-  "generated_utc": "2026-10-06T05:43:54.122680+00:00",
+  "asof": "06 Oct 2026, 11:44 IST",
+  "generated_utc": "2026-10-06T06:15:19.031440+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 3 picks"
+      "intra: 97 fetched, 4 errors, 4 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 431.25,
-      "exit": 447.64,
-      "stop": 423.06,
+      "entry": 430.5,
+      "exit": 446.86,
+      "stop": 422.32,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2873.1,
-      "exit": 2982.28,
-      "stop": 2818.51,
+      "entry": 2860.5,
+      "exit": 2969.2,
+      "stop": 2806.15,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,6 +92,47 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
+      "sym": "AUBANK",
+      "name": "AUBANK",
+      "score": 64.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1027.8,
+      "exit": 1066.86,
+      "stop": 1008.27,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
       "sym": "ICICIBANK",
       "name": "ICICIBANK",
       "score": 63.8,
@@ -99,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1332.7,
-      "exit": 1383.34,
-      "stop": 1307.38,
+      "entry": 1331.8,
+      "exit": 1382.41,
+      "stop": 1306.5,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
