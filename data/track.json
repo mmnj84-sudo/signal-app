@@ -164,10 +164,10 @@
       "target": 457.07,
       "stop": 337.18,
       "score_at_open": 67.4,
-      "peak": 374.65,
+      "peak": 391.2,
       "status": "open",
-      "last": 367.55,
-      "ret_pct": -1.9
+      "last": 391.2,
+      "ret_pct": 4.42
     },
     {
       "sym": "CANBK",
@@ -349,6 +349,19 @@
       "peak": 10666.0,
       "status": "open",
       "last": 10666.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "TRENT",
+      "kind": "intra",
+      "opened": "2026-10-06",
+      "entry": 2863.7,
+      "target": 2972.52,
+      "stop": 2809.29,
+      "score_at_open": 81.4,
+      "peak": 2863.7,
+      "status": "open",
+      "last": 2863.7,
       "ret_pct": 0.0
     }
   ],
