@@ -166,8 +166,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 391.2,
-      "ret_pct": 4.42
+      "last": 390.15,
+      "ret_pct": 4.14
     },
     {
       "sym": "CANBK",
@@ -361,8 +361,8 @@
       "score_at_open": 81.4,
       "peak": 2863.7,
       "status": "open",
-      "last": 2863.7,
-      "ret_pct": 0.0
+      "last": 2862.5,
+      "ret_pct": -0.04
     }
   ],
   "closed": [
