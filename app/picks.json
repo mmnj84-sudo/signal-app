@@ -1,6 +1,6 @@
 {
-  "asof": "06 Oct 2026, 13:13 IST",
-  "generated_utc": "2026-10-06T07:45:06.533284+00:00",
+  "asof": "06 Oct 2026, 13:42 IST",
+  "generated_utc": "2026-10-06T08:13:17.128295+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "A",
         "a"
       ],
-      "entry": 2881.2,
-      "exit": 2990.69,
-      "stop": 2826.46,
+      "entry": 2894.0,
+      "exit": 3003.97,
+      "stop": 2839.01,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "KOTAKBANK",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 433.95,
-      "exit": 450.44,
-      "stop": 425.7,
+      "entry": 434.25,
+      "exit": 450.75,
+      "stop": 426.0,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,7 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "AUBANK",
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1032.0,
-      "exit": 1071.22,
-      "stop": 1012.39,
+      "entry": 1028.6,
+      "exit": 1067.69,
+      "stop": 1009.06,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 389.85,
-      "exit": 404.66,
-      "stop": 382.44,
+      "entry": 389.9,
+      "exit": 404.72,
+      "stop": 382.49,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1340.3,
-      "exit": 1391.23,
-      "stop": 1314.83,
+      "entry": 1340.0,
+      "exit": 1390.92,
+      "stop": 1314.54,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -212,7 +212,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     }
   ],
   "stats": {
@@ -398,8 +398,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 389.85,
-      "ret_pct": 4.06
+      "last": 389.9,
+      "ret_pct": 4.07
     },
     {
       "sym": "CANBK",
@@ -591,10 +591,10 @@
       "target": 2972.52,
       "stop": 2809.29,
       "score_at_open": 81.4,
-      "peak": 2881.2,
+      "peak": 2894.0,
       "status": "open",
-      "last": 2881.2,
-      "ret_pct": 0.61
+      "last": 2894.0,
+      "ret_pct": 1.06
     }
   ]
 }
