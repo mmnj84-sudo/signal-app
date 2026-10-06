@@ -1,10 +1,10 @@
 {
-  "asof": "06 Oct 2026, 14:14 IST",
-  "generated_utc": "2026-10-06T08:45:09.801992+00:00",
+  "asof": "06 Oct 2026, 14:42 IST",
+  "generated_utc": "2026-10-06T09:13:09.700160+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 8 picks"
+      "intra: 97 fetched, 4 errors, 9 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "A",
         "a"
       ],
-      "entry": 2899.0,
-      "exit": 3009.16,
-      "stop": 2843.92,
+      "entry": 2905.9,
+      "exit": 3016.32,
+      "stop": 2850.69,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 432.55,
-      "exit": 448.99,
-      "stop": 424.33,
+      "entry": 432.35,
+      "exit": 448.78,
+      "stop": 424.14,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,7 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.1%)"
     },
     {
       "sym": "DLF",
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 669.55,
-      "exit": 694.99,
-      "stop": 656.83,
+      "entry": 668.75,
+      "exit": 694.16,
+      "stop": 656.04,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1026.0,
-      "exit": 1064.99,
-      "stop": 1006.51,
+      "entry": 1026.1,
+      "exit": 1065.09,
+      "stop": 1006.6,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -164,6 +164,47 @@
         [
           "Rel str",
           6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 64.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1305.3,
+      "exit": 1354.9,
+      "stop": 1280.5,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          10
         ],
         [
           "Stoch",
@@ -222,9 +263,9 @@
         "B",
         "b"
       ],
-      "entry": 5022.8,
-      "exit": 5213.67,
-      "stop": 4927.37,
+      "entry": 5031.9,
+      "exit": 5223.11,
+      "stop": 4936.29,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -263,9 +304,9 @@
         "B",
         "b"
       ],
-      "entry": 1340.7,
-      "exit": 1391.65,
-      "stop": 1315.23,
+      "entry": 1341.9,
+      "exit": 1392.89,
+      "stop": 1316.4,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -304,9 +345,9 @@
         "B",
         "b"
       ],
-      "entry": 1782.8,
-      "exit": 1850.55,
-      "stop": 1748.93,
+      "entry": 1781.3,
+      "exit": 1848.99,
+      "stop": 1747.46,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -714,10 +755,10 @@
       "target": 2972.52,
       "stop": 2809.29,
       "score_at_open": 81.4,
-      "peak": 2899.0,
+      "peak": 2905.9,
       "status": "open",
-      "last": 2899.0,
-      "ret_pct": 1.23
+      "last": 2905.9,
+      "ret_pct": 1.47
     }
   ]
 }
