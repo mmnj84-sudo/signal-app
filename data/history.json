@@ -4134,5 +4134,38 @@
     "target": 1168.76,
     "stop": 862.2,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "TRENT",
+    "score": 77.0,
+    "grade": "B",
+    "entry": 2817.6,
+    "target": 2924.67,
+    "stop": 2764.07,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 75.0,
+    "grade": "B",
+    "entry": 433.0,
+    "target": 449.45,
+    "stop": 424.77,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-06",
+    "kind": "intra",
+    "sym": "DLF",
+    "score": 64.6,
+    "grade": "B",
+    "entry": 670.45,
+    "target": 695.93,
+    "stop": 657.71,
+    "verify": "verified"
   }
 ]
