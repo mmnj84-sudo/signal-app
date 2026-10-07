@@ -1,6 +1,6 @@
 {
-  "asof": "07 Oct 2026, 11:13 IST",
-  "generated_utc": "2026-10-07T05:44:36.175747+00:00",
+  "asof": "07 Oct 2026, 11:42 IST",
+  "generated_utc": "2026-10-07T06:13:44.141611+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 438.85,
-      "exit": 455.53,
-      "stop": 430.51,
+      "entry": 439.9,
+      "exit": 456.62,
+      "stop": 431.54,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2892.3,
-      "exit": 3002.21,
-      "stop": 2837.35,
+      "entry": 2891.0,
+      "exit": 3000.86,
+      "stop": 2836.07,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -130,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.2%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "INDIGO",
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 5041.1,
-      "exit": 5232.66,
-      "stop": 4945.32,
+      "entry": 5044.0,
+      "exit": 5235.67,
+      "stop": 4948.16,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -171,7 +171,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
