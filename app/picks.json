@@ -1,10 +1,10 @@
 {
-  "asof": "07 Oct 2026, 13:14 IST",
-  "generated_utc": "2026-10-07T07:45:28.604304+00:00",
+  "asof": "07 Oct 2026, 13:43 IST",
+  "generated_utc": "2026-10-07T08:14:05.834711+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 4 picks"
+      "intra: 97 fetched, 4 errors, 5 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 439.45,
-      "exit": 456.15,
-      "stop": 431.1,
+      "entry": 440.3,
+      "exit": 457.03,
+      "stop": 431.93,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2887.2,
-      "exit": 2996.91,
-      "stop": 2832.34,
+      "entry": 2899.1,
+      "exit": 3009.27,
+      "stop": 2844.02,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,16 +92,57 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "INDIGO",
-      "name": "INDIGO",
-      "score": 70.8,
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 69.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 5002.7,
-      "exit": 5192.8,
-      "stop": 4907.65,
+      "entry": 1345.6,
+      "exit": 1396.73,
+      "stop": 1320.03,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          10
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "INDIGO",
+      "name": "INDIGO",
+      "score": 68.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 5015.0,
+      "exit": 5205.57,
+      "stop": 4919.72,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -126,28 +167,28 @@
         ],
         [
           "Stoch",
-          5
+          2
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ADANIGREEN",
-      "name": "ADANIGREEN",
-      "score": 69.6,
+      "sym": "INDUSTOWER",
+      "name": "INDUSTOWER",
+      "score": 64.4,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1342.5,
-      "exit": 1393.52,
-      "stop": 1316.99,
+      "entry": 384.45,
+      "exit": 399.06,
+      "stop": 377.15,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          8
+          10
         ],
         [
           "ADX",
@@ -155,11 +196,11 @@
         ],
         [
           "OBV",
-          3
+          9
         ],
         [
           "Vol spike",
-          10
+          2
         ],
         [
           "Rel str",
@@ -357,8 +398,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 386.0,
-      "ret_pct": 3.03
+      "last": 384.45,
+      "ret_pct": 2.62
     },
     {
       "sym": "CANBK",
