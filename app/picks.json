@@ -1,6 +1,6 @@
 {
-  "asof": "07 Oct 2026, 14:42 IST",
-  "generated_utc": "2026-10-07T09:13:20.644069+00:00",
+  "asof": "07 Oct 2026, 15:15 IST",
+  "generated_utc": "2026-10-07T09:46:23.302788+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 441.2,
-      "exit": 457.97,
-      "stop": 432.82,
+      "entry": 440.0,
+      "exit": 456.72,
+      "stop": 431.64,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 1337.9,
-      "exit": 1388.74,
-      "stop": 1312.48,
+      "entry": 1342.7,
+      "exit": 1393.72,
+      "stop": 1317.19,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 2899.3,
-      "exit": 3009.47,
-      "stop": 2844.21,
+      "entry": 2891.0,
+      "exit": 3000.86,
+      "stop": 2836.07,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -135,14 +135,14 @@
     {
       "sym": "INDIGO",
       "name": "INDIGO",
-      "score": 67.2,
+      "score": 63.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 5028.1,
-      "exit": 5219.17,
-      "stop": 4932.57,
+      "entry": 5020.0,
+      "exit": 5210.76,
+      "stop": 4924.62,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -155,7 +155,7 @@
         ],
         [
           "OBV",
-          9
+          3
         ],
         [
           "Vol spike",
@@ -167,7 +167,7 @@
         ],
         [
           "Stoch",
-          2
+          5
         ]
       ],
       "verify": "verified",
@@ -181,9 +181,9 @@
         "B",
         "b"
       ],
-      "entry": 1830.7,
-      "exit": 1900.27,
-      "stop": 1795.92,
+      "entry": 1837.8,
+      "exit": 1907.64,
+      "stop": 1802.88,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -215,21 +215,21 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ITC",
-      "name": "ITC",
-      "score": 62.4,
+      "sym": "INDUSTOWER",
+      "name": "INDUSTOWER",
+      "score": 62.0,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 264.7,
-      "exit": 274.76,
-      "stop": 259.67,
+      "entry": 385.15,
+      "exit": 399.79,
+      "stop": 377.83,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          8
+          10
         ],
         [
           "ADX",
@@ -237,23 +237,23 @@
         ],
         [
           "OBV",
-          3
+          9
         ],
         [
           "Vol spike",
-          10
+          2
         ],
         [
           "Rel str",
-          6
+          10
         ],
         [
           "Stoch",
-          5
+          2
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -294,10 +294,10 @@
       "target": 2178.19,
       "stop": 1606.86,
       "score_at_open": 72.4,
-      "peak": 1833.1,
+      "peak": 1837.8,
       "status": "open",
-      "last": 1830.7,
-      "ret_pct": 2.54
+      "last": 1837.8,
+      "ret_pct": 2.93
     },
     {
       "sym": "WIPRO",
@@ -439,8 +439,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 384.45,
-      "ret_pct": 2.62
+      "last": 385.15,
+      "ret_pct": 2.8
     },
     {
       "sym": "CANBK",

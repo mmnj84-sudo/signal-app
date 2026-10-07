@@ -21,10 +21,10 @@
       "target": 2178.19,
       "stop": 1606.86,
       "score_at_open": 72.4,
-      "peak": 1833.1,
+      "peak": 1837.8,
       "status": "open",
-      "last": 1830.7,
-      "ret_pct": 2.54
+      "last": 1837.8,
+      "ret_pct": 2.93
     },
     {
       "sym": "WIPRO",
@@ -166,8 +166,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 384.45,
-      "ret_pct": 2.62
+      "last": 385.15,
+      "ret_pct": 2.8
     },
     {
       "sym": "CANBK",
