@@ -5201,5 +5201,49 @@
     "target": 5235.67,
     "stop": 4948.16,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 75.0,
+    "grade": "B",
+    "entry": 438.9,
+    "target": 455.58,
+    "stop": 430.56,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "TRENT",
+    "score": 71.8,
+    "grade": "B",
+    "entry": 2890.4,
+    "target": 3000.24,
+    "stop": 2835.48,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "INDIGO",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 5038.4,
+    "target": 5229.86,
+    "stop": 4942.67,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "ADANIGREEN",
+    "score": 64.8,
+    "grade": "B",
+    "entry": 1351.1,
+    "target": 1402.44,
+    "stop": 1325.43,
+    "verify": "verified"
   }
 ]
