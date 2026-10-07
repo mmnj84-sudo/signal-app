@@ -1,6 +1,6 @@
 {
-  "asof": "07 Oct 2026, 13:43 IST",
-  "generated_utc": "2026-10-07T08:14:05.834711+00:00",
+  "asof": "07 Oct 2026, 14:15 IST",
+  "generated_utc": "2026-10-07T08:46:11.708263+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -12,14 +12,14 @@
     {
       "sym": "KOTAKBANK",
       "name": "KOTAKBANK",
-      "score": 75.0,
+      "score": 78.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 440.3,
-      "exit": 457.03,
-      "stop": 431.93,
+      "entry": 439.6,
+      "exit": 456.3,
+      "stop": 431.25,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -36,7 +36,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
@@ -45,6 +45,47 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 76.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1344.4,
+      "exit": 1395.49,
+      "stop": 1318.86,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          10
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
         ]
       ],
       "verify": "verified",
@@ -58,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 2899.1,
-      "exit": 3009.27,
-      "stop": 2844.02,
+      "entry": 2895.6,
+      "exit": 3005.63,
+      "stop": 2840.58,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,57 +133,16 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ADANIGREEN",
-      "name": "ADANIGREEN",
-      "score": 69.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 1345.6,
-      "exit": 1396.73,
-      "stop": 1320.03,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          5
-        ],
-        [
-          "OBV",
-          3
-        ],
-        [
-          "Vol spike",
-          10
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
-    },
-    {
       "sym": "INDIGO",
       "name": "INDIGO",
-      "score": 68.4,
+      "score": 70.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 5015.0,
-      "exit": 5205.57,
-      "stop": 4919.72,
+      "entry": 5011.5,
+      "exit": 5201.94,
+      "stop": 4916.28,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -167,28 +167,28 @@
         ],
         [
           "Stoch",
-          2
+          5
         ]
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "INDUSTOWER",
-      "name": "INDUSTOWER",
-      "score": 64.4,
+      "sym": "BHARTIARTL",
+      "name": "BHARTIARTL",
+      "score": 63.4,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 384.45,
-      "exit": 399.06,
-      "stop": 377.15,
+      "entry": 1833.1,
+      "exit": 1902.76,
+      "stop": 1798.27,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          10
+          8
         ],
         [
           "ADX",
@@ -196,11 +196,11 @@
         ],
         [
           "OBV",
-          9
+          3
         ],
         [
           "Vol spike",
-          2
+          8
         ],
         [
           "Rel str",
@@ -212,7 +212,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
+      "verify_note": "price agrees (\u00b10.2%)"
     }
   ],
   "stats": {
@@ -253,10 +253,10 @@
       "target": 2178.19,
       "stop": 1606.86,
       "score_at_open": 72.4,
-      "peak": 1785.4,
+      "peak": 1833.1,
       "status": "open",
-      "last": 1741.1,
-      "ret_pct": -2.48
+      "last": 1833.1,
+      "ret_pct": 2.67
     },
     {
       "sym": "WIPRO",
