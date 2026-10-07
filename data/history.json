@@ -5058,5 +5058,27 @@
     "target": 2997.02,
     "stop": 2832.44,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 75.0,
+    "grade": "B",
+    "entry": 438.6,
+    "target": 455.27,
+    "stop": 430.27,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "intra",
+    "sym": "TRENT",
+    "score": 68.2,
+    "grade": "B",
+    "entry": 2886.0,
+    "target": 2995.67,
+    "stop": 2831.17,
+    "verify": "verified"
   }
 ]
