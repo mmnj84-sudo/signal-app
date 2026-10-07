@@ -1,10 +1,10 @@
 {
-  "asof": "07 Oct 2026, 12:42 IST",
-  "generated_utc": "2026-10-07T07:13:47.775154+00:00",
+  "asof": "07 Oct 2026, 13:14 IST",
+  "generated_utc": "2026-10-07T07:45:28.604304+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 5 picks"
+      "intra: 97 fetched, 4 errors, 4 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 440.95,
-      "exit": 457.71,
-      "stop": 432.57,
+      "entry": 439.45,
+      "exit": 456.15,
+      "stop": 431.1,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2889.3,
-      "exit": 2999.09,
-      "stop": 2834.4,
+      "entry": 2887.2,
+      "exit": 2996.91,
+      "stop": 2832.34,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -92,6 +92,47 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
+      "sym": "INDIGO",
+      "name": "INDIGO",
+      "score": 70.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 5002.7,
+      "exit": 5192.8,
+      "stop": 4907.65,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.1%)"
+    },
+    {
       "sym": "ADANIGREEN",
       "name": "ADANIGREEN",
       "score": 69.6,
@@ -99,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1346.8,
-      "exit": 1397.98,
-      "stop": 1321.21,
+      "entry": 1342.5,
+      "exit": 1393.52,
+      "stop": 1316.99,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -127,88 +168,6 @@
         [
           "Stoch",
           5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "INDIGO",
-      "name": "INDIGO",
-      "score": 63.6,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 5017.8,
-      "exit": 5208.48,
-      "stop": 4922.46,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          8
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          5
-        ],
-        [
-          "Rel str",
-          6
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "INDUSTOWER",
-      "name": "INDUSTOWER",
-      "score": 62.0,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 386.0,
-      "exit": 400.67,
-      "stop": 378.67,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          10
-        ],
-        [
-          "ADX",
-          5
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          2
         ]
       ],
       "verify": "verified",
