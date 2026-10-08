@@ -1,6 +1,6 @@
 {
-  "asof": "08 Oct 2026, 10:42 IST",
-  "generated_utc": "2026-10-08T05:13:12.840831+00:00",
+  "asof": "08 Oct 2026, 11:13 IST",
+  "generated_utc": "2026-10-08T05:44:47.688345+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 436.3,
-      "exit": 452.88,
-      "stop": 428.01,
+      "entry": 437.15,
+      "exit": 453.76,
+      "stop": 428.84,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -48,7 +48,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TRENT",
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2904.0,
-      "exit": 3014.35,
-      "stop": 2848.82,
+      "entry": 2928.3,
+      "exit": 3039.58,
+      "stop": 2872.66,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -89,7 +89,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.6%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "ADANIGREEN",
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1268.3,
-      "exit": 1316.5,
-      "stop": 1244.2,
+      "entry": 1262.7,
+      "exit": 1310.68,
+      "stop": 1238.71,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -130,7 +130,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TCS",
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 2116.7,
-      "exit": 2197.13,
-      "stop": 2076.48,
+      "entry": 2115.0,
+      "exit": 2195.37,
+      "stop": 2074.82,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -171,7 +171,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -240,8 +240,8 @@
       "score_at_open": 71.9,
       "peak": 2116.7,
       "status": "open",
-      "last": 2116.7,
-      "ret_pct": 1.67
+      "last": 2115.0,
+      "ret_pct": 1.59
     },
     {
       "sym": "INFY",
