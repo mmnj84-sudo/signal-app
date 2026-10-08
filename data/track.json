@@ -49,8 +49,8 @@
       "score_at_open": 71.9,
       "peak": 2116.7,
       "status": "open",
-      "last": 2094.6,
-      "ret_pct": 0.61
+      "last": 2075.0,
+      "ret_pct": -0.34
     },
     {
       "sym": "INFY",
@@ -216,10 +216,10 @@
       "target": 137.37,
       "stop": 101.34,
       "score_at_open": 68.4,
-      "peak": 113.06,
+      "peak": 116.27,
       "status": "open",
-      "last": 111.92,
-      "ret_pct": -0.6
+      "last": 116.27,
+      "ret_pct": 3.26
     },
     {
       "sym": "DABUR",

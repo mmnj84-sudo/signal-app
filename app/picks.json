@@ -1,10 +1,10 @@
 {
-  "asof": "08 Oct 2026, 14:15 IST",
-  "generated_utc": "2026-10-08T08:46:41.411652+00:00",
+  "asof": "08 Oct 2026, 14:42 IST",
+  "generated_utc": "2026-10-08T09:13:47.759480+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 6 picks"
+      "intra: 97 fetched, 4 errors, 7 picks"
     ]
   },
   "long": [],
@@ -17,14 +17,55 @@
         "B",
         "b"
       ],
-      "entry": 434.15,
-      "exit": 450.65,
-      "stop": 425.9,
+      "entry": 434.45,
+      "exit": 450.96,
+      "stop": 426.2,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
           10
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "TRENT",
+      "name": "TRENT",
+      "score": 71.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 2890.4,
+      "exit": 3000.24,
+      "stop": 2835.48,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
         ],
         [
           "ADX",
@@ -53,14 +94,14 @@
     {
       "sym": "ADANIGREEN",
       "name": "ADANIGREEN",
-      "score": 73.4,
+      "score": 68.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1244.2,
-      "exit": 1291.48,
-      "stop": 1220.56,
+      "entry": 1242.0,
+      "exit": 1289.2,
+      "stop": 1218.4,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -73,11 +114,11 @@
         ],
         [
           "OBV",
-          9
+          3
         ],
         [
           "Vol spike",
-          8
+          10
         ],
         [
           "Rel str",
@@ -92,47 +133,6 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "TRENT",
-      "name": "TRENT",
-      "score": 71.8,
-      "grade": [
-        "B",
-        "b"
-      ],
-      "entry": 2893.8,
-      "exit": 3003.76,
-      "stop": 2838.82,
-      "hold": "Same day \u00b7 square off by 15:15",
-      "factors": [
-        [
-          "MACD",
-          8
-        ],
-        [
-          "ADX",
-          10
-        ],
-        [
-          "OBV",
-          9
-        ],
-        [
-          "Vol spike",
-          2
-        ],
-        [
-          "Rel str",
-          10
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
-    },
-    {
       "sym": "ICICIGI",
       "name": "ICICIGI",
       "score": 68.6,
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1618.9,
-      "exit": 1680.42,
-      "stop": 1588.14,
+      "entry": 1616.8,
+      "exit": 1678.24,
+      "stop": 1586.08,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -171,24 +171,24 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "BANKBARODA",
-      "name": "BANKBARODA",
+      "sym": "PNB",
+      "name": "PNB",
       "score": 63.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 234.29,
-      "exit": 243.19,
-      "stop": 229.84,
+      "entry": 116.27,
+      "exit": 120.69,
+      "stop": 114.06,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          8
+          5
         ],
         [
           "ADX",
@@ -200,11 +200,11 @@
         ],
         [
           "Vol spike",
-          5
+          2
         ],
         [
           "Rel str",
-          6
+          10
         ],
         [
           "Stoch",
@@ -217,14 +217,14 @@
     {
       "sym": "TCS",
       "name": "TCS",
-      "score": 62.0,
+      "score": 63.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 2094.6,
-      "exit": 2174.19,
-      "stop": 2054.8,
+      "entry": 2075.0,
+      "exit": 2153.85,
+      "stop": 2035.58,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -242,6 +242,47 @@
         [
           "Vol spike",
           2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "BANKBARODA",
+      "name": "BANKBARODA",
+      "score": 63.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 235.3,
+      "exit": 244.24,
+      "stop": 230.83,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
         ],
         [
           "Rel str",
@@ -322,8 +363,8 @@
       "score_at_open": 71.9,
       "peak": 2116.7,
       "status": "open",
-      "last": 2094.6,
-      "ret_pct": 0.61
+      "last": 2075.0,
+      "ret_pct": -0.34
     },
     {
       "sym": "INFY",
@@ -489,10 +530,10 @@
       "target": 137.37,
       "stop": 101.34,
       "score_at_open": 68.4,
-      "peak": 113.06,
+      "peak": 116.27,
       "status": "open",
-      "last": 111.92,
-      "ret_pct": -0.6
+      "last": 116.27,
+      "ret_pct": 3.26
     },
     {
       "sym": "DABUR",
