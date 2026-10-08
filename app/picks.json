@@ -1,6 +1,6 @@
 {
-  "asof": "08 Oct 2026, 14:42 IST",
-  "generated_utc": "2026-10-08T09:13:47.759480+00:00",
+  "asof": "08 Oct 2026, 15:15 IST",
+  "generated_utc": "2026-10-08T09:46:17.094678+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 434.45,
-      "exit": 450.96,
-      "stop": 426.2,
+      "entry": 433.9,
+      "exit": 450.39,
+      "stop": 425.66,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2890.4,
-      "exit": 3000.24,
-      "stop": 2835.48,
+      "entry": 2885.0,
+      "exit": 2994.63,
+      "stop": 2830.18,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1242.0,
-      "exit": 1289.2,
-      "stop": 1218.4,
+      "entry": 1240.5,
+      "exit": 1287.64,
+      "stop": 1216.93,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -133,25 +133,25 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "ICICIGI",
-      "name": "ICICIGI",
-      "score": 68.6,
+      "sym": "PNB",
+      "name": "PNB",
+      "score": 67.8,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 1616.8,
-      "exit": 1678.24,
-      "stop": 1586.08,
+      "entry": 115.5,
+      "exit": 119.89,
+      "stop": 113.31,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          10
+          5
         ],
         [
           "ADX",
-          8
+          5
         ],
         [
           "OBV",
@@ -159,7 +159,7 @@
         ],
         [
           "Vol spike",
-          2
+          5
         ],
         [
           "Rel str",
@@ -167,28 +167,28 @@
         ],
         [
           "Stoch",
-          2
+          5
         ]
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "PNB",
-      "name": "PNB",
-      "score": 63.6,
+      "sym": "BANKBARODA",
+      "name": "BANKBARODA",
+      "score": 66.6,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 116.27,
-      "exit": 120.69,
-      "stop": 114.06,
+      "entry": 235.4,
+      "exit": 244.35,
+      "stop": 230.93,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          5
+          8
         ],
         [
           "ADX",
@@ -200,11 +200,11 @@
         ],
         [
           "Vol spike",
-          2
+          8
         ],
         [
           "Rel str",
-          10
+          6
         ],
         [
           "Stoch",
@@ -222,9 +222,9 @@
         "B",
         "b"
       ],
-      "entry": 2075.0,
-      "exit": 2153.85,
-      "stop": 2035.58,
+      "entry": 2077.0,
+      "exit": 2155.93,
+      "stop": 2037.54,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -256,25 +256,25 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "BANKBARODA",
-      "name": "BANKBARODA",
-      "score": 63.0,
+      "sym": "ICICIGI",
+      "name": "ICICIGI",
+      "score": 62.2,
       "grade": [
         "B",
         "b"
       ],
-      "entry": 235.3,
-      "exit": 244.24,
-      "stop": 230.83,
+      "entry": 1614.0,
+      "exit": 1675.33,
+      "stop": 1583.33,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
           "MACD",
-          8
+          6
         ],
         [
           "ADX",
-          5
+          8
         ],
         [
           "OBV",
@@ -282,15 +282,15 @@
         ],
         [
           "Vol spike",
-          5
+          2
         ],
         [
           "Rel str",
-          6
+          10
         ],
         [
           "Stoch",
-          5
+          2
         ]
       ],
       "verify": "verified",
@@ -363,8 +363,8 @@
       "score_at_open": 71.9,
       "peak": 2116.7,
       "status": "open",
-      "last": 2075.0,
-      "ret_pct": -0.34
+      "last": 2077.0,
+      "ret_pct": -0.24
     },
     {
       "sym": "INFY",
@@ -532,8 +532,8 @@
       "score_at_open": 68.4,
       "peak": 116.27,
       "status": "open",
-      "last": 116.27,
-      "ret_pct": 3.26
+      "last": 115.5,
+      "ret_pct": 2.58
     },
     {
       "sym": "DABUR",
