@@ -49,8 +49,8 @@
       "score_at_open": 71.9,
       "peak": 2116.7,
       "status": "open",
-      "last": 2104.6,
-      "ret_pct": 1.09
+      "last": 2102.8,
+      "ret_pct": 1.0
     },
     {
       "sym": "INFY",
@@ -281,10 +281,10 @@
       "target": 2952.52,
       "stop": 2178.09,
       "score_at_open": 67.0,
-      "peak": 2460.0,
+      "peak": 2498.4,
       "status": "open",
-      "last": 2460.0,
-      "ret_pct": 1.65
+      "last": 2498.4,
+      "ret_pct": 3.24
     },
     {
       "sym": "CHOLAFIN",
