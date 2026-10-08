@@ -1,10 +1,10 @@
 {
-  "asof": "08 Oct 2026, 12:44 IST",
-  "generated_utc": "2026-10-08T07:15:17.564933+00:00",
+  "asof": "08 Oct 2026, 13:15 IST",
+  "generated_utc": "2026-10-08T07:46:10.325566+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "intra: 97 fetched, 4 errors, 6 picks"
+      "intra: 97 fetched, 4 errors, 7 picks"
     ]
   },
   "long": [],
@@ -17,9 +17,9 @@
         "B",
         "b"
       ],
-      "entry": 437.2,
-      "exit": 453.81,
-      "stop": 428.89,
+      "entry": 437.9,
+      "exit": 454.54,
+      "stop": 429.58,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -58,9 +58,9 @@
         "B",
         "b"
       ],
-      "entry": 2895.0,
-      "exit": 3005.01,
-      "stop": 2839.99,
+      "entry": 2886.0,
+      "exit": 2995.67,
+      "stop": 2831.17,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -99,9 +99,9 @@
         "B",
         "b"
       ],
-      "entry": 1216.3,
-      "exit": 1262.52,
-      "stop": 1193.19,
+      "entry": 1221.5,
+      "exit": 1267.92,
+      "stop": 1198.29,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -140,9 +140,9 @@
         "B",
         "b"
       ],
-      "entry": 1623.4,
-      "exit": 1685.09,
-      "stop": 1592.56,
+      "entry": 1617.7,
+      "exit": 1679.17,
+      "stop": 1586.96,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -171,7 +171,48 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "BANKBARODA",
+      "name": "BANKBARODA",
+      "score": 63.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 235.6,
+      "exit": 244.55,
+      "stop": 231.12,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
     },
     {
       "sym": "TCS",
@@ -222,9 +263,9 @@
         "B",
         "b"
       ],
-      "entry": 2498.4,
-      "exit": 2593.34,
-      "stop": 2450.93,
+      "entry": 2496.0,
+      "exit": 2590.85,
+      "stop": 2448.58,
       "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
@@ -253,7 +294,7 @@
         ]
       ],
       "verify": "verified",
-      "verify_note": "price agrees (\u00b10.1%)"
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
   "stats": {
@@ -556,8 +597,8 @@
       "score_at_open": 67.0,
       "peak": 2498.4,
       "status": "open",
-      "last": 2498.4,
-      "ret_pct": 3.24
+      "last": 2496.0,
+      "ret_pct": 3.14
     },
     {
       "sym": "CHOLAFIN",
