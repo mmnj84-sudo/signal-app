@@ -10,8 +10,8 @@
       "score_at_open": 74.0,
       "peak": 2835.0,
       "status": "open",
-      "last": 2626.0,
-      "ret_pct": -7.37
+      "last": 2580.0,
+      "ret_pct": -8.99
     },
     {
       "sym": "BHARTIARTL",
@@ -47,10 +47,10 @@
       "target": 2540.04,
       "stop": 1873.8,
       "score_at_open": 71.9,
-      "peak": 2301.6,
+      "peak": 2304.9,
       "status": "open",
-      "last": 2301.6,
-      "ret_pct": 10.55
+      "last": 2304.9,
+      "ret_pct": 10.71
     },
     {
       "sym": "INFY",
@@ -75,8 +75,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 134.34,
-      "ret_pct": -2.61
+      "last": 134.48,
+      "ret_pct": -2.51
     },
     {
       "sym": "EICHERMOT",
@@ -88,8 +88,8 @@
       "score_at_open": 70.7,
       "peak": 7360.0,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 7082.5,
+      "ret_pct": -3.77
     },
     {
       "sym": "ONGC",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 222.65,
-      "ret_pct": -5.6
+      "last": 225.5,
+      "ret_pct": -4.39
     },
     {
       "sym": "GAIL",
@@ -114,8 +114,8 @@
       "score_at_open": 70.6,
       "peak": 172.7,
       "status": "open",
-      "last": 168.3,
-      "ret_pct": -2.55
+      "last": 166.96,
+      "ret_pct": -3.32
     },
     {
       "sym": "VEDL",
@@ -127,8 +127,8 @@
       "score_at_open": 70.6,
       "peak": 266.35,
       "status": "open",
-      "last": 256.3,
-      "ret_pct": -3.77
+      "last": 250.0,
+      "ret_pct": -6.14
     },
     {
       "sym": "SUNPHARMA",
@@ -140,8 +140,8 @@
       "score_at_open": 69.2,
       "peak": 1865.0,
       "status": "open",
-      "last": 1770.7,
-      "ret_pct": -4.4
+      "last": 1746.4,
+      "ret_pct": -5.71
     },
     {
       "sym": "INDUSTOWER",
@@ -179,8 +179,8 @@
       "score_at_open": 65.8,
       "peak": 2444.0,
       "status": "open",
-      "last": 2376.0,
-      "ret_pct": -2.78
+      "last": 2344.7,
+      "ret_pct": -4.06
     },
     {
       "sym": "PIDILITIND",
@@ -216,10 +216,10 @@
       "target": 470.62,
       "stop": 347.18,
       "score_at_open": 65.8,
-      "peak": 386.7,
+      "peak": 388.4,
       "status": "open",
-      "last": 378.75,
-      "ret_pct": -1.81
+      "last": 388.4,
+      "ret_pct": 0.69
     },
     {
       "sym": "NESTLEIND",
@@ -244,8 +244,8 @@
       "score_at_open": 65.4,
       "peak": 962.0,
       "status": "open",
-      "last": 941.0,
-      "ret_pct": -2.18
+      "last": 954.9,
+      "ret_pct": -0.74
     },
     {
       "sym": "MARICO",
@@ -255,10 +255,10 @@
       "target": 960.32,
       "stop": 708.44,
       "score_at_open": 67.6,
-      "peak": 787.15,
+      "peak": 790.0,
       "status": "open",
-      "last": 782.8,
-      "ret_pct": -0.55
+      "last": 790.0,
+      "ret_pct": 0.36
     },
     {
       "sym": "SRF",
@@ -268,10 +268,10 @@
       "target": 2952.52,
       "stop": 2178.09,
       "score_at_open": 67.0,
-      "peak": 2498.4,
+      "peak": 2499.7,
       "status": "open",
-      "last": 2495.1,
-      "ret_pct": 3.1
+      "last": 2499.7,
+      "ret_pct": 3.29
     },
     {
       "sym": "CHOLAFIN",
@@ -283,8 +283,8 @@
       "score_at_open": 65.7,
       "peak": 1620.0,
       "status": "open",
-      "last": 1611.0,
-      "ret_pct": -0.56
+      "last": 1563.0,
+      "ret_pct": -3.52
     },
     {
       "sym": "JSWSTEEL",
@@ -296,8 +296,8 @@
       "score_at_open": 71.4,
       "peak": 1259.6,
       "status": "open",
-      "last": 1176.6,
-      "ret_pct": -4.57
+      "last": 1176.2,
+      "ret_pct": -4.61
     },
     {
       "sym": "HCLTECH",
@@ -309,8 +309,8 @@
       "score_at_open": 66.6,
       "peak": 1330.9,
       "status": "open",
-      "last": 1330.9,
-      "ret_pct": 7.06
+      "last": 1327.0,
+      "ret_pct": 6.75
     },
     {
       "sym": "ULTRACEMCO",
@@ -333,10 +333,10 @@
       "target": 13012.52,
       "stop": 9599.4,
       "score_at_open": 66.2,
-      "peak": 10666.0,
+      "peak": 10774.0,
       "status": "open",
-      "last": 10600.0,
-      "ret_pct": -0.62
+      "last": 10774.0,
+      "ret_pct": 1.01
     },
     {
       "sym": "ABBOTINDIA",
@@ -387,8 +387,8 @@
       "score_at_open": 65.2,
       "peak": 1135.6,
       "status": "open",
-      "last": 1091.5,
-      "ret_pct": -3.88
+      "last": 1059.6,
+      "ret_pct": -6.69
     },
     {
       "sym": "TECHM",
@@ -413,8 +413,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 71.34,
-      "ret_pct": -0.64
+      "last": 71.08,
+      "ret_pct": -1.0
     },
     {
       "sym": "ADANIPOWER",
