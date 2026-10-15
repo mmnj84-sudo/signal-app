@@ -1,787 +1,91 @@
 {
-  "asof": "14 Oct 2026, 20:30 IST",
-  "generated_utc": "2026-10-14T15:02:12.270333+00:00",
+  "asof": "15 Oct 2026, 14:22 IST",
+  "generated_utc": "2026-10-15T08:53:56.196776+00:00",
   "health": {
     "ok": true,
     "notes": [
-      "long: 97 fetched, 4 errors, 20 picks"
+      "intra: 97 fetched, 4 errors, 17 picks"
     ]
   },
-  "long": [
-    {
-      "sym": "MUTHOOTFIN",
-      "name": "MUTHOOT FINANCE LIMITED",
-      "score": 77.4,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 2580.0,
-      "exit": 3147.6,
-      "stop": 2322.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "VEDL",
-      "name": "VEDANTA LIMITED",
-      "score": 76.6,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 250.0,
-      "exit": 305.0,
-      "stop": 225.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "GAIL",
-      "name": "GAIL (INDIA) LTD",
-      "score": 75.5,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 166.96,
-      "exit": 203.69,
-      "stop": 150.26,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "JSWSTEEL",
-      "name": "JSW STEEL LIMITED",
-      "score": 71.9,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1176.2,
-      "exit": 1434.96,
-      "stop": 1058.58,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "NMDC",
-      "name": "NMDC LTD.",
-      "score": 69.9,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 71.08,
-      "exit": 86.72,
-      "stop": 63.97,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          2
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "SUNPHARMA",
-      "name": "SUN PHARMACEUTICAL IND L",
-      "score": 69.6,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1746.4,
-      "exit": 2130.61,
-      "stop": 1571.76,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "ASIANPAINT",
-      "name": "ASIAN PAINTS LIMITED",
-      "score": 68.6,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 2344.7,
-      "exit": 2860.53,
-      "stop": 2110.23,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          1
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
+  "long": [],
+  "intra": [
     {
       "sym": "TCS",
-      "name": "TATA CONSULTANCY SERV LT",
-      "score": 67.8,
+      "name": "TCS",
+      "score": 81.6,
       "grade": [
-        "Accumulate",
-        "acc"
+        "A",
+        "a"
       ],
-      "entry": 2304.9,
-      "exit": 2811.98,
-      "stop": 2074.41,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "entry": 2360.0,
+      "exit": 2449.68,
+      "stop": 2315.16,
+      "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
-          "ROE",
+          "MACD",
           10
         ],
         [
-          "Valuation",
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          5
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ICICIGI",
+      "name": "ICICIGI",
+      "score": 81.2,
+      "grade": [
+        "A",
+        "a"
+      ],
+      "entry": 1691.6,
+      "exit": 1755.88,
+      "stop": 1659.46,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
           6
         ],
         [
-          "Earn CAGR",
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
           8
         ],
         [
-          "Bollinger",
-          2
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "LODHA",
-      "name": "LODHA DEVELOPERS LIMITED",
-      "score": 67.6,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1059.6,
-      "exit": 1292.71,
-      "stop": 953.64,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
+          "Rel str",
           10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "ONGC",
-      "name": "OIL AND NATURAL GAS CORP.",
-      "score": 67.1,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 225.5,
-      "exit": 275.11,
-      "stop": 202.95,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          7
         ],
         [
           "Stoch",
           5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "EICHERMOT",
-      "name": "EICHER MOTORS LTD",
-      "score": 66.2,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 7082.5,
-      "exit": 8640.65,
-      "stop": 6374.25,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          7
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "BANKINDIA",
-      "name": "BANK OF INDIA",
-      "score": 66.0,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 134.48,
-      "exit": 164.07,
-      "stop": 121.03,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          5
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          5
-        ],
-        [
-          "Support",
-          7
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "DABUR",
-      "name": "DABUR INDIA LTD",
-      "score": 64.3,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 388.4,
-      "exit": 473.85,
-      "stop": 349.56,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
-          8
-        ],
-        [
-          "Bollinger",
-          6
-        ],
-        [
-          "Support",
-          7
-        ],
-        [
-          "Stoch",
-          7
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "MARICO",
-      "name": "MARICO LIMITED",
-      "score": 64.3,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 790.0,
-      "exit": 963.8,
-      "stop": 711.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          1
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          7
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "SRF",
-      "name": "SRF LTD",
-      "score": 64.2,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 2499.7,
-      "exit": 3049.63,
-      "stop": 2249.73,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          5
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          7
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "HINDALCO",
-      "name": "HINDALCO  INDUSTRIES  LTD",
-      "score": 64.1,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 882.5,
-      "exit": 1076.65,
-      "stop": 794.25,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          9
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "SBIN",
-      "name": "STATE BANK OF INDIA",
-      "score": 64.0,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 954.9,
-      "exit": 1164.98,
-      "stop": 859.41,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          8
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          2
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "BAJAJHLDNG",
-      "name": "BAJAJ HOLDINGS & INVS LTD",
-      "score": 63.8,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 10774.0,
-      "exit": 13144.28,
-      "stop": 9696.6,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          2
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          2
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          7
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "CHOLAFIN",
-      "name": "CHOLAMANDALAM IN & FIN CO",
-      "score": 63.7,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 1563.0,
-      "exit": 1906.86,
-      "stop": 1406.7,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          6
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          9
-        ],
-        [
-          "Stoch",
-          8
         ]
       ],
       "verify": "verified",
@@ -789,36 +93,36 @@
     },
     {
       "sym": "HCLTECH",
-      "name": "HCL TECHNOLOGIES LTD",
-      "score": 63.2,
+      "name": "HCLTECH",
+      "score": 78.8,
       "grade": [
-        "Hold",
-        "hold"
+        "B",
+        "b"
       ],
-      "entry": 1327.0,
-      "exit": 1618.94,
-      "stop": 1194.3,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "entry": 1367.4,
+      "exit": 1419.36,
+      "stop": 1341.42,
+      "hold": "Same day \u00b7 square off by 15:15",
       "factors": [
         [
-          "ROE",
+          "MACD",
           10
         ],
         [
-          "Valuation",
-          6
+          "ADX",
+          8
         ],
         [
-          "Earn CAGR",
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
           5
         ],
         [
-          "Bollinger",
-          2
-        ],
-        [
-          "Support",
-          4
+          "Rel str",
+          10
         ],
         [
           "Stoch",
@@ -827,12 +131,585 @@
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "AXISBANK",
+      "name": "AXISBANK",
+      "score": 75.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1289.6,
+      "exit": 1338.6,
+      "stop": 1265.1,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "TECHM",
+      "name": "TECHM",
+      "score": 72.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1635.0,
+      "exit": 1697.13,
+      "stop": 1603.93,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          8
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "KOTAKBANK",
+      "name": "KOTAKBANK",
+      "score": 71.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 445.55,
+      "exit": 462.48,
+      "stop": 437.08,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "INFY",
+      "name": "INFY",
+      "score": 69.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1110.0,
+      "exit": 1152.18,
+      "stop": 1088.91,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIGREEN",
+      "name": "ADANIGREEN",
+      "score": 67.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1313.6,
+      "exit": 1363.52,
+      "stop": 1288.64,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          5
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "TATACONSUM",
+      "name": "TATACONSUM",
+      "score": 66.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 993.45,
+      "exit": 1031.2,
+      "stop": 974.57,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          10
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DRREDDY",
+      "name": "DRREDDY",
+      "score": 65.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1222.2,
+      "exit": 1268.64,
+      "stop": 1198.98,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "HINDUNILVR",
+      "name": "HINDUNILVR",
+      "score": 64.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 1901.5,
+      "exit": 1973.76,
+      "stop": 1865.37,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "BAJFINANCE",
+      "name": "BAJFINANCE",
+      "score": 64.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 971.2,
+      "exit": 1008.11,
+      "stop": 952.75,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          8
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          6
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "INDUSTOWER",
+      "name": "INDUSTOWER",
+      "score": 64.6,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 384.7,
+      "exit": 399.32,
+      "stop": 377.39,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          10
+        ],
+        [
+          "ADX",
+          4
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "DLF",
+      "name": "DLF",
+      "score": 63.4,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 671.5,
+      "exit": 697.02,
+      "stop": 658.74,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          4
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ADANIPOWER",
+      "name": "ADANIPOWER",
+      "score": 63.0,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 196.74,
+      "exit": 204.22,
+      "stop": 193.0,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          5
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "CANBK",
+      "name": "CANBK",
+      "score": 62.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 117.24,
+      "exit": 121.7,
+      "stop": 115.01,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          6
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          3
+        ],
+        [
+          "Vol spike",
+          10
+        ],
+        [
+          "Rel str",
+          4
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "HDFCAMC",
+      "name": "HDFCAMC",
+      "score": 62.8,
+      "grade": [
+        "B",
+        "b"
+      ],
+      "entry": 2360.0,
+      "exit": 2449.68,
+      "stop": 2315.16,
+      "hold": "Same day \u00b7 square off by 15:15",
+      "factors": [
+        [
+          "MACD",
+          8
+        ],
+        [
+          "ADX",
+          2
+        ],
+        [
+          "OBV",
+          9
+        ],
+        [
+          "Vol spike",
+          2
+        ],
+        [
+          "Rel str",
+          10
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
     }
   ],
-  "intra": [],
   "stats": {
-    "updated": "2026-10-14",
-    "open_count": 34,
+    "updated": "2026-10-15",
+    "open_count": 36,
     "closed_count": 5,
     "win_rate": 60.0,
     "avg_return": -2.07,
@@ -894,10 +771,10 @@
       "target": 2540.04,
       "stop": 1873.8,
       "score_at_open": 71.9,
-      "peak": 2304.9,
+      "peak": 2360.0,
       "status": "open",
-      "last": 2304.9,
-      "ret_pct": 10.71
+      "last": 2360.0,
+      "ret_pct": 13.35
     },
     {
       "sym": "INFY",
@@ -907,10 +784,10 @@
       "target": 1220.24,
       "stop": 900.18,
       "score_at_open": 71.0,
-      "peak": 1093.6,
+      "peak": 1110.0,
       "status": "open",
-      "last": 1093.6,
-      "ret_pct": 9.34
+      "last": 1110.0,
+      "ret_pct": 10.98
     },
     {
       "sym": "BANKINDIA",
@@ -1000,8 +877,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 384.7,
+      "ret_pct": 2.68
     },
     {
       "sym": "CANBK",
@@ -1013,8 +890,8 @@
       "score_at_open": 67.1,
       "peak": 124.99,
       "status": "open",
-      "last": 124.29,
-      "ret_pct": -0.56
+      "last": 117.24,
+      "ret_pct": -6.2
     },
     {
       "sym": "ASIANPAINT",
@@ -1154,10 +1031,10 @@
       "target": 1516.58,
       "stop": 1118.79,
       "score_at_open": 66.6,
-      "peak": 1330.9,
+      "peak": 1367.4,
       "status": "open",
-      "last": 1327.0,
-      "ret_pct": 6.75
+      "last": 1367.4,
+      "ret_pct": 10.0
     },
     {
       "sym": "ULTRACEMCO",
@@ -1245,10 +1122,10 @@
       "target": 1825.36,
       "stop": 1346.58,
       "score_at_open": 66.7,
-      "peak": 1578.5,
+      "peak": 1635.0,
       "status": "open",
-      "last": 1578.5,
-      "ret_pct": 5.5
+      "last": 1635.0,
+      "ret_pct": 9.28
     },
     {
       "sym": "NMDC",
@@ -1271,10 +1148,10 @@
       "target": 226.87,
       "stop": 167.36,
       "score_at_open": 67.2,
-      "peak": 194.96,
+      "peak": 196.74,
       "status": "open",
-      "last": 194.96,
-      "ret_pct": 4.84
+      "last": 196.74,
+      "ret_pct": 5.8
     },
     {
       "sym": "NESTLEIND",
@@ -1287,6 +1164,32 @@
       "peak": 1369.0,
       "status": "open",
       "last": 1369.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "TCS",
+      "kind": "intra",
+      "opened": "2026-10-15",
+      "entry": 2360.0,
+      "target": 2449.68,
+      "stop": 2315.16,
+      "score_at_open": 81.6,
+      "peak": 2360.0,
+      "status": "open",
+      "last": 2360.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "ICICIGI",
+      "kind": "intra",
+      "opened": "2026-10-15",
+      "entry": 1691.6,
+      "target": 1755.88,
+      "stop": 1659.46,
+      "score_at_open": 81.2,
+      "peak": 1691.6,
+      "status": "open",
+      "last": 1691.6,
       "ret_pct": 0.0
     }
   ]
