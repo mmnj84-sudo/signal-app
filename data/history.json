@@ -9293,5 +9293,170 @@
     "target": 140.36,
     "stop": 103.55,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "TCS",
+    "score": 81.6,
+    "grade": "A",
+    "entry": 2449.9,
+    "target": 2543.0,
+    "stop": 2403.35,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 80.6,
+    "grade": "A",
+    "entry": 1778.1,
+    "target": 1845.67,
+    "stop": 1744.32,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 75.8,
+    "grade": "B",
+    "entry": 1152.1,
+    "target": 1195.88,
+    "stop": 1130.21,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "HCLTECH",
+    "score": 75.2,
+    "grade": "B",
+    "entry": 1369.7,
+    "target": 1421.75,
+    "stop": 1343.68,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "WIPRO",
+    "score": 72.2,
+    "grade": "B",
+    "entry": 184.2,
+    "target": 191.2,
+    "stop": 180.7,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "BHARTIARTL",
+    "score": 72.0,
+    "grade": "B",
+    "entry": 1896.7,
+    "target": 1968.77,
+    "stop": 1860.66,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 69.8,
+    "grade": "B",
+    "entry": 1224.5,
+    "target": 1271.03,
+    "stop": 1201.23,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "ADANIPOWER",
+    "score": 67.8,
+    "grade": "B",
+    "entry": 197.39,
+    "target": 204.89,
+    "stop": 193.64,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "AXISBANK",
+    "score": 66.0,
+    "grade": "B",
+    "entry": 1284.0,
+    "target": 1332.79,
+    "stop": 1259.6,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "ICICIGI",
+    "score": 65.6,
+    "grade": "B",
+    "entry": 1683.1,
+    "target": 1747.06,
+    "stop": 1651.12,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "TATACONSUM",
+    "score": 65.2,
+    "grade": "B",
+    "entry": 974.4,
+    "target": 1011.43,
+    "stop": 955.89,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 64.6,
+    "grade": "B",
+    "entry": 446.55,
+    "target": 463.52,
+    "stop": 438.07,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "ADANIGREEN",
+    "score": 64.2,
+    "grade": "B",
+    "entry": 1310.9,
+    "target": 1360.71,
+    "stop": 1285.99,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "ICICIBANK",
+    "score": 64.0,
+    "grade": "B",
+    "entry": 1396.7,
+    "target": 1449.77,
+    "stop": 1370.16,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-16",
+    "kind": "intra",
+    "sym": "BAJFINANCE",
+    "score": 62.0,
+    "grade": "B",
+    "entry": 978.55,
+    "target": 1015.73,
+    "stop": 959.96,
+    "verify": "verified"
   }
 ]
