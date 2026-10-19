@@ -23,8 +23,8 @@
       "score_at_open": 72.4,
       "peak": 1896.7,
       "status": "open",
-      "last": 1896.7,
-      "ret_pct": 6.23
+      "last": 1869.9,
+      "ret_pct": 4.73
     },
     {
       "sym": "WIPRO",
@@ -36,8 +36,8 @@
       "score_at_open": 72.3,
       "peak": 184.2,
       "status": "open",
-      "last": 184.2,
-      "ret_pct": 12.3
+      "last": 181.82,
+      "ret_pct": 10.85
     },
     {
       "sym": "TCS",
@@ -49,8 +49,8 @@
       "score_at_open": 71.9,
       "peak": 2465.0,
       "status": "open",
-      "last": 2465.0,
-      "ret_pct": 18.4
+      "last": 2464.8,
+      "ret_pct": 18.39
     },
     {
       "sym": "INFY",
@@ -62,8 +62,8 @@
       "score_at_open": 71.0,
       "peak": 1152.1,
       "status": "open",
-      "last": 1152.1,
-      "ret_pct": 15.19
+      "last": 1126.9,
+      "ret_pct": 12.67
     },
     {
       "sym": "BANKINDIA",
@@ -75,8 +75,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 132.36,
-      "ret_pct": -4.05
+      "last": 136.33,
+      "ret_pct": -1.17
     },
     {
       "sym": "EICHERMOT",
@@ -166,8 +166,8 @@
       "score_at_open": 67.1,
       "peak": 124.99,
       "status": "open",
-      "last": 118.29,
-      "ret_pct": -5.36
+      "last": 121.75,
+      "ret_pct": -2.59
     },
     {
       "sym": "ASIANPAINT",
@@ -203,10 +203,10 @@
       "target": 137.37,
       "stop": 101.34,
       "score_at_open": 68.4,
-      "peak": 118.59,
+      "peak": 121.74,
       "status": "open",
-      "last": 115.05,
-      "ret_pct": 2.18
+      "last": 121.74,
+      "ret_pct": 8.12
     },
     {
       "sym": "DABUR",
@@ -242,10 +242,10 @@
       "target": 1173.64,
       "stop": 865.8,
       "score_at_open": 65.4,
-      "peak": 962.0,
+      "peak": 972.85,
       "status": "open",
-      "last": 960.0,
-      "ret_pct": -0.21
+      "last": 972.85,
+      "ret_pct": 1.13
     },
     {
       "sym": "MARICO",
@@ -309,8 +309,8 @@
       "score_at_open": 66.6,
       "peak": 1369.7,
       "status": "open",
-      "last": 1369.7,
-      "ret_pct": 10.18
+      "last": 1368.3,
+      "ret_pct": 10.07
     },
     {
       "sym": "ULTRACEMCO",
@@ -400,8 +400,8 @@
       "score_at_open": 66.7,
       "peak": 1778.1,
       "status": "open",
-      "last": 1778.1,
-      "ret_pct": 18.84
+      "last": 1767.4,
+      "ret_pct": 18.13
     },
     {
       "sym": "NMDC",
@@ -426,21 +426,8 @@
       "score_at_open": 67.2,
       "peak": 197.39,
       "status": "open",
-      "last": 197.39,
-      "ret_pct": 6.15
-    },
-    {
-      "sym": "TECHM",
-      "kind": "intra",
-      "opened": "2026-10-16",
-      "entry": 1778.1,
-      "target": 1845.67,
-      "stop": 1744.32,
-      "score_at_open": 80.6,
-      "peak": 1778.1,
-      "status": "open",
-      "last": 1778.1,
-      "ret_pct": 0.0
+      "last": 192.81,
+      "ret_pct": 3.68
     },
     {
       "sym": "BRITANNIA",
@@ -453,6 +440,32 @@
       "peak": 4764.0,
       "status": "open",
       "last": 4764.0,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "TCS",
+      "kind": "intra",
+      "opened": "2026-10-19",
+      "entry": 2464.8,
+      "target": 2558.46,
+      "stop": 2417.97,
+      "score_at_open": 81.6,
+      "peak": 2464.8,
+      "status": "open",
+      "last": 2464.8,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "PNB",
+      "kind": "intra",
+      "opened": "2026-10-19",
+      "entry": 121.74,
+      "target": 126.37,
+      "stop": 119.43,
+      "score_at_open": 81.6,
+      "peak": 121.74,
+      "status": "open",
+      "last": 121.74,
       "ret_pct": 0.0
     }
   ],
@@ -576,6 +589,21 @@
       "ret_pct": -0.5,
       "closed": "2026-10-16",
       "final_ret_pct": -0.5
+    },
+    {
+      "sym": "TECHM",
+      "kind": "intra",
+      "opened": "2026-10-16",
+      "entry": 1778.1,
+      "target": 1845.67,
+      "stop": 1744.32,
+      "score_at_open": 80.6,
+      "peak": 1778.1,
+      "status": "max-hold",
+      "last": 1767.4,
+      "ret_pct": -0.6,
+      "closed": "2026-10-19",
+      "final_ret_pct": -0.6
     }
   ]
 }
