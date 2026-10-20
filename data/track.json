@@ -23,8 +23,8 @@
       "score_at_open": 72.4,
       "peak": 1896.7,
       "status": "open",
-      "last": 1869.9,
-      "ret_pct": 4.73
+      "last": 1875.2,
+      "ret_pct": 5.03
     },
     {
       "sym": "WIPRO",
@@ -36,8 +36,8 @@
       "score_at_open": 72.3,
       "peak": 184.2,
       "status": "open",
-      "last": 181.82,
-      "ret_pct": 10.85
+      "last": 182.14,
+      "ret_pct": 11.05
     },
     {
       "sym": "TCS",
@@ -62,8 +62,8 @@
       "score_at_open": 71.0,
       "peak": 1152.1,
       "status": "open",
-      "last": 1126.9,
-      "ret_pct": 12.67
+      "last": 1130.7,
+      "ret_pct": 13.05
     },
     {
       "sym": "BANKINDIA",
@@ -153,8 +153,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 384.7,
-      "ret_pct": 2.68
+      "last": 382.4,
+      "ret_pct": 2.07
     },
     {
       "sym": "CANBK",
@@ -307,10 +307,10 @@
       "target": 1516.58,
       "stop": 1118.79,
       "score_at_open": 66.6,
-      "peak": 1369.7,
+      "peak": 1379.9,
       "status": "open",
-      "last": 1368.3,
-      "ret_pct": 10.07
+      "last": 1379.9,
+      "ret_pct": 11.0
     },
     {
       "sym": "ULTRACEMCO",
@@ -398,10 +398,10 @@
       "target": 1825.36,
       "stop": 1346.58,
       "score_at_open": 66.7,
-      "peak": 1778.1,
+      "peak": 1779.1,
       "status": "open",
-      "last": 1767.4,
-      "ret_pct": 18.13
+      "last": 1779.1,
+      "ret_pct": 18.91
     },
     {
       "sym": "NMDC",
@@ -426,8 +426,8 @@
       "score_at_open": 67.2,
       "peak": 197.39,
       "status": "open",
-      "last": 192.81,
-      "ret_pct": 3.68
+      "last": 194.08,
+      "ret_pct": 4.37
     },
     {
       "sym": "BRITANNIA",
@@ -441,32 +441,6 @@
       "status": "open",
       "last": 4764.0,
       "ret_pct": 0.0
-    },
-    {
-      "sym": "TCS",
-      "kind": "intra",
-      "opened": "2026-10-19",
-      "entry": 2464.8,
-      "target": 2558.46,
-      "stop": 2417.97,
-      "score_at_open": 81.6,
-      "peak": 2464.8,
-      "status": "open",
-      "last": 2460.9,
-      "ret_pct": -0.16
-    },
-    {
-      "sym": "PNB",
-      "kind": "intra",
-      "opened": "2026-10-19",
-      "entry": 121.74,
-      "target": 126.37,
-      "stop": 119.43,
-      "score_at_open": 81.6,
-      "peak": 121.9,
-      "status": "open",
-      "last": 121.9,
-      "ret_pct": 0.13
     }
   ],
   "closed": [
@@ -604,6 +578,36 @@
       "ret_pct": -0.6,
       "closed": "2026-10-19",
       "final_ret_pct": -0.6
+    },
+    {
+      "sym": "TCS",
+      "kind": "intra",
+      "opened": "2026-10-19",
+      "entry": 2464.8,
+      "target": 2558.46,
+      "stop": 2417.97,
+      "score_at_open": 81.6,
+      "peak": 2464.8,
+      "status": "max-hold",
+      "last": 2460.9,
+      "ret_pct": -0.16,
+      "closed": "2026-10-20",
+      "final_ret_pct": -0.16
+    },
+    {
+      "sym": "PNB",
+      "kind": "intra",
+      "opened": "2026-10-19",
+      "entry": 121.74,
+      "target": 126.37,
+      "stop": 119.43,
+      "score_at_open": 81.6,
+      "peak": 121.9,
+      "status": "max-hold",
+      "last": 121.9,
+      "ret_pct": 0.13,
+      "closed": "2026-10-20",
+      "final_ret_pct": 0.13
     }
   ]
 }
