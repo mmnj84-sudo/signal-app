@@ -441,6 +441,19 @@
       "status": "open",
       "last": 4764.0,
       "ret_pct": 0.0
+    },
+    {
+      "sym": "BAJFINANCE",
+      "kind": "long",
+      "opened": "2026-10-20",
+      "entry": 957.35,
+      "target": 1167.97,
+      "stop": 861.61,
+      "score_at_open": 67.2,
+      "peak": 957.35,
+      "status": "open",
+      "last": 957.35,
+      "ret_pct": 0.0
     }
   ],
   "closed": [
