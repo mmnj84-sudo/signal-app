@@ -23,8 +23,8 @@
       "score_at_open": 72.4,
       "peak": 1896.7,
       "status": "open",
-      "last": 1875.2,
-      "ret_pct": 5.03
+      "last": 1872.0,
+      "ret_pct": 4.85
     },
     {
       "sym": "WIPRO",
@@ -34,10 +34,10 @@
       "target": 200.1,
       "stop": 147.62,
       "score_at_open": 72.3,
-      "peak": 184.2,
+      "peak": 188.71,
       "status": "open",
-      "last": 182.14,
-      "ret_pct": 11.05
+      "last": 188.71,
+      "ret_pct": 15.05
     },
     {
       "sym": "TCS",
@@ -47,10 +47,10 @@
       "target": 2540.04,
       "stop": 1873.8,
       "score_at_open": 71.9,
-      "peak": 2465.0,
+      "peak": 2512.5,
       "status": "open",
-      "last": 2460.9,
-      "ret_pct": 18.2
+      "last": 2512.5,
+      "ret_pct": 20.68
     },
     {
       "sym": "INFY",
@@ -60,10 +60,10 @@
       "target": 1220.24,
       "stop": 900.18,
       "score_at_open": 71.0,
-      "peak": 1152.1,
+      "peak": 1165.0,
       "status": "open",
-      "last": 1130.7,
-      "ret_pct": 13.05
+      "last": 1165.0,
+      "ret_pct": 16.48
     },
     {
       "sym": "BANKINDIA",
@@ -75,8 +75,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 136.78,
-      "ret_pct": -0.84
+      "last": 136.29,
+      "ret_pct": -1.2
     },
     {
       "sym": "EICHERMOT",
@@ -205,8 +205,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 121.9,
-      "ret_pct": 8.26
+      "last": 121.86,
+      "ret_pct": 8.22
     },
     {
       "sym": "DABUR",
@@ -244,8 +244,8 @@
       "score_at_open": 65.4,
       "peak": 973.7,
       "status": "open",
-      "last": 973.7,
-      "ret_pct": 1.22
+      "last": 964.5,
+      "ret_pct": 0.26
     },
     {
       "sym": "MARICO",
@@ -307,10 +307,10 @@
       "target": 1516.58,
       "stop": 1118.79,
       "score_at_open": 66.6,
-      "peak": 1379.9,
+      "peak": 1406.2,
       "status": "open",
-      "last": 1379.9,
-      "ret_pct": 11.0
+      "last": 1406.2,
+      "ret_pct": 13.12
     },
     {
       "sym": "ULTRACEMCO",
@@ -320,10 +320,10 @@
       "target": 13066.2,
       "stop": 9639.0,
       "score_at_open": 66.2,
-      "peak": 10710.0,
+      "peak": 10828.0,
       "status": "open",
-      "last": 10650.0,
-      "ret_pct": -0.56
+      "last": 10828.0,
+      "ret_pct": 1.1
     },
     {
       "sym": "BAJAJHLDNG",
@@ -389,19 +389,6 @@
       "status": "open",
       "last": 1030.0,
       "ret_pct": -9.3
-    },
-    {
-      "sym": "TECHM",
-      "kind": "long",
-      "opened": "2026-10-08",
-      "entry": 1496.2,
-      "target": 1825.36,
-      "stop": 1346.58,
-      "score_at_open": 66.7,
-      "peak": 1779.1,
-      "status": "open",
-      "last": 1779.1,
-      "ret_pct": 18.91
     },
     {
       "sym": "NMDC",
@@ -621,6 +608,21 @@
       "ret_pct": 0.13,
       "closed": "2026-10-20",
       "final_ret_pct": 0.13
+    },
+    {
+      "sym": "TECHM",
+      "kind": "long",
+      "opened": "2026-10-08",
+      "entry": 1496.2,
+      "target": 1825.36,
+      "stop": 1346.58,
+      "score_at_open": 66.7,
+      "peak": 1830.7,
+      "status": "target",
+      "last": 1830.7,
+      "ret_pct": 22.36,
+      "closed": "2026-10-21",
+      "final_ret_pct": 22.36
     }
   ]
 }
