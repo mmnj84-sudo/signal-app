@@ -415,6 +415,45 @@
       "status": "open",
       "last": 1210.0,
       "ret_pct": 0.0
+    },
+    {
+      "sym": "VEDL",
+      "kind": "long",
+      "opened": "2026-10-21",
+      "entry": 236.85,
+      "target": 288.96,
+      "stop": 213.17,
+      "score_at_open": 78.6,
+      "peak": 236.85,
+      "status": "open",
+      "last": 236.85,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "MUTHOOTFIN",
+      "kind": "long",
+      "opened": "2026-10-21",
+      "entry": 2489.8,
+      "target": 3037.56,
+      "stop": 2240.82,
+      "score_at_open": 77.4,
+      "peak": 2489.8,
+      "status": "open",
+      "last": 2489.8,
+      "ret_pct": 0.0
+    },
+    {
+      "sym": "LODHA",
+      "kind": "long",
+      "opened": "2026-10-21",
+      "entry": 1015.0,
+      "target": 1238.3,
+      "stop": 913.5,
+      "score_at_open": 71.2,
+      "peak": 1015.0,
+      "status": "open",
+      "last": 1015.0,
+      "ret_pct": 0.0
     }
   ],
   "closed": [
