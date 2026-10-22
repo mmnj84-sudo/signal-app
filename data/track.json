@@ -8,10 +8,10 @@
       "target": 2178.19,
       "stop": 1606.86,
       "score_at_open": 72.4,
-      "peak": 1896.7,
+      "peak": 1903.7,
       "status": "open",
-      "last": 1872.0,
-      "ret_pct": 4.85
+      "last": 1903.7,
+      "ret_pct": 6.63
     },
     {
       "sym": "WIPRO",
@@ -21,10 +21,10 @@
       "target": 200.1,
       "stop": 147.62,
       "score_at_open": 72.3,
-      "peak": 188.71,
+      "peak": 189.68,
       "status": "open",
-      "last": 188.71,
-      "ret_pct": 15.05
+      "last": 189.68,
+      "ret_pct": 15.64
     },
     {
       "sym": "TCS",
@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2529.0,
       "status": "open",
-      "last": 2529.0,
-      "ret_pct": 21.47
+      "last": 2502.6,
+      "ret_pct": 20.2
     },
     {
       "sym": "INFY",
@@ -49,8 +49,8 @@
       "score_at_open": 71.0,
       "peak": 1165.0,
       "status": "open",
-      "last": 1165.0,
-      "ret_pct": 16.48
+      "last": 1156.85,
+      "ret_pct": 15.66
     },
     {
       "sym": "BANKINDIA",
@@ -127,8 +127,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 382.4,
-      "ret_pct": 2.07
+      "last": 381.55,
+      "ret_pct": 1.84
     },
     {
       "sym": "CANBK",
@@ -179,8 +179,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 121.86,
-      "ret_pct": 8.22
+      "last": 121.9,
+      "ret_pct": 8.26
     },
     {
       "sym": "DABUR",
@@ -281,10 +281,10 @@
       "target": 1516.58,
       "stop": 1118.79,
       "score_at_open": 66.6,
-      "peak": 1406.2,
+      "peak": 1413.1,
       "status": "open",
-      "last": 1406.2,
-      "ret_pct": 13.12
+      "last": 1413.1,
+      "ret_pct": 13.68
     },
     {
       "sym": "ULTRACEMCO",
@@ -307,10 +307,10 @@
       "target": 13012.52,
       "stop": 9599.4,
       "score_at_open": 66.2,
-      "peak": 10774.0,
+      "peak": 11249.0,
       "status": "open",
-      "last": 10774.0,
-      "ret_pct": 1.01
+      "last": 11249.0,
+      "ret_pct": 5.47
     },
     {
       "sym": "ABBOTINDIA",

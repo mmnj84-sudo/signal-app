@@ -11592,5 +11592,126 @@
     "target": 2812.1,
     "stop": 2074.5,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "BAJAJHLDNG",
+    "score": 75.8,
+    "grade": "B",
+    "entry": 11249.0,
+    "target": 11676.46,
+    "stop": 11035.27,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "WIPRO",
+    "score": 75.0,
+    "grade": "B",
+    "entry": 189.68,
+    "target": 196.89,
+    "stop": 186.08,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "TCS",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 2502.6,
+    "target": 2597.7,
+    "stop": 2455.05,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "PNB",
+    "score": 70.6,
+    "grade": "B",
+    "entry": 121.9,
+    "target": 126.53,
+    "stop": 119.58,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "HCLTECH",
+    "score": 68.8,
+    "grade": "B",
+    "entry": 1413.1,
+    "target": 1466.8,
+    "stop": 1386.25,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 68.8,
+    "grade": "B",
+    "entry": 1793.7,
+    "target": 1861.86,
+    "stop": 1759.62,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 68.6,
+    "grade": "B",
+    "entry": 1156.85,
+    "target": 1200.81,
+    "stop": 1134.87,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "BHARTIARTL",
+    "score": 68.0,
+    "grade": "B",
+    "entry": 1903.7,
+    "target": 1976.04,
+    "stop": 1867.53,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 381.55,
+    "target": 396.05,
+    "stop": 374.3,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "ICICIBANK",
+    "score": 67.2,
+    "grade": "B",
+    "entry": 1396.6,
+    "target": 1449.67,
+    "stop": 1370.06,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-22",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 66.2,
+    "grade": "B",
+    "entry": 437.15,
+    "target": 453.76,
+    "stop": 428.84,
+    "verify": "verified"
   }
 ]
