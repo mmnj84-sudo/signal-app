@@ -21,10 +21,10 @@
       "target": 200.1,
       "stop": 147.62,
       "score_at_open": 72.3,
-      "peak": 189.68,
+      "peak": 189.89,
       "status": "open",
-      "last": 189.68,
-      "ret_pct": 15.64
+      "last": 189.89,
+      "ret_pct": 15.77
     },
     {
       "sym": "TCS",
@@ -34,10 +34,10 @@
       "target": 2540.04,
       "stop": 1873.8,
       "score_at_open": 71.9,
-      "peak": 2529.0,
+      "peak": 2533.0,
       "status": "open",
-      "last": 2502.6,
-      "ret_pct": 20.2
+      "last": 2533.0,
+      "ret_pct": 21.66
     },
     {
       "sym": "INFY",
@@ -49,8 +49,8 @@
       "score_at_open": 71.0,
       "peak": 1165.0,
       "status": "open",
-      "last": 1156.85,
-      "ret_pct": 15.66
+      "last": 1158.7,
+      "ret_pct": 15.85
     },
     {
       "sym": "BANKINDIA",
@@ -127,8 +127,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 381.55,
-      "ret_pct": 1.84
+      "last": 380.8,
+      "ret_pct": 1.64
     },
     {
       "sym": "CANBK",
@@ -140,8 +140,8 @@
       "score_at_open": 67.1,
       "peak": 124.99,
       "status": "open",
-      "last": 120.94,
-      "ret_pct": -3.24
+      "last": 115.97,
+      "ret_pct": -7.22
     },
     {
       "sym": "ASIANPAINT",
@@ -179,8 +179,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 121.9,
-      "ret_pct": 8.26
+      "last": 119.89,
+      "ret_pct": 6.47
     },
     {
       "sym": "DABUR",
@@ -205,8 +205,8 @@
       "score_at_open": 65.4,
       "peak": 973.7,
       "status": "open",
-      "last": 963.0,
-      "ret_pct": 0.1
+      "last": 956.25,
+      "ret_pct": -0.6
     },
     {
       "sym": "MARICO",
@@ -268,10 +268,10 @@
       "target": 1516.58,
       "stop": 1118.79,
       "score_at_open": 66.6,
-      "peak": 1413.1,
+      "peak": 1424.1,
       "status": "open",
-      "last": 1413.1,
-      "ret_pct": 13.68
+      "last": 1424.1,
+      "ret_pct": 14.56
     },
     {
       "sym": "ULTRACEMCO",

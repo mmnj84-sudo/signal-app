@@ -12153,5 +12153,126 @@
     "target": 1485.35,
     "stop": 1095.75,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 78.8,
+    "grade": "B",
+    "entry": 1158.7,
+    "target": 1202.73,
+    "stop": 1136.68,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "TCS",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 2533.0,
+    "target": 2629.25,
+    "stop": 2484.87,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "HCLTECH",
+    "score": 71.6,
+    "grade": "B",
+    "entry": 1424.1,
+    "target": 1478.22,
+    "stop": 1397.04,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "HAVELLS",
+    "score": 71.4,
+    "grade": "B",
+    "entry": 1026.6,
+    "target": 1065.61,
+    "stop": 1007.09,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "PNB",
+    "score": 69.4,
+    "grade": "B",
+    "entry": 119.89,
+    "target": 124.45,
+    "stop": 117.61,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 68.8,
+    "grade": "B",
+    "entry": 1794.2,
+    "target": 1862.38,
+    "stop": 1760.11,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "WIPRO",
+    "score": 68.6,
+    "grade": "B",
+    "entry": 189.89,
+    "target": 197.11,
+    "stop": 186.28,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "AMBUJACEM",
+    "score": 64.6,
+    "grade": "B",
+    "entry": 362.1,
+    "target": 375.86,
+    "stop": 355.22,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "CANBK",
+    "score": 64.6,
+    "grade": "B",
+    "entry": 115.97,
+    "target": 120.38,
+    "stop": 113.77,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "SBIN",
+    "score": 63.0,
+    "grade": "B",
+    "entry": 956.25,
+    "target": 992.59,
+    "stop": 938.08,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-23",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 62.8,
+    "grade": "B",
+    "entry": 380.8,
+    "target": 395.27,
+    "stop": 373.56,
+    "verify": "verified"
   }
 ]
