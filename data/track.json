@@ -23,8 +23,8 @@
       "score_at_open": 72.3,
       "peak": 189.89,
       "status": "open",
-      "last": 189.89,
-      "ret_pct": 15.77
+      "last": 189.23,
+      "ret_pct": 15.37
     },
     {
       "sym": "TCS",
@@ -34,10 +34,10 @@
       "target": 2540.04,
       "stop": 1873.8,
       "score_at_open": 71.9,
-      "peak": 2533.0,
+      "peak": 2537.4,
       "status": "open",
-      "last": 2533.0,
-      "ret_pct": 21.66
+      "last": 2537.4,
+      "ret_pct": 21.87
     },
     {
       "sym": "INFY",
@@ -49,8 +49,8 @@
       "score_at_open": 71.0,
       "peak": 1165.0,
       "status": "open",
-      "last": 1158.7,
-      "ret_pct": 15.85
+      "last": 1160.9,
+      "ret_pct": 16.07
     },
     {
       "sym": "BANKINDIA",
@@ -62,8 +62,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 131.0,
-      "ret_pct": -5.03
+      "last": 126.31,
+      "ret_pct": -8.43
     },
     {
       "sym": "EICHERMOT",
@@ -127,8 +127,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 380.8,
-      "ret_pct": 1.64
+      "last": 385.0,
+      "ret_pct": 2.76
     },
     {
       "sym": "CANBK",
@@ -179,8 +179,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 119.89,
-      "ret_pct": 6.47
+      "last": 120.23,
+      "ret_pct": 6.78
     },
     {
       "sym": "DABUR",
@@ -270,8 +270,8 @@
       "score_at_open": 66.6,
       "peak": 1424.1,
       "status": "open",
-      "last": 1424.1,
-      "ret_pct": 14.56
+      "last": 1417.4,
+      "ret_pct": 14.02
     },
     {
       "sym": "ULTRACEMCO",

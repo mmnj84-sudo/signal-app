@@ -12714,5 +12714,137 @@
     "target": 222.09,
     "stop": 163.84,
     "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "DRREDDY",
+    "score": 77.6,
+    "grade": "B",
+    "entry": 1315.0,
+    "target": 1364.97,
+    "stop": 1290.01,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "INDUSTOWER",
+    "score": 72.8,
+    "grade": "B",
+    "entry": 385.0,
+    "target": 399.63,
+    "stop": 377.69,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "AMBUJACEM",
+    "score": 72.4,
+    "grade": "B",
+    "entry": 371.3,
+    "target": 385.41,
+    "stop": 364.25,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "INFY",
+    "score": 69.2,
+    "grade": "B",
+    "entry": 1160.9,
+    "target": 1205.01,
+    "stop": 1138.84,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "TCS",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 2537.4,
+    "target": 2633.82,
+    "stop": 2489.19,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "HCLTECH",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 1417.4,
+    "target": 1471.26,
+    "stop": 1390.47,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "TECHM",
+    "score": 67.6,
+    "grade": "B",
+    "entry": 1799.0,
+    "target": 1867.36,
+    "stop": 1764.82,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "WIPRO",
+    "score": 67.0,
+    "grade": "B",
+    "entry": 189.23,
+    "target": 196.42,
+    "stop": 185.63,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "KOTAKBANK",
+    "score": 66.2,
+    "grade": "B",
+    "entry": 440.35,
+    "target": 457.08,
+    "stop": 431.98,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "PNB",
+    "score": 65.8,
+    "grade": "B",
+    "entry": 120.23,
+    "target": 124.8,
+    "stop": 117.95,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "BANKINDIA",
+    "score": 65.0,
+    "grade": "B",
+    "entry": 126.31,
+    "target": 131.11,
+    "stop": 123.91,
+    "verify": "verified"
+  },
+  {
+    "date": "2026-10-26",
+    "kind": "intra",
+    "sym": "TATACONSUM",
+    "score": 62.0,
+    "grade": "B",
+    "entry": 936.8,
+    "target": 972.4,
+    "stop": 919.0,
+    "verify": "verified"
   }
 ]
