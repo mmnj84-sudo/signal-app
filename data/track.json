@@ -8,10 +8,10 @@
       "target": 2178.19,
       "stop": 1606.86,
       "score_at_open": 72.4,
-      "peak": 1903.7,
+      "peak": 1975.8,
       "status": "open",
-      "last": 1903.7,
-      "ret_pct": 6.63
+      "last": 1975.8,
+      "ret_pct": 10.66
     },
     {
       "sym": "WIPRO",
@@ -23,8 +23,8 @@
       "score_at_open": 72.3,
       "peak": 189.89,
       "status": "open",
-      "last": 189.23,
-      "ret_pct": 15.37
+      "last": 188.28,
+      "ret_pct": 14.79
     },
     {
       "sym": "TCS",
@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2537.4,
-      "ret_pct": 21.87
+      "last": 2502.0,
+      "ret_pct": 20.17
     },
     {
       "sym": "INFY",
@@ -49,8 +49,8 @@
       "score_at_open": 71.0,
       "peak": 1165.0,
       "status": "open",
-      "last": 1160.9,
-      "ret_pct": 16.07
+      "last": 1154.2,
+      "ret_pct": 15.4
     },
     {
       "sym": "BANKINDIA",
@@ -127,8 +127,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 385.0,
-      "ret_pct": 2.76
+      "last": 385.25,
+      "ret_pct": 2.83
     },
     {
       "sym": "CANBK",
@@ -179,8 +179,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 120.23,
-      "ret_pct": 6.78
+      "last": 120.55,
+      "ret_pct": 7.06
     },
     {
       "sym": "DABUR",
@@ -205,8 +205,8 @@
       "score_at_open": 65.4,
       "peak": 973.7,
       "status": "open",
-      "last": 956.25,
-      "ret_pct": -0.6
+      "last": 951.3,
+      "ret_pct": -1.11
     },
     {
       "sym": "MARICO",
@@ -257,8 +257,8 @@
       "score_at_open": 71.4,
       "peak": 1260.0,
       "status": "open",
-      "last": 1260.0,
-      "ret_pct": 2.19
+      "last": 1250.8,
+      "ret_pct": 1.44
     },
     {
       "sym": "HCLTECH",
@@ -270,8 +270,8 @@
       "score_at_open": 66.6,
       "peak": 1424.1,
       "status": "open",
-      "last": 1417.4,
-      "ret_pct": 14.02
+      "last": 1409.9,
+      "ret_pct": 13.42
     },
     {
       "sym": "ULTRACEMCO",
@@ -320,10 +320,10 @@
       "target": 12220.74,
       "stop": 9015.3,
       "score_at_open": 65.6,
-      "peak": 10155.0,
+      "peak": 10329.0,
       "status": "open",
-      "last": 10155.0,
-      "ret_pct": 1.38
+      "last": 10329.0,
+      "ret_pct": 3.11
     },
     {
       "sym": "COALINDIA",
