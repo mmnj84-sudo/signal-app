@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2501.7,
-      "ret_pct": 20.16
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "INFY",
@@ -62,8 +62,8 @@
       "score_at_open": 70.9,
       "peak": 137.94,
       "status": "open",
-      "last": 126.32,
-      "ret_pct": -8.42
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "EICHERMOT",
@@ -88,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 225.39,
-      "ret_pct": -4.44
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "GAIL",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 172.7,
       "status": "open",
-      "last": 165.17,
-      "ret_pct": -4.36
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SUNPHARMA",
@@ -179,8 +179,8 @@
       "score_at_open": 68.4,
       "peak": 121.9,
       "status": "open",
-      "last": 120.55,
-      "ret_pct": 7.06
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "DABUR",
@@ -231,8 +231,8 @@
       "score_at_open": 67.0,
       "peak": 2499.7,
       "status": "open",
-      "last": 2409.0,
-      "ret_pct": -0.46
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "CHOLAFIN",
@@ -244,8 +244,8 @@
       "score_at_open": 65.7,
       "peak": 1624.4,
       "status": "open",
-      "last": 1624.4,
-      "ret_pct": 0.27
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "JSWSTEEL",
@@ -257,8 +257,8 @@
       "score_at_open": 71.4,
       "peak": 1309.9,
       "status": "open",
-      "last": 1309.9,
-      "ret_pct": 6.24
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "HCLTECH",
@@ -270,8 +270,8 @@
       "score_at_open": 66.6,
       "peak": 1424.1,
       "status": "open",
-      "last": 1403.9,
-      "ret_pct": 12.94
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ULTRACEMCO",
@@ -322,8 +322,8 @@
       "score_at_open": 65.6,
       "peak": 10485.0,
       "status": "open",
-      "last": 10339.0,
-      "ret_pct": 3.21
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "COALINDIA",
@@ -335,8 +335,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 408.0,
-      "ret_pct": -0.89
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "NMDC",
@@ -361,8 +361,8 @@
       "score_at_open": 67.2,
       "peak": 197.39,
       "status": "open",
-      "last": 195.35,
-      "ret_pct": 5.05
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "BRITANNIA",
@@ -413,8 +413,8 @@
       "score_at_open": 78.6,
       "peak": 246.0,
       "status": "open",
-      "last": 246.0,
-      "ret_pct": 3.86
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "MUTHOOTFIN",
@@ -426,8 +426,8 @@
       "score_at_open": 77.4,
       "peak": 2514.7,
       "status": "open",
-      "last": 2514.7,
-      "ret_pct": 1.0
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "LODHA",
@@ -439,8 +439,8 @@
       "score_at_open": 71.2,
       "peak": 1015.0,
       "status": "open",
-      "last": 1002.8,
-      "ret_pct": -1.2
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SIEMENS",
@@ -478,8 +478,8 @@
       "score_at_open": 74.0,
       "peak": 1195.0,
       "status": "open",
-      "last": 1195.0,
-      "ret_pct": 0.43
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SBICARD",
@@ -530,8 +530,8 @@
       "score_at_open": 71.2,
       "peak": 5193.0,
       "status": "open",
-      "last": 5193.0,
-      "ret_pct": 1.72
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "BEL",
@@ -543,8 +543,8 @@
       "score_at_open": 69.8,
       "peak": 376.5,
       "status": "open",
-      "last": 376.5,
-      "ret_pct": 0.0
+      "last": NaN,
+      "ret_pct": NaN
     }
   ],
   "closed": [
