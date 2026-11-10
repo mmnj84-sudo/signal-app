@@ -1,6 +1,6 @@
 {
-  "asof": "10 Nov 2026, 02:08 IST",
-  "generated_utc": "2026-11-09T20:40:09.148443+00:00",
+  "asof": "10 Nov 2026, 17:37 IST",
+  "generated_utc": "2026-11-10T12:09:38.946473+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -665,6 +665,47 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
+      "sym": "ABBOTINDIA",
+      "name": "ABBOTT INDIA LIMITED",
+      "score": 63.6,
+      "grade": [
+        "Hold",
+        "hold"
+      ],
+      "entry": 26680.0,
+      "exit": 32549.6,
+      "stop": 24012.0,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          10
+        ],
+        [
+          "Valuation",
+          3
+        ],
+        [
+          "Earn CAGR",
+          2
+        ],
+        [
+          "Bollinger",
+          2
+        ],
+        [
+          "Support",
+          5
+        ],
+        [
+          "Stoch",
+          7
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
       "sym": "CHOLAFIN",
       "name": "CHOLAMANDALAM IN & FIN CO",
       "score": 62.8,
@@ -700,47 +741,6 @@
         [
           "Stoch",
           2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "ABBOTINDIA",
-      "name": "ABBOTT INDIA LIMITED",
-      "score": 62.4,
-      "grade": [
-        "Hold",
-        "hold"
-      ],
-      "entry": 26680.0,
-      "exit": 32549.6,
-      "stop": 24012.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          3
-        ],
-        [
-          "Valuation",
-          3
-        ],
-        [
-          "Earn CAGR",
-          8
-        ],
-        [
-          "Bollinger",
-          2
-        ],
-        [
-          "Support",
-          5
-        ],
-        [
-          "Stoch",
-          7
         ]
       ],
       "verify": "verified",
