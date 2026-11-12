@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2472.1,
-      "ret_pct": 18.74
+      "last": 2442.4,
+      "ret_pct": 17.31
     },
     {
       "sym": "INFY",
@@ -88,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 234.8,
-      "ret_pct": -0.45
+      "last": 224.5,
+      "ret_pct": -4.82
     },
     {
       "sym": "GAIL",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 189.9,
       "status": "open",
-      "last": 189.9,
-      "ret_pct": 9.96
+      "last": 187.91,
+      "ret_pct": 8.81
     },
     {
       "sym": "SUNPHARMA",
@@ -170,19 +170,6 @@
       "ret_pct": -4.43
     },
     {
-      "sym": "PNB",
-      "kind": "long",
-      "opened": "2026-09-28",
-      "entry": 112.6,
-      "target": 137.37,
-      "stop": 101.34,
-      "score_at_open": 68.4,
-      "peak": 132.17,
-      "status": "open",
-      "last": 132.17,
-      "ret_pct": 17.38
-    },
-    {
       "sym": "DABUR",
       "kind": "long",
       "opened": "2026-09-28",
@@ -231,8 +218,8 @@
       "score_at_open": 67.0,
       "peak": 2499.7,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 2476.9,
+      "ret_pct": 2.35
     },
     {
       "sym": "CHOLAFIN",
@@ -257,8 +244,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": 1353.3,
-      "ret_pct": 9.76
+      "last": 1352.1,
+      "ret_pct": 9.66
     },
     {
       "sym": "HCLTECH",
@@ -270,8 +257,8 @@
       "score_at_open": 66.6,
       "peak": 1440.0,
       "status": "open",
-      "last": 1395.0,
-      "ret_pct": 12.22
+      "last": 1380.8,
+      "ret_pct": 11.08
     },
     {
       "sym": "ULTRACEMCO",
@@ -309,8 +296,8 @@
       "score_at_open": 67.2,
       "peak": 26680.0,
       "status": "open",
-      "last": 26680.0,
-      "ret_pct": 2.16
+      "last": 26600.0,
+      "ret_pct": 1.86
     },
     {
       "sym": "BAJAJ-AUTO",
@@ -335,8 +322,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 406.3,
-      "ret_pct": -1.3
+      "last": 404.3,
+      "ret_pct": -1.79
     },
     {
       "sym": "NMDC",
@@ -348,8 +335,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 70.41,
-      "ret_pct": -1.94
+      "last": 71.07,
+      "ret_pct": -1.02
     },
     {
       "sym": "ADANIPOWER",
@@ -361,8 +348,8 @@
       "score_at_open": 67.2,
       "peak": 208.0,
       "status": "open",
-      "last": 208.0,
-      "ret_pct": 11.85
+      "last": 207.9,
+      "ret_pct": 11.8
     },
     {
       "sym": "BRITANNIA",
@@ -413,8 +400,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": 263.88,
-      "ret_pct": 11.41
+      "last": 260.4,
+      "ret_pct": 9.94
     },
     {
       "sym": "MUTHOOTFIN",
@@ -424,10 +411,10 @@
       "target": 3037.56,
       "stop": 2240.82,
       "score_at_open": 77.4,
-      "peak": 2917.6,
+      "peak": 2932.9,
       "status": "open",
-      "last": 2900.0,
-      "ret_pct": 16.48
+      "last": 2932.9,
+      "ret_pct": 17.8
     },
     {
       "sym": "LODHA",
@@ -437,10 +424,10 @@
       "target": 1238.3,
       "stop": 913.5,
       "score_at_open": 71.2,
-      "peak": 1195.0,
+      "peak": 1226.0,
       "status": "open",
-      "last": 1174.5,
-      "ret_pct": 15.71
+      "last": 1226.0,
+      "ret_pct": 20.79
     },
     {
       "sym": "SIEMENS",
@@ -478,8 +465,8 @@
       "score_at_open": 74.0,
       "peak": 1297.8,
       "status": "open",
-      "last": 1288.0,
-      "ret_pct": 8.24
+      "last": 1260.9,
+      "ret_pct": 5.97
     },
     {
       "sym": "SBICARD",
@@ -530,8 +517,8 @@
       "score_at_open": 71.2,
       "peak": 5514.0,
       "status": "open",
-      "last": 5345.0,
-      "ret_pct": 4.7
+      "last": 5342.0,
+      "ret_pct": 4.64
     },
     {
       "sym": "BEL",
@@ -554,10 +541,10 @@
       "target": 60451.0,
       "stop": 44595.0,
       "score_at_open": 65.2,
-      "peak": 50490.0,
+      "peak": 50500.0,
       "status": "open",
-      "last": 50490.0,
-      "ret_pct": 1.9
+      "last": 50500.0,
+      "ret_pct": 1.92
     }
   ],
   "closed": [
@@ -800,6 +787,21 @@
       "ret_pct": -11.6,
       "closed": "2026-10-22",
       "final_ret_pct": -11.6
+    },
+    {
+      "sym": "PNB",
+      "kind": "long",
+      "opened": "2026-09-28",
+      "entry": 112.6,
+      "target": 137.37,
+      "stop": 101.34,
+      "score_at_open": 68.4,
+      "peak": 141.79,
+      "status": "target",
+      "last": 141.79,
+      "ret_pct": 25.92,
+      "closed": "2026-11-12",
+      "final_ret_pct": 25.92
     }
   ]
 }
