@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2442.4,
-      "ret_pct": 17.31
+      "last": 2407.5,
+      "ret_pct": 15.63
     },
     {
       "sym": "INFY",
@@ -88,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 224.5,
-      "ret_pct": -4.82
+      "last": 225.0,
+      "ret_pct": -4.6
     },
     {
       "sym": "GAIL",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 189.9,
       "status": "open",
-      "last": 187.91,
-      "ret_pct": 8.81
+      "last": 188.0,
+      "ret_pct": 8.86
     },
     {
       "sym": "SUNPHARMA",
@@ -218,8 +218,8 @@
       "score_at_open": 67.0,
       "peak": 2499.7,
       "status": "open",
-      "last": 2476.9,
-      "ret_pct": 2.35
+      "last": 2475.0,
+      "ret_pct": 2.27
     },
     {
       "sym": "CHOLAFIN",
@@ -244,8 +244,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": 1352.1,
-      "ret_pct": 9.66
+      "last": 1348.0,
+      "ret_pct": 9.33
     },
     {
       "sym": "HCLTECH",
@@ -257,8 +257,8 @@
       "score_at_open": 66.6,
       "peak": 1440.0,
       "status": "open",
-      "last": 1380.8,
-      "ret_pct": 11.08
+      "last": 1378.0,
+      "ret_pct": 10.85
     },
     {
       "sym": "ULTRACEMCO",
@@ -309,8 +309,8 @@
       "score_at_open": 65.6,
       "peak": 11040.0,
       "status": "open",
-      "last": 11040.0,
-      "ret_pct": 10.21
+      "last": 10850.0,
+      "ret_pct": 8.32
     },
     {
       "sym": "COALINDIA",
@@ -322,8 +322,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 404.3,
-      "ret_pct": -1.79
+      "last": 403.5,
+      "ret_pct": -1.98
     },
     {
       "sym": "NMDC",
@@ -335,8 +335,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 71.07,
-      "ret_pct": -1.02
+      "last": 69.8,
+      "ret_pct": -2.79
     },
     {
       "sym": "ADANIPOWER",
@@ -348,8 +348,8 @@
       "score_at_open": 67.2,
       "peak": 208.0,
       "status": "open",
-      "last": 207.9,
-      "ret_pct": 11.8
+      "last": 205.67,
+      "ret_pct": 10.6
     },
     {
       "sym": "BRITANNIA",
@@ -400,8 +400,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": 260.4,
-      "ret_pct": 9.94
+      "last": 259.68,
+      "ret_pct": 9.64
     },
     {
       "sym": "MUTHOOTFIN",
@@ -413,8 +413,8 @@
       "score_at_open": 77.4,
       "peak": 2932.9,
       "status": "open",
-      "last": 2932.9,
-      "ret_pct": 17.8
+      "last": 2840.0,
+      "ret_pct": 14.07
     },
     {
       "sym": "LODHA",
@@ -452,8 +452,8 @@
       "score_at_open": 65.0,
       "peak": 1217.5,
       "status": "open",
-      "last": 1190.0,
-      "ret_pct": -2.26
+      "last": 1187.6,
+      "ret_pct": -2.46
     },
     {
       "sym": "NESTLEIND",
@@ -465,8 +465,8 @@
       "score_at_open": 74.0,
       "peak": 1297.8,
       "status": "open",
-      "last": 1260.9,
-      "ret_pct": 5.97
+      "last": 1263.2,
+      "ret_pct": 6.16
     },
     {
       "sym": "SBICARD",
@@ -476,10 +476,10 @@
       "target": 656.73,
       "stop": 484.47,
       "score_at_open": 70.6,
-      "peak": 553.0,
+      "peak": 578.3,
       "status": "open",
-      "last": 553.0,
-      "ret_pct": 2.73
+      "last": 578.3,
+      "ret_pct": 7.43
     },
     {
       "sym": "COLPAL",
@@ -517,8 +517,8 @@
       "score_at_open": 71.2,
       "peak": 5514.0,
       "status": "open",
-      "last": 5342.0,
-      "ret_pct": 4.64
+      "last": 5385.0,
+      "ret_pct": 5.48
     },
     {
       "sym": "BEL",
@@ -543,8 +543,21 @@
       "score_at_open": 65.2,
       "peak": 50500.0,
       "status": "open",
-      "last": 50500.0,
-      "ret_pct": 1.92
+      "last": 49390.0,
+      "ret_pct": -0.32
+    },
+    {
+      "sym": "IOC",
+      "kind": "long",
+      "opened": "2026-11-13",
+      "entry": 144.04,
+      "target": 175.73,
+      "stop": 129.64,
+      "score_at_open": 67.6,
+      "peak": 144.04,
+      "status": "open",
+      "last": 144.04,
+      "ret_pct": 0.0
     }
   ],
   "closed": [
