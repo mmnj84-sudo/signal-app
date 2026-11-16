@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2405.0,
-      "ret_pct": 15.51
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "INFY",
@@ -75,8 +75,8 @@
       "score_at_open": 70.7,
       "peak": 7599.0,
       "status": "open",
-      "last": 7599.0,
-      "ret_pct": 3.25
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ONGC",
@@ -88,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 225.0,
-      "ret_pct": -4.6
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "GAIL",
@@ -101,8 +101,8 @@
       "score_at_open": 70.6,
       "peak": 189.9,
       "status": "open",
-      "last": 187.0,
-      "ret_pct": 8.28
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SUNPHARMA",
@@ -205,8 +205,8 @@
       "score_at_open": 67.6,
       "peak": 925.0,
       "status": "open",
-      "last": 925.0,
-      "ret_pct": 17.51
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SRF",
@@ -244,8 +244,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": 1334.6,
-      "ret_pct": 8.24
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "HCLTECH",
@@ -257,8 +257,8 @@
       "score_at_open": 66.6,
       "peak": 1440.0,
       "status": "open",
-      "last": 1384.6,
-      "ret_pct": 11.38
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ULTRACEMCO",
@@ -309,8 +309,8 @@
       "score_at_open": 65.6,
       "peak": 11040.0,
       "status": "open",
-      "last": 10734.0,
-      "ret_pct": 7.16
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "COALINDIA",
@@ -322,8 +322,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 397.5,
-      "ret_pct": -3.44
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "NMDC",
@@ -335,8 +335,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 68.92,
-      "ret_pct": -4.01
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ADANIPOWER",
@@ -348,8 +348,8 @@
       "score_at_open": 67.2,
       "peak": 208.0,
       "status": "open",
-      "last": 205.29,
-      "ret_pct": 10.39
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "BRITANNIA",
@@ -400,8 +400,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": 253.0,
-      "ret_pct": 6.82
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "MUTHOOTFIN",
@@ -413,8 +413,8 @@
       "score_at_open": 77.4,
       "peak": 2932.9,
       "status": "open",
-      "last": 2777.0,
-      "ret_pct": 11.54
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "LODHA",
@@ -426,8 +426,8 @@
       "score_at_open": 71.2,
       "peak": 1226.0,
       "status": "open",
-      "last": 1226.0,
-      "ret_pct": 20.79
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SIEMENS",
@@ -465,8 +465,8 @@
       "score_at_open": 74.0,
       "peak": 1297.8,
       "status": "open",
-      "last": 1297.0,
-      "ret_pct": 9.0
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SBICARD",
@@ -517,8 +517,8 @@
       "score_at_open": 71.2,
       "peak": 5514.0,
       "status": "open",
-      "last": 5359.5,
-      "ret_pct": 4.99
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "BEL",
@@ -530,8 +530,8 @@
       "score_at_open": 69.8,
       "peak": 399.0,
       "status": "open",
-      "last": 399.0,
-      "ret_pct": 5.98
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "BOSCHLTD",
@@ -556,8 +556,8 @@
       "score_at_open": 67.6,
       "peak": 144.04,
       "status": "open",
-      "last": 144.03,
-      "ret_pct": -0.01
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "DIVISLAB",
@@ -569,8 +569,8 @@
       "score_at_open": 69.2,
       "peak": 11080.0,
       "status": "open",
-      "last": 11080.0,
-      "ret_pct": 0.0
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "PGHH",
