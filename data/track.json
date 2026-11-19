@@ -23,8 +23,8 @@
       "score_at_open": 72.3,
       "peak": 189.89,
       "status": "open",
-      "last": 183.93,
-      "ret_pct": 12.14
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "TCS",
@@ -36,8 +36,8 @@
       "score_at_open": 71.9,
       "peak": 2537.4,
       "status": "open",
-      "last": 2342.7,
-      "ret_pct": 12.52
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "INFY",
@@ -88,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": 224.52,
-      "ret_pct": -4.81
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "GAIL",
@@ -244,8 +244,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": 1336.8,
-      "ret_pct": 8.42
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "HCLTECH",
@@ -257,8 +257,8 @@
       "score_at_open": 66.6,
       "peak": 1440.0,
       "status": "open",
-      "last": 1332.9,
-      "ret_pct": 7.22
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ULTRACEMCO",
@@ -309,8 +309,8 @@
       "score_at_open": 65.6,
       "peak": 11040.0,
       "status": "open",
-      "last": 10817.0,
-      "ret_pct": 7.99
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "COALINDIA",
@@ -322,8 +322,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 391.5,
-      "ret_pct": -4.89
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "NMDC",
@@ -335,8 +335,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 68.2,
-      "ret_pct": -5.01
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "ADANIPOWER",
@@ -400,8 +400,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": 243.7,
-      "ret_pct": 2.89
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "MUTHOOTFIN",
@@ -413,8 +413,8 @@
       "score_at_open": 77.4,
       "peak": 2932.9,
       "status": "open",
-      "last": 2618.0,
-      "ret_pct": 5.15
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "LODHA",
@@ -465,8 +465,8 @@
       "score_at_open": 74.0,
       "peak": 1303.4,
       "status": "open",
-      "last": 1303.4,
-      "ret_pct": 9.54
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "SBICARD",
@@ -569,8 +569,8 @@
       "score_at_open": 69.2,
       "peak": 11178.0,
       "status": "open",
-      "last": 11178.0,
-      "ret_pct": 0.88
+      "last": NaN,
+      "ret_pct": NaN
     },
     {
       "sym": "PGHH",
