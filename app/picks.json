@@ -1,6 +1,6 @@
 {
-  "asof": "24 Nov 2026, 20:03 IST",
-  "generated_utc": "2026-11-24T14:35:36.404150+00:00",
+  "asof": "25 Nov 2026, 02:05 IST",
+  "generated_utc": "2026-11-24T20:37:36.768091+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -831,7 +831,7 @@
   ],
   "intra": [],
   "stats": {
-    "updated": "2026-11-24",
+    "updated": "2026-11-25",
     "open_count": 47,
     "closed_count": 17,
     "win_rate": 41.2,
