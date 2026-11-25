@@ -1,6 +1,6 @@
 {
-  "asof": "25 Nov 2026, 02:05 IST",
-  "generated_utc": "2026-11-24T20:37:36.768091+00:00",
+  "asof": "25 Nov 2026, 19:23 IST",
+  "generated_utc": "2026-11-25T13:55:07.234149+00:00",
   "health": {
     "ok": true,
     "notes": [
@@ -11,14 +11,14 @@
     {
       "sym": "COALINDIA",
       "name": "COAL INDIA LTD",
-      "score": 83.8,
+      "score": 82.4,
       "grade": [
         "Strong Buy",
         "buy"
       ],
-      "entry": 382.0,
-      "exit": 466.04,
-      "stop": 343.8,
+      "entry": 385.0,
+      "exit": 469.7,
+      "stop": 346.5,
       "hold": "18\u201336 months \u00b7 value + quality",
       "factors": [
         [
@@ -35,7 +35,7 @@
         ],
         [
           "Bollinger",
-          9
+          7
         ],
         [
           "Support",
@@ -43,7 +43,7 @@
         ],
         [
           "Stoch",
-          8
+          10
         ]
       ],
       "verify": "verified",
@@ -57,9 +57,9 @@
         "Accumulate",
         "acc"
       ],
-      "entry": 67.4,
-      "exit": 82.23,
-      "stop": 60.66,
+      "entry": 66.69,
+      "exit": 81.36,
+      "stop": 60.02,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -76,7 +76,48 @@
         ],
         [
           "Bollinger",
-          7
+          9
+        ],
+        [
+          "Support",
+          9
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "VEDL",
+      "name": "VEDANTA LIMITED",
+      "score": 77.4,
+      "grade": [
+        "Accumulate",
+        "acc"
+      ],
+      "entry": 232.8,
+      "exit": 284.02,
+      "stop": 209.52,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          10
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          10
+        ],
+        [
+          "Bollinger",
+          9
         ],
         [
           "Support",
@@ -98,9 +139,9 @@
         "Accumulate",
         "acc"
       ],
-      "entry": 2543.3,
-      "exit": 3102.83,
-      "stop": 2288.97,
+      "entry": 2549.6,
+      "exit": 3110.51,
+      "stop": 2294.64,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -126,88 +167,6 @@
         [
           "Stoch",
           8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "VEDL",
-      "name": "VEDANTA LIMITED",
-      "score": 73.4,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 235.53,
-      "exit": 287.35,
-      "stop": 211.98,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          7
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "TCS",
-      "name": "TATA CONSULTANCY SERV LT",
-      "score": 70.7,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 2460.0,
-      "exit": 3001.2,
-      "stop": 2214.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          6
-        ],
-        [
-          "Earn CAGR",
-          8
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          5
         ]
       ],
       "verify": "verified",
@@ -216,14 +175,14 @@
     {
       "sym": "BAJAJ-AUTO",
       "name": "BAJAJ AUTO LIMITED",
-      "score": 70.6,
+      "score": 71.2,
       "grade": [
         "Accumulate",
         "acc"
       ],
-      "entry": 10643.0,
-      "exit": 12984.46,
-      "stop": 9578.7,
+      "entry": 10868.0,
+      "exit": 13258.96,
+      "stop": 9781.2,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -240,72 +199,31 @@
         ],
         [
           "Bollinger",
-          5
+          4
         ],
         [
           "Support",
+          5
+        ],
+        [
+          "Stoch",
           7
-        ],
-        [
-          "Stoch",
-          5
         ]
       ],
       "verify": "verified",
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "GAIL",
-      "name": "GAIL (INDIA) LTD",
-      "score": 70.0,
+      "sym": "JSWSTEEL",
+      "name": "JSW STEEL LIMITED",
+      "score": 69.8,
       "grade": [
         "Accumulate",
         "acc"
       ],
-      "entry": 185.6,
-      "exit": 226.43,
-      "stop": 167.04,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          5
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          4
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "INFY",
-      "name": "INFOSYS LIMITED",
-      "score": 69.5,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1103.4,
-      "exit": 1346.15,
-      "stop": 993.06,
+      "entry": 1302.5,
+      "exit": 1589.05,
+      "stop": 1172.25,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -318,11 +236,11 @@
         ],
         [
           "Earn CAGR",
-          2
+          10
         ],
         [
           "Bollinger",
-          10
+          5
         ],
         [
           "Support",
@@ -344,9 +262,9 @@
         "Accumulate",
         "acc"
       ],
-      "entry": 207.9,
-      "exit": 253.64,
-      "stop": 187.11,
+      "entry": 206.0,
+      "exit": 251.32,
+      "stop": 185.4,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -378,107 +296,25 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "IOC",
-      "name": "INDIAN OIL CORP LTD",
-      "score": 67.6,
+      "sym": "GAIL",
+      "name": "GAIL (INDIA) LTD",
+      "score": 68.0,
       "grade": [
         "Accumulate",
         "acc"
       ],
-      "entry": 145.0,
-      "exit": 176.9,
-      "stop": 130.5,
+      "entry": 187.5,
+      "exit": 228.75,
+      "stop": 168.75,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
           "ROE",
-          10
+          5
         ],
         [
           "Valuation",
           10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          4
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "JSWSTEEL",
-      "name": "JSW STEEL LIMITED",
-      "score": 67.4,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1311.9,
-      "exit": 1600.52,
-      "stop": 1180.71,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          10
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          5
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "DIVISLAB",
-      "name": "DIVI S LABORATORIES LTD",
-      "score": 67.2,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 11203.0,
-      "exit": 13667.66,
-      "stop": 10082.7,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          1
         ],
         [
           "Earn CAGR",
@@ -491,129 +327,6 @@
         [
           "Support",
           2
-        ],
-        [
-          "Stoch",
-          5
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "BOSCHLTD",
-      "name": "BOSCH LIMITED",
-      "score": 66.6,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 48800.0,
-      "exit": 59536.0,
-      "stop": 43920.0,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          1
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          5
-        ],
-        [
-          "Support",
-          4
-        ],
-        [
-          "Stoch",
-          8
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "NESTLEIND",
-      "name": "NESTLE INDIA LIMITED",
-      "score": 66.2,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1305.9,
-      "exit": 1593.2,
-      "stop": 1175.31,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          1
-        ],
-        [
-          "Earn CAGR",
-          10
-        ],
-        [
-          "Bollinger",
-          4
-        ],
-        [
-          "Support",
-          5
-        ],
-        [
-          "Stoch",
-          2
-        ]
-      ],
-      "verify": "verified",
-      "verify_note": "price agrees (\u00b10.0%)"
-    },
-    {
-      "sym": "HCLTECH",
-      "name": "HCL TECHNOLOGIES LTD",
-      "score": 66.1,
-      "grade": [
-        "Accumulate",
-        "acc"
-      ],
-      "entry": 1364.3,
-      "exit": 1664.45,
-      "stop": 1227.87,
-      "hold": "12\u201324 months \u00b7 accumulate on dips",
-      "factors": [
-        [
-          "ROE",
-          10
-        ],
-        [
-          "Valuation",
-          6
-        ],
-        [
-          "Earn CAGR",
-          5
-        ],
-        [
-          "Bollinger",
-          7
-        ],
-        [
-          "Support",
-          4
         ],
         [
           "Stoch",
@@ -626,14 +339,14 @@
     {
       "sym": "IRCTC",
       "name": "INDIAN RAIL TOUR CORP LTD",
-      "score": 65.9,
+      "score": 67.9,
       "grade": [
         "Accumulate",
         "acc"
       ],
-      "entry": 447.2,
-      "exit": 545.58,
-      "stop": 402.48,
+      "entry": 441.85,
+      "exit": 539.06,
+      "stop": 397.67,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -654,7 +367,7 @@
         ],
         [
           "Support",
-          7
+          9
         ],
         [
           "Stoch",
@@ -665,16 +378,57 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "BEL",
-      "name": "BHARAT ELECTRONICS LTD",
-      "score": 65.8,
+      "sym": "HCLTECH",
+      "name": "HCL TECHNOLOGIES LTD",
+      "score": 67.1,
       "grade": [
         "Accumulate",
         "acc"
       ],
-      "entry": 395.8,
-      "exit": 482.88,
-      "stop": 356.22,
+      "entry": 1380.0,
+      "exit": 1683.6,
+      "stop": 1242.0,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          10
+        ],
+        [
+          "Valuation",
+          6
+        ],
+        [
+          "Earn CAGR",
+          5
+        ],
+        [
+          "Bollinger",
+          7
+        ],
+        [
+          "Support",
+          4
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "NESTLEIND",
+      "name": "NESTLE INDIA LIMITED",
+      "score": 66.2,
+      "grade": [
+        "Accumulate",
+        "acc"
+      ],
+      "entry": 1358.5,
+      "exit": 1657.37,
+      "stop": 1222.65,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -687,7 +441,89 @@
         ],
         [
           "Earn CAGR",
-          8
+          10
+        ],
+        [
+          "Bollinger",
+          2
+        ],
+        [
+          "Support",
+          5
+        ],
+        [
+          "Stoch",
+          2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "ONGC",
+      "name": "OIL AND NATURAL GAS CORP.",
+      "score": 66.0,
+      "grade": [
+        "Accumulate",
+        "acc"
+      ],
+      "entry": 222.0,
+      "exit": 270.84,
+      "stop": 199.8,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          5
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          10
+        ],
+        [
+          "Bollinger",
+          7
+        ],
+        [
+          "Support",
+          5
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "IOC",
+      "name": "INDIAN OIL CORP LTD",
+      "score": 65.6,
+      "grade": [
+        "Accumulate",
+        "acc"
+      ],
+      "entry": 147.79,
+      "exit": 180.3,
+      "stop": 133.01,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          10
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          10
         ],
         [
           "Bollinger",
@@ -695,7 +531,7 @@
         ],
         [
           "Support",
-          4
+          2
         ],
         [
           "Stoch",
@@ -713,9 +549,9 @@
         "Hold",
         "hold"
       ],
-      "entry": 187.29,
-      "exit": 228.49,
-      "stop": 168.56,
+      "entry": 189.05,
+      "exit": 230.64,
+      "stop": 170.15,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -747,16 +583,16 @@
       "verify_note": "price agrees (\u00b10.0%)"
     },
     {
-      "sym": "HEROMOTOCO",
-      "name": "HERO MOTOCORP LIMITED",
+      "sym": "DIVISLAB",
+      "name": "DIVI S LABORATORIES LTD",
       "score": 64.8,
       "grade": [
         "Hold",
         "hold"
       ],
-      "entry": 5535.0,
-      "exit": 6752.7,
-      "stop": 4981.5,
+      "entry": 11716.5,
+      "exit": 14294.13,
+      "stop": 10544.85,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -765,7 +601,7 @@
         ],
         [
           "Valuation",
-          6
+          1
         ],
         [
           "Earn CAGR",
@@ -777,7 +613,7 @@
         ],
         [
           "Support",
-          4
+          2
         ],
         [
           "Stoch",
@@ -795,9 +631,9 @@
         "Hold",
         "hold"
       ],
-      "entry": 1219.0,
-      "exit": 1487.18,
-      "stop": 1097.1,
+      "entry": 1202.0,
+      "exit": 1466.44,
+      "stop": 1081.8,
       "hold": "12\u201324 months \u00b7 accumulate on dips",
       "factors": [
         [
@@ -823,6 +659,170 @@
         [
           "Stoch",
           2
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "SRF",
+      "name": "SRF LTD",
+      "score": 64.6,
+      "grade": [
+        "Hold",
+        "hold"
+      ],
+      "entry": 2516.0,
+      "exit": 3069.52,
+      "stop": 2264.4,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          8
+        ],
+        [
+          "Valuation",
+          3
+        ],
+        [
+          "Earn CAGR",
+          10
+        ],
+        [
+          "Bollinger",
+          4
+        ],
+        [
+          "Support",
+          4
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "PNB",
+      "name": "PUNJAB NATIONAL BANK",
+      "score": 64.2,
+      "grade": [
+        "Hold",
+        "hold"
+      ],
+      "entry": 148.61,
+      "exit": 181.3,
+      "stop": 133.75,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          8
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          8
+        ],
+        [
+          "Bollinger",
+          4
+        ],
+        [
+          "Support",
+          2
+        ],
+        [
+          "Stoch",
+          5
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "HINDALCO",
+      "name": "HINDALCO  INDUSTRIES  LTD",
+      "score": 64.0,
+      "grade": [
+        "Hold",
+        "hold"
+      ],
+      "entry": 889.9,
+      "exit": 1085.68,
+      "stop": 800.91,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          5
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          10
+        ],
+        [
+          "Bollinger",
+          7
+        ],
+        [
+          "Support",
+          9
+        ],
+        [
+          "Stoch",
+          8
+        ]
+      ],
+      "verify": "verified",
+      "verify_note": "price agrees (\u00b10.0%)"
+    },
+    {
+      "sym": "INDUSTOWER",
+      "name": "INDUS TOWERS LIMITED",
+      "score": 63.4,
+      "grade": [
+        "Hold",
+        "hold"
+      ],
+      "entry": 381.8,
+      "exit": 465.8,
+      "stop": 343.62,
+      "hold": "12\u201324 months \u00b7 accumulate on dips",
+      "factors": [
+        [
+          "ROE",
+          8
+        ],
+        [
+          "Valuation",
+          10
+        ],
+        [
+          "Earn CAGR",
+          2
+        ],
+        [
+          "Bollinger",
+          7
+        ],
+        [
+          "Support",
+          5
+        ],
+        [
+          "Stoch",
+          8
         ]
       ],
       "verify": "verified",
@@ -870,8 +870,8 @@
       "score_at_open": 72.3,
       "peak": 189.89,
       "status": "open",
-      "last": 187.29,
-      "ret_pct": 14.19
+      "last": 189.05,
+      "ret_pct": 15.26
     },
     {
       "sym": "TCS",
@@ -935,8 +935,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 222.0,
+      "ret_pct": -5.88
     },
     {
       "sym": "GAIL",
@@ -948,8 +948,8 @@
       "score_at_open": 70.6,
       "peak": 191.44,
       "status": "open",
-      "last": 185.6,
-      "ret_pct": 7.47
+      "last": 187.5,
+      "ret_pct": 8.57
     },
     {
       "sym": "SUNPHARMA",
@@ -974,8 +974,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 383.55,
-      "ret_pct": 2.38
+      "last": 381.8,
+      "ret_pct": 1.91
     },
     {
       "sym": "CANBK",
@@ -1063,10 +1063,10 @@
       "target": 2952.52,
       "stop": 2178.09,
       "score_at_open": 67.0,
-      "peak": 2499.7,
+      "peak": 2516.0,
       "status": "open",
-      "last": 2477.0,
-      "ret_pct": 2.35
+      "last": 2516.0,
+      "ret_pct": 3.96
     },
     {
       "sym": "CHOLAFIN",
@@ -1091,8 +1091,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": 1311.9,
-      "ret_pct": 6.4
+      "last": 1302.5,
+      "ret_pct": 5.64
     },
     {
       "sym": "HCLTECH",
@@ -1104,8 +1104,8 @@
       "score_at_open": 66.6,
       "peak": 1440.0,
       "status": "open",
-      "last": 1364.3,
-      "ret_pct": 9.75
+      "last": 1380.0,
+      "ret_pct": 11.01
     },
     {
       "sym": "ULTRACEMCO",
@@ -1156,8 +1156,8 @@
       "score_at_open": 65.6,
       "peak": 11040.0,
       "status": "open",
-      "last": 10643.0,
-      "ret_pct": 6.25
+      "last": 10868.0,
+      "ret_pct": 8.5
     },
     {
       "sym": "COALINDIA",
@@ -1169,8 +1169,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": 382.0,
-      "ret_pct": -7.2
+      "last": 385.0,
+      "ret_pct": -6.47
     },
     {
       "sym": "NMDC",
@@ -1182,8 +1182,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": 67.4,
-      "ret_pct": -6.13
+      "last": 66.69,
+      "ret_pct": -7.12
     },
     {
       "sym": "ADANIPOWER",
@@ -1195,8 +1195,8 @@
       "score_at_open": 67.2,
       "peak": 208.0,
       "status": "open",
-      "last": 207.9,
-      "ret_pct": 11.8
+      "last": 206.0,
+      "ret_pct": 10.78
     },
     {
       "sym": "BRITANNIA",
@@ -1247,8 +1247,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": 235.53,
-      "ret_pct": -0.56
+      "last": 232.8,
+      "ret_pct": -1.71
     },
     {
       "sym": "MUTHOOTFIN",
@@ -1260,8 +1260,8 @@
       "score_at_open": 77.4,
       "peak": 2932.9,
       "status": "open",
-      "last": 2543.3,
-      "ret_pct": 2.15
+      "last": 2549.6,
+      "ret_pct": 2.4
     },
     {
       "sym": "LODHA",
@@ -1273,8 +1273,8 @@
       "score_at_open": 71.2,
       "peak": 1226.0,
       "status": "open",
-      "last": 1219.0,
-      "ret_pct": 20.1
+      "last": 1202.0,
+      "ret_pct": 18.42
     },
     {
       "sym": "SIEMENS",
@@ -1310,10 +1310,10 @@
       "target": 1451.68,
       "stop": 1070.91,
       "score_at_open": 74.0,
-      "peak": 1325.0,
+      "peak": 1358.5,
       "status": "open",
-      "last": 1305.9,
-      "ret_pct": 9.75
+      "last": 1358.5,
+      "ret_pct": 14.17
     },
     {
       "sym": "SBICARD",
@@ -1401,10 +1401,10 @@
       "target": 175.73,
       "stop": 129.64,
       "score_at_open": 67.6,
-      "peak": 145.56,
+      "peak": 147.79,
       "status": "open",
-      "last": 145.0,
-      "ret_pct": 0.67
+      "last": 147.79,
+      "ret_pct": 2.6
     },
     {
       "sym": "DIVISLAB",
@@ -1414,10 +1414,10 @@
       "target": 13517.6,
       "stop": 9972.0,
       "score_at_open": 69.2,
-      "peak": 11203.0,
+      "peak": 11716.5,
       "status": "open",
-      "last": 11203.0,
-      "ret_pct": 1.11
+      "last": 11716.5,
+      "ret_pct": 5.74
     },
     {
       "sym": "PGHH",
@@ -1442,8 +1442,8 @@
       "score_at_open": 65.9,
       "peak": 449.9,
       "status": "open",
-      "last": 447.2,
-      "ret_pct": -0.48
+      "last": 441.85,
+      "ret_pct": -1.67
     },
     {
       "sym": "TECHM",
