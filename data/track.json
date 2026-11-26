@@ -27,19 +27,6 @@
       "ret_pct": NaN
     },
     {
-      "sym": "TCS",
-      "kind": "long",
-      "opened": "2026-09-27",
-      "entry": 2082.0,
-      "target": 2540.04,
-      "stop": 1873.8,
-      "score_at_open": 71.9,
-      "peak": 2537.4,
-      "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
-    },
-    {
       "sym": "INFY",
       "kind": "long",
       "opened": "2026-09-27",
@@ -60,10 +47,10 @@
       "target": 168.29,
       "stop": 124.15,
       "score_at_open": 70.9,
-      "peak": 137.94,
+      "peak": 160.29,
       "status": "open",
-      "last": 133.9,
-      "ret_pct": -2.93
+      "last": 160.29,
+      "ret_pct": 16.2
     },
     {
       "sym": "EICHERMOT",
@@ -88,8 +75,8 @@
       "score_at_open": 70.6,
       "peak": 235.86,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 222.88,
+      "ret_pct": -5.5
     },
     {
       "sym": "GAIL",
@@ -101,8 +88,8 @@
       "score_at_open": 70.6,
       "peak": 191.44,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 188.0,
+      "ret_pct": 8.86
     },
     {
       "sym": "SUNPHARMA",
@@ -127,8 +114,8 @@
       "score_at_open": 67.4,
       "peak": 391.2,
       "status": "open",
-      "last": 381.8,
-      "ret_pct": 1.91
+      "last": 379.0,
+      "ret_pct": 1.16
     },
     {
       "sym": "CANBK",
@@ -216,10 +203,10 @@
       "target": 2952.52,
       "stop": 2178.09,
       "score_at_open": 67.0,
-      "peak": 2516.0,
+      "peak": 2516.4,
       "status": "open",
-      "last": 2516.0,
-      "ret_pct": 3.96
+      "last": 2516.4,
+      "ret_pct": 3.98
     },
     {
       "sym": "CHOLAFIN",
@@ -244,8 +231,8 @@
       "score_at_open": 71.4,
       "peak": 1357.1,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 1303.0,
+      "ret_pct": 5.68
     },
     {
       "sym": "HCLTECH",
@@ -309,8 +296,8 @@
       "score_at_open": 65.6,
       "peak": 11040.0,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 10850.0,
+      "ret_pct": 8.32
     },
     {
       "sym": "COALINDIA",
@@ -322,8 +309,8 @@
       "score_at_open": 65.3,
       "peak": 411.65,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 388.9,
+      "ret_pct": -5.53
     },
     {
       "sym": "NMDC",
@@ -335,8 +322,8 @@
       "score_at_open": 71.5,
       "peak": 71.8,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 67.24,
+      "ret_pct": -6.35
     },
     {
       "sym": "ADANIPOWER",
@@ -346,10 +333,10 @@
       "target": 226.87,
       "stop": 167.36,
       "score_at_open": 67.2,
-      "peak": 208.0,
+      "peak": 208.3,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 208.3,
+      "ret_pct": 12.01
     },
     {
       "sym": "BRITANNIA",
@@ -400,8 +387,8 @@
       "score_at_open": 78.6,
       "peak": 263.88,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 238.0,
+      "ret_pct": 0.49
     },
     {
       "sym": "MUTHOOTFIN",
@@ -413,8 +400,8 @@
       "score_at_open": 77.4,
       "peak": 2932.9,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 2558.0,
+      "ret_pct": 2.74
     },
     {
       "sym": "LODHA",
@@ -465,8 +452,8 @@
       "score_at_open": 74.0,
       "peak": 1358.5,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 1320.3,
+      "ret_pct": 10.96
     },
     {
       "sym": "SBICARD",
@@ -528,10 +515,10 @@
       "target": 459.33,
       "stop": 338.85,
       "score_at_open": 69.8,
-      "peak": 399.0,
+      "peak": 404.5,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 404.5,
+      "ret_pct": 7.44
     },
     {
       "sym": "BOSCHLTD",
@@ -543,8 +530,8 @@
       "score_at_open": 65.2,
       "peak": 50500.0,
       "status": "open",
-      "last": 48800.0,
-      "ret_pct": -1.51
+      "last": 48830.0,
+      "ret_pct": -1.45
     },
     {
       "sym": "IOC",
@@ -556,8 +543,8 @@
       "score_at_open": 67.6,
       "peak": 147.79,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 144.42,
+      "ret_pct": 0.26
     },
     {
       "sym": "DIVISLAB",
@@ -569,8 +556,8 @@
       "score_at_open": 69.2,
       "peak": 11716.5,
       "status": "open",
-      "last": NaN,
-      "ret_pct": NaN
+      "last": 11631.0,
+      "ret_pct": 4.97
     },
     {
       "sym": "PGHH",
@@ -593,10 +580,10 @@
       "target": 548.21,
       "stop": 404.42,
       "score_at_open": 65.9,
-      "peak": 449.9,
+      "peak": 454.2,
       "status": "open",
-      "last": 441.85,
-      "ret_pct": -1.67
+      "last": 454.2,
+      "ret_pct": 1.08
     },
     {
       "sym": "TECHM",
@@ -867,6 +854,21 @@
       "ret_pct": 25.92,
       "closed": "2026-11-12",
       "final_ret_pct": 25.92
+    },
+    {
+      "sym": "TCS",
+      "kind": "long",
+      "opened": "2026-09-27",
+      "entry": 2082.0,
+      "target": 2540.04,
+      "stop": 1873.8,
+      "score_at_open": 71.9,
+      "peak": 2640.3,
+      "status": "target",
+      "last": 2640.3,
+      "ret_pct": 26.82,
+      "closed": "2026-11-26",
+      "final_ret_pct": 26.82
     }
   ]
 }

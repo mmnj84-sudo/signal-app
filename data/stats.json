@@ -1,15 +1,15 @@
 {
   "updated": "2026-11-26",
-  "open_count": 47,
-  "closed_count": 17,
-  "win_rate": 41.2,
-  "avg_return": -0.69,
-  "avg_win": 7.67,
+  "open_count": 46,
+  "closed_count": 18,
+  "win_rate": 44.4,
+  "avg_return": 0.84,
+  "avg_win": 10.07,
   "avg_loss": -6.54,
-  "best": 25.92,
+  "best": 26.82,
   "worst": -12.18,
   "by_reason": {
-    "target": 3,
+    "target": 4,
     "stop": 6,
     "max-hold": 8
   }
